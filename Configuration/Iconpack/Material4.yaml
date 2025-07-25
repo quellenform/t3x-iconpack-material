@@ -1,0 +1,93 @@
+iconpack:
+  title: "Material Icons"
+  key: "mi"
+  version: 4.0.0
+  url: "https://github.com/google/material-design-icons"
+
+  stylesEnabled: "filled,outlined,round,sharp,twotone"
+
+  renderTypes:
+    _default:
+      _default:
+        prefix: "mi-"
+      filled:
+        label: "Filled"
+        attributes:
+          class: "mif"
+      outlined:
+        label: "Outlined"
+        attributes:
+          class: "mio"
+      round:
+        label: "Round"
+        attributes:
+          class: "mir"
+      sharp:
+        label: "Sharp"
+        attributes:
+          class: "mis"
+      twotone:
+        label: "Two Tone"
+        attributes:
+          class: "mit"
+
+    webfont:
+      _default:
+        css:
+          shared: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/css/materialicons.css"
+      filled:
+        css: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/css/materialiconsfilled.css"
+      outlined:
+        css: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/css/materialiconsoutlined.css"
+      round:
+        css: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/css/materialiconsround.css"
+      sharp:
+        css: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/css/materialiconssharp.css"
+      twotone:
+        css: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/css/materialiconstwotone.css"
+
+    svg:
+      filled:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/filled/"
+      outlined:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/outlined/"
+      round:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/round/"
+      sharp:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/sharp/"
+      twotone:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/twotone/"
+
+    svgSprite:
+      _default:
+        attributes:
+          fill: "currentColor"
+      filled:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/sprites/materialiconsfilled.svg"
+      outlined:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/sprites/materialiconsoutlined.svg"
+      round:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/sprites/materialiconsround.svg"
+      sharp:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/sprites/materialiconssharp.svg"
+      twotone:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/sprites/materialiconstwotone.svg"
+
+    svgInline:
+      _default:
+        attributes:
+          fill: "currentColor"
+      filled:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/filled/"
+      outlined:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/outlined/"
+      round:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/round/"
+      sharp:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/sharp/"
+      twotone:
+        source: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/svgs/twotone/"
+
+  categories: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/metadata/categories.yml"
+
+  icons: "EXT:iconpack_material/Resources/Public/Vendor/material-4.0.0/metadata/icons.yml"

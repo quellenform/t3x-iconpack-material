@@ -1,0 +1,75 @@
+@use "icons";
+
+// Variables
+// --------------------------
+$mi-css-prefix : mi !default;
+
+// Material Icons core compile (Web Fonts-based)
+// -------------------------
+.#{$mi-css-prefix} {
+  font-family: var(--#{$mi-css-prefix}-style-family, "Material Icons");
+  font-weight: var(--#{$mi-css-prefix}-style, 400);
+}
+
+.#{$mi-css-prefix}f,
+.#{$mi-css-prefix}o,
+.#{$mi-css-prefix}r,
+.#{$mi-css-prefix}s,
+.#{$mi-css-prefix}t,
+.#{$mi-css-prefix}-filled,
+.#{$mi-css-prefix}-outlined,
+.#{$mi-css-prefix}-round,
+.#{$mi-css-prefix}-sharp,
+.#{$mi-css-prefix}-twotone,
+.#{$mi-css-prefix} {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: var(--#{$mi-css-prefix}-display, inline-block);
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+}
+
+.#{$mi-css-prefix}f::before,
+.#{$mi-css-prefix}o::before,
+.#{$mi-css-prefix}r::before,
+.#{$mi-css-prefix}s::before,
+.#{$mi-css-prefix}t::before,
+.#{$mi-css-prefix}-filled::before,
+.#{$mi-css-prefix}-outlined::before,
+.#{$mi-css-prefix}-round::before,
+.#{$mi-css-prefix}-sharp::before,
+.#{$mi-css-prefix}-twotone::before,
+.#{$mi-css-prefix}::before {
+  content: var(--#{$mi-css-prefix});
+}
+
+.#{$mi-css-prefix}-filled,
+.#{$mi-css-prefix}f {
+  font-family: "Material Icons";
+}
+.#{$mi-css-prefix}-outlined,
+.#{$mi-css-prefix}o {
+  font-family: "Material Icons Outlined";
+}
+.#{$mi-css-prefix}-round,
+.#{$mi-css-prefix}r {
+  font-family: "Material Icons Round";
+}
+.#{$mi-css-prefix}-sharp,
+.#{$mi-css-prefix}s {
+  font-family: "Material Icons Sharp";
+}
+.#{$mi-css-prefix}-twotone,
+.#{$mi-css-prefix}t {
+  font-family: "Material Icons Two Tone";
+}
+
+// Icons
+// -------------------------
+@each $name, $icon in icons.$mi-icons {
+  .#{$mi-css-prefix}-#{$name} {
+    --mi: "#{$icon}";
+  }
+}
