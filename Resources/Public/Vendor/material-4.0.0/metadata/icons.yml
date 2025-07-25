@@ -1,0 +1,4418 @@
+'123':
+    styles: [filled, outlined, round, sharp, twotone]
+'360':
+    styles: [filled, outlined, round, sharp, twotone]
+3d-rotation:
+    styles: [filled, outlined, round, sharp, twotone]
+abc:
+    styles: [filled, outlined, round, sharp, twotone]
+accessibility-new:
+    styles: [filled, outlined, round, sharp, twotone]
+accessibility:
+    styles: [filled, outlined, round, sharp, twotone]
+accessible-forward:
+    styles: [filled, outlined, round, sharp, twotone]
+accessible:
+    styles: [filled, outlined, round, sharp, twotone]
+account-balance-wallet:
+    styles: [filled, outlined, round, sharp, twotone]
+account-balance:
+    styles: [filled, outlined, round, sharp, twotone]
+account-box:
+    styles: [filled, outlined, round, sharp, twotone]
+account-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+add-card:
+    styles: [filled, outlined, round, sharp, twotone]
+add-home:
+    styles: [filled, outlined, round, sharp, twotone]
+add-shopping-cart:
+    styles: [filled, outlined, round, sharp, twotone]
+add-task:
+    styles: [filled, outlined, round, sharp, twotone]
+add-to-drive:
+    styles: [filled, outlined, round, sharp, twotone]
+addchart:
+    styles: [filled, outlined, round, sharp, twotone]
+admin-panel-settings:
+    styles: [filled, outlined, round, sharp, twotone]
+ads-click:
+    styles: [filled, outlined, round, sharp, twotone]
+alarm-add:
+    styles: [filled, outlined, round, sharp, twotone]
+alarm-off:
+    styles: [filled, outlined, round, sharp, twotone]
+alarm-on:
+    styles: [filled, outlined, round, sharp, twotone]
+alarm:
+    styles: [filled, outlined, round, sharp, twotone]
+all-inbox:
+    styles: [filled, outlined, round, sharp, twotone]
+all-out:
+    styles: [filled, outlined, round, sharp, twotone]
+analytics:
+    styles: [filled, outlined, round, sharp, twotone]
+anchor:
+    styles: [filled, outlined, round, sharp, twotone]
+android:
+    styles: [filled, outlined, round, sharp, twotone]
+announcement:
+    styles: [filled, outlined, round, sharp, twotone]
+api:
+    styles: [filled, outlined, round, sharp, twotone]
+app-blocking:
+    styles: [filled, outlined, round, sharp, twotone]
+app-shortcut:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-circle-down:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-circle-left:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-circle-right:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-circle-up:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-outward:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-right-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+article:
+    styles: [filled, outlined, round, sharp, twotone]
+aspect-ratio:
+    styles: [filled, outlined, round, sharp, twotone]
+assessment:
+    styles: [filled, outlined, round, sharp, twotone]
+assignment-add:
+    styles: [filled]
+assignment-ind:
+    styles: [filled, outlined, round, sharp, twotone]
+assignment-late:
+    styles: [filled, outlined, round, sharp, twotone]
+assignment-return:
+    styles: [filled, outlined, round, sharp, twotone]
+assignment-returned:
+    styles: [filled, outlined, round, sharp, twotone]
+assignment-turned-in:
+    styles: [filled, outlined, round, sharp, twotone]
+assignment:
+    styles: [filled, outlined, round, sharp, twotone]
+assured-workload:
+    styles: [filled, outlined, round, sharp, twotone]
+autorenew:
+    styles: [filled, outlined, round, sharp, twotone]
+backup-table:
+    styles: [filled, outlined, round, sharp, twotone]
+backup:
+    styles: [filled, outlined, round, sharp, twotone]
+balance:
+    styles: [filled, outlined, round, sharp, twotone]
+barcode-reader:
+    styles: [filled]
+batch-prediction:
+    styles: [filled, outlined, round, sharp, twotone]
+book-online:
+    styles: [filled, outlined, round, sharp, twotone]
+book:
+    styles: [filled, outlined, round, sharp, twotone]
+bookmark-add:
+    styles: [filled, outlined, round, sharp, twotone]
+bookmark-added:
+    styles: [filled, outlined, round, sharp, twotone]
+bookmark-border:
+    styles: [filled, outlined, round, sharp, twotone]
+bookmark-remove:
+    styles: [filled, outlined, round, sharp, twotone]
+bookmark:
+    styles: [filled, outlined, round, sharp, twotone]
+bookmarks:
+    styles: [filled, outlined, round, sharp, twotone]
+browse-gallery:
+    styles: [filled, outlined, round, sharp, twotone]
+bug-report:
+    styles: [filled, outlined, round, sharp, twotone]
+build-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+build:
+    styles: [filled, outlined, round, sharp, twotone]
+cached:
+    styles: [filled, outlined, round, sharp, twotone]
+calendar-month:
+    styles: [filled, outlined, round, sharp, twotone]
+calendar-today:
+    styles: [filled, outlined, round, sharp, twotone]
+calendar-view-day:
+    styles: [filled, outlined, round, sharp, twotone]
+calendar-view-month:
+    styles: [filled, outlined, round, sharp, twotone]
+calendar-view-week:
+    styles: [filled, outlined, round, sharp, twotone]
+camera-enhance:
+    styles: [filled, outlined, round, sharp, twotone]
+cancel-schedule-send:
+    styles: [filled, outlined, round, sharp, twotone]
+card-giftcard:
+    styles: [filled, outlined, round, sharp, twotone]
+card-membership:
+    styles: [filled, outlined, round, sharp, twotone]
+card-travel:
+    styles: [filled, outlined, round, sharp, twotone]
+change-history:
+    styles: [filled, outlined, round, sharp, twotone]
+check-circle-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+check-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+chrome-reader-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+circle-notifications:
+    styles: [filled, outlined, round, sharp, twotone]
+class:
+    styles: [filled, outlined, round, sharp, twotone]
+close-fullscreen:
+    styles: [filled, outlined, round, sharp, twotone]
+code-off:
+    styles: [filled, outlined, round, sharp, twotone]
+code:
+    styles: [filled, outlined, round, sharp, twotone]
+comment-bank:
+    styles: [filled, outlined, round, sharp, twotone]
+commit:
+    styles: [filled, outlined, round, sharp, twotone]
+commute:
+    styles: [filled, outlined, round, sharp, twotone]
+compare-arrows:
+    styles: [filled, outlined, round, sharp, twotone]
+compress:
+    styles: [filled, outlined, round, sharp, twotone]
+contact-page:
+    styles: [filled, outlined, round, sharp, twotone]
+contact-support:
+    styles: [filled, outlined, round, sharp, twotone]
+contactless:
+    styles: [filled, outlined, round, sharp, twotone]
+copyright:
+    styles: [filled, outlined, round, sharp, twotone]
+credit-card-off:
+    styles: [filled, outlined, round, sharp, twotone]
+credit-card:
+    styles: [filled, outlined, round, sharp, twotone]
+css:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-exchange:
+    styles: [filled, outlined, round, sharp, twotone]
+dangerous:
+    styles: [filled, outlined, round, sharp, twotone]
+dashboard-customize:
+    styles: [filled, outlined, round, sharp, twotone]
+dashboard:
+    styles: [filled, outlined, round, sharp, twotone]
+data-exploration:
+    styles: [filled, outlined, round, sharp, twotone]
+data-thresholding:
+    styles: [filled, outlined, round, sharp, twotone]
+date-range:
+    styles: [filled, outlined, round, sharp, twotone]
+delete-forever:
+    styles: [filled, outlined, round, sharp, twotone]
+delete-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+delete:
+    styles: [filled, outlined, round, sharp, twotone]
+density-large:
+    styles: [filled, outlined, round, sharp, twotone]
+density-medium:
+    styles: [filled, outlined, round, sharp, twotone]
+density-small:
+    styles: [filled, outlined, round, sharp, twotone]
+description:
+    styles: [filled, outlined, round, sharp, twotone]
+disabled-by-default:
+    styles: [filled, outlined, round, sharp, twotone]
+disabled-visible:
+    styles: [filled, outlined, round, sharp, twotone]
+display-settings:
+    styles: [filled, outlined, round, sharp, twotone]
+dns:
+    styles: [filled, outlined, round, sharp, twotone]
+done-all:
+    styles: [filled, outlined, round, sharp, twotone]
+done-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+done:
+    styles: [filled, outlined, round, sharp, twotone]
+donut-large:
+    styles: [filled, outlined, round, sharp, twotone]
+donut-small:
+    styles: [filled, outlined, round, sharp, twotone]
+drag-indicator:
+    styles: [filled, outlined, round, sharp, twotone]
+dynamic-form:
+    styles: [filled, outlined, round, sharp, twotone]
+eco:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-calendar:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-document:
+    styles: [filled]
+edit-off:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-square:
+    styles: [filled]
+eject:
+    styles: [filled, outlined, round, sharp, twotone]
+euro-symbol:
+    styles: [filled, outlined, round, sharp, twotone]
+event-repeat:
+    styles: [filled, outlined, round, sharp, twotone]
+event-seat:
+    styles: [filled, outlined, round, sharp, twotone]
+event:
+    styles: [filled, outlined, round, sharp, twotone]
+exit-to-app:
+    styles: [filled, outlined, round, sharp, twotone]
+expand:
+    styles: [filled, outlined, round, sharp, twotone]
+explore-off:
+    styles: [filled, outlined, round, sharp, twotone]
+explore:
+    styles: [filled, outlined, round, sharp, twotone]
+extension-off:
+    styles: [filled, outlined, round, sharp, twotone]
+extension:
+    styles: [filled, outlined, round, sharp, twotone]
+face-unlock:
+    styles: [outlined, round, sharp, twotone]
+face:
+    styles: [filled, outlined, round, sharp, twotone]
+fact-check:
+    styles: [filled, outlined, round, sharp, twotone]
+favorite-border:
+    styles: [filled, outlined, round, sharp, twotone]
+favorite:
+    styles: [filled, outlined, round, sharp, twotone]
+fax:
+    styles: [filled, outlined, round, sharp, twotone]
+feedback:
+    styles: [filled, outlined, round, sharp, twotone]
+file-present:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-alt-off:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-list-alt:
+    styles: [filled]
+find-in-page:
+    styles: [filled, outlined, round, sharp, twotone]
+find-replace:
+    styles: [filled, outlined, round, sharp, twotone]
+fingerprint:
+    styles: [filled, outlined, round, sharp, twotone]
+fit-screen:
+    styles: [filled, outlined, round, sharp, twotone]
+flaky:
+    styles: [filled, outlined, round, sharp, twotone]
+flight-land:
+    styles: [filled, outlined, round, sharp, twotone]
+flight-takeoff:
+    styles: [filled, outlined, round, sharp, twotone]
+flip-to-back:
+    styles: [filled, outlined, round, sharp, twotone]
+flip-to-front:
+    styles: [filled, outlined, round, sharp, twotone]
+flutter-dash:
+    styles: [filled, outlined, round, sharp, twotone]
+free-cancellation:
+    styles: [filled, outlined, round, sharp, twotone]
+g-translate:
+    styles: [filled, outlined, round, sharp, twotone]
+gavel:
+    styles: [filled, outlined, round, sharp, twotone]
+generating-tokens:
+    styles: [filled, outlined, round, sharp, twotone]
+get-app:
+    styles: [filled, outlined, round, sharp, twotone]
+gif-box:
+    styles: [filled, outlined, round, sharp, twotone]
+gif:
+    styles: [filled, outlined, round, sharp, twotone]
+grade:
+    styles: [filled, outlined, round, sharp, twotone]
+grading:
+    styles: [filled, outlined, round, sharp, twotone]
+group-work:
+    styles: [filled, outlined, round, sharp, twotone]
+help-center:
+    styles: [filled, outlined, round, sharp, twotone]
+help-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+help:
+    styles: [filled, outlined, round, sharp, twotone]
+hide-source:
+    styles: [filled, outlined, round, sharp, twotone]
+highlight-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+highlight-off:
+    styles: [filled, outlined, round, sharp, twotone]
+history-toggle-off:
+    styles: [filled, outlined, round, sharp, twotone]
+history:
+    styles: [filled, outlined, round, sharp, twotone]
+hls-off:
+    styles: [filled, outlined, round, sharp, twotone]
+hls:
+    styles: [filled, outlined, round, sharp, twotone]
+home-filled:
+    styles: [filled]
+home:
+    styles: [filled, outlined, round, sharp, twotone]
+horizontal-split:
+    styles: [filled, outlined, round, sharp, twotone]
+hotel-class:
+    styles: [filled, outlined, round, sharp, twotone]
+hourglass-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+hourglass-empty:
+    styles: [filled, outlined, round, sharp, twotone]
+hourglass-full:
+    styles: [filled, outlined, round, sharp, twotone]
+html:
+    styles: [filled, outlined, round, sharp, twotone]
+http:
+    styles: [filled, outlined, round, sharp, twotone]
+https:
+    styles: [filled, outlined, round, sharp, twotone]
+important-devices:
+    styles: [filled, outlined, round, sharp, twotone]
+info-outline:
+    styles: [filled, round, sharp, twotone]
+info:
+    styles: [filled, outlined, round, sharp, twotone]
+input:
+    styles: [filled, outlined, round, sharp, twotone]
+install-desktop:
+    styles: [filled, outlined, round, sharp, twotone]
+install-mobile:
+    styles: [filled, outlined, round, sharp, twotone]
+integration-instructions:
+    styles: [filled, outlined, round, sharp, twotone]
+invert-colors:
+    styles: [filled, outlined, round, sharp, twotone]
+javascript:
+    styles: [filled, outlined, round, sharp, twotone]
+join-full:
+    styles: [filled, outlined, round, sharp, twotone]
+join-inner:
+    styles: [filled, outlined, round, sharp, twotone]
+join-left:
+    styles: [filled, outlined, round, sharp, twotone]
+join-right:
+    styles: [filled, outlined, round, sharp, twotone]
+label-important-outline:
+    styles: [filled, round, sharp, twotone]
+label-important:
+    styles: [filled, outlined, round, sharp, twotone]
+label-off:
+    styles: [filled, outlined, round, sharp, twotone]
+label-outline:
+    styles: [filled, round, sharp, twotone]
+label:
+    styles: [filled, outlined, round, sharp, twotone]
+language:
+    styles: [filled, outlined, round, sharp, twotone]
+launch:
+    styles: [filled, outlined, round, sharp, twotone]
+leaderboard:
+    styles: [filled, outlined, round, sharp, twotone]
+lightbulb-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+lightbulb-outline:
+    styles: [filled, round, sharp, twotone]
+lightbulb:
+    styles: [filled, outlined, round, sharp, twotone]
+line-style:
+    styles: [filled, outlined, round, sharp, twotone]
+line-weight:
+    styles: [filled, outlined, round, sharp, twotone]
+list:
+    styles: [filled, outlined, round, sharp, twotone]
+lock-clock:
+    styles: [filled, outlined, round, sharp, twotone]
+lock-open:
+    styles: [filled, outlined, round, sharp, twotone]
+lock-outline:
+    styles: [filled, round, sharp, twotone]
+lock-person:
+    styles: [filled, outlined, round, sharp, twotone]
+lock-reset:
+    styles: [filled, outlined, round, sharp, twotone]
+lock:
+    styles: [filled, outlined, round, sharp, twotone]
+login:
+    styles: [filled, outlined, round, sharp, twotone]
+logout:
+    styles: [filled, outlined, round, sharp, twotone]
+loyalty:
+    styles: [filled, outlined, round, sharp, twotone]
+manage-accounts:
+    styles: [filled, outlined, round, sharp, twotone]
+manage-history:
+    styles: [filled, outlined, round, sharp, twotone]
+mark-as-unread:
+    styles: [filled, outlined, round, sharp, twotone]
+markunread-mailbox:
+    styles: [filled, outlined, round, sharp, twotone]
+maximize:
+    styles: [filled, outlined, round, sharp, twotone]
+mediation:
+    styles: [filled, outlined, round, sharp, twotone]
+minimize:
+    styles: [filled, outlined, round, sharp, twotone]
+model-training:
+    styles: [filled, outlined, round, sharp, twotone]
+network-ping:
+    styles: [filled, outlined, round, sharp, twotone]
+new-label:
+    styles: [filled, outlined, round, sharp, twotone]
+next-plan:
+    styles: [filled, outlined, round, sharp, twotone]
+nightlight-round:
+    styles: [filled, outlined, round, sharp, twotone]
+no-accounts:
+    styles: [filled, outlined, round, sharp, twotone]
+noise-aware:
+    styles: [filled, outlined, round, sharp, twotone]
+noise-control-off:
+    styles: [filled, outlined, round, sharp, twotone]
+not-accessible:
+    styles: [filled, outlined, round, sharp, twotone]
+not-started:
+    styles: [filled, outlined, round, sharp, twotone]
+note-add:
+    styles: [filled, outlined, round, sharp, twotone]
+offline-bolt:
+    styles: [filled, outlined, round, sharp, twotone]
+offline-pin:
+    styles: [filled, outlined, round, sharp, twotone]
+on-device-training:
+    styles: [filled, outlined, round, sharp, twotone]
+online-prediction:
+    styles: [filled, outlined, round, sharp, twotone]
+opacity:
+    styles: [filled, outlined, round, sharp, twotone]
+open-in-browser:
+    styles: [filled, outlined, round, sharp, twotone]
+open-in-full:
+    styles: [filled, outlined, round, sharp, twotone]
+open-in-new-off:
+    styles: [filled, outlined, round, sharp, twotone]
+open-in-new:
+    styles: [filled, outlined, round, sharp, twotone]
+open-with:
+    styles: [filled, outlined, round, sharp, twotone]
+outbond:
+    styles: [filled, outlined, round, sharp, twotone]
+outbound:
+    styles: [filled, outlined, round, sharp, twotone]
+outbox:
+    styles: [filled, outlined, round, sharp, twotone]
+outgoing-mail:
+    styles: [filled]
+outlet:
+    styles: [filled, outlined, round, sharp, twotone]
+output:
+    styles: [filled, outlined, round, sharp, twotone]
+pageview:
+    styles: [filled, outlined, round, sharp, twotone]
+paid:
+    styles: [filled, outlined, round, sharp, twotone]
+pan-tool-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+pan-tool:
+    styles: [filled, outlined, round, sharp, twotone]
+payment:
+    styles: [filled, outlined, round, sharp, twotone]
+pending-actions:
+    styles: [filled, outlined, round, sharp, twotone]
+pending:
+    styles: [filled, outlined, round, sharp, twotone]
+percent:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-camera-mic:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-contact-calendar:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-data-setting:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-device-information:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-identity:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-media:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-phone-msg:
+    styles: [filled, outlined, round, sharp, twotone]
+perm-scan-wifi:
+    styles: [filled, outlined, round, sharp, twotone]
+pets:
+    styles: [filled, outlined, round, sharp, twotone]
+php:
+    styles: [filled, outlined, round, sharp, twotone]
+picture-in-picture-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+picture-in-picture:
+    styles: [filled, outlined, round, sharp, twotone]
+pin-end:
+    styles: [filled, outlined, round, sharp, twotone]
+pin-invoke:
+    styles: [filled, outlined, round, sharp, twotone]
+pinch:
+    styles: [filled, outlined, round, sharp, twotone]
+plagiarism:
+    styles: [filled, outlined, round, sharp, twotone]
+play-for-work:
+    styles: [filled, outlined, round, sharp, twotone]
+polymer:
+    styles: [filled, outlined, round, sharp, twotone]
+power-settings-new:
+    styles: [filled, outlined, round, sharp, twotone]
+pregnant-woman:
+    styles: [filled, outlined, round, sharp, twotone]
+preview:
+    styles: [filled, outlined, round, sharp, twotone]
+print:
+    styles: [filled, outlined, round, sharp, twotone]
+privacy-tip:
+    styles: [filled, outlined, round, sharp, twotone]
+private-connectivity:
+    styles: [filled, outlined, round, sharp, twotone]
+production-quantity-limits:
+    styles: [filled, outlined, round, sharp, twotone]
+published-with-changes:
+    styles: [filled, outlined, round, sharp, twotone]
+query-builder:
+    styles: [filled, outlined, round, sharp, twotone]
+question-answer:
+    styles: [filled, outlined, round, sharp, twotone]
+question-mark:
+    styles: [filled, outlined, round, sharp, twotone]
+quickreply:
+    styles: [filled, outlined, round, sharp, twotone]
+rebase-edit:
+    styles: [filled]
+receipt:
+    styles: [filled, outlined, round, sharp, twotone]
+record-voice-over:
+    styles: [filled, outlined, round, sharp, twotone]
+redeem:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-done:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-shopping-cart:
+    styles: [filled, outlined, round, sharp, twotone]
+reorder:
+    styles: [filled, outlined, round, sharp, twotone]
+repartition:
+    styles: [filled, outlined, round, sharp, twotone]
+report-problem:
+    styles: [filled, outlined, round, sharp, twotone]
+request-page:
+    styles: [filled, outlined, round, sharp, twotone]
+restore-from-trash:
+    styles: [filled, outlined, round, sharp, twotone]
+restore-page:
+    styles: [filled, outlined, round, sharp, twotone]
+restore:
+    styles: [filled, outlined, round, sharp, twotone]
+rocket-launch:
+    styles: [filled, outlined, round, sharp, twotone]
+rocket:
+    styles: [filled, outlined, round, sharp, twotone]
+room:
+    styles: [filled, outlined, round, sharp, twotone]
+rounded-corner:
+    styles: [filled, outlined, round, sharp, twotone]
+rowing:
+    styles: [filled, outlined, round, sharp, twotone]
+rule:
+    styles: [filled, outlined, round, sharp, twotone]
+satellite-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+saved-search:
+    styles: [filled, outlined, round, sharp, twotone]
+savings:
+    styles: [filled, outlined, round, sharp, twotone]
+schedule-send:
+    styles: [filled, outlined, round, sharp, twotone]
+schedule:
+    styles: [filled, outlined, round, sharp, twotone]
+search-off:
+    styles: [filled, outlined, round, sharp, twotone]
+search:
+    styles: [filled, outlined, round, sharp, twotone]
+segment:
+    styles: [filled, outlined, round, sharp, twotone]
+send-and-archive:
+    styles: [filled, outlined, round, sharp, twotone]
+sensors-off:
+    styles: [filled, outlined, round, sharp, twotone]
+sensors:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-accessibility:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-applications:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-backup-restore:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-bluetooth:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-brightness:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-cell:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-ethernet:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-input-antenna:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-input-component:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-input-composite:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-input-hdmi:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-input-svideo:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-overscan:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-phone:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-power:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-remote:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-voice:
+    styles: [filled, outlined, round, sharp, twotone]
+settings:
+    styles: [filled, outlined, round, sharp, twotone]
+shop-2:
+    styles: [filled, outlined, round, sharp, twotone]
+shop-two:
+    styles: [filled, outlined, round, sharp, twotone]
+shop:
+    styles: [filled, outlined, round, sharp, twotone]
+shopping-bag:
+    styles: [filled, outlined, round, sharp, twotone]
+shopping-basket:
+    styles: [filled, outlined, round, sharp, twotone]
+shopping-cart-checkout:
+    styles: [filled, outlined, round, sharp, twotone]
+shopping-cart:
+    styles: [filled, outlined, round, sharp, twotone]
+smart-button:
+    styles: [filled, outlined, round, sharp, twotone]
+source:
+    styles: [filled, outlined, round, sharp, twotone]
+space-dashboard:
+    styles: [filled, outlined, round, sharp, twotone]
+spatial-audio-off:
+    styles: [filled, outlined, round, sharp, twotone]
+spatial-audio:
+    styles: [filled, outlined, round, sharp, twotone]
+spatial-tracking:
+    styles: [filled, outlined, round, sharp, twotone]
+speaker-notes-off:
+    styles: [filled, outlined, round, sharp, twotone]
+speaker-notes:
+    styles: [filled, outlined, round, sharp, twotone]
+spellcheck:
+    styles: [filled, outlined, round, sharp, twotone]
+star-rate:
+    styles: [filled, outlined, round, sharp, twotone]
+stars:
+    styles: [filled, outlined, round, sharp, twotone]
+sticky-note-2:
+    styles: [filled, outlined, round, sharp, twotone]
+store:
+    styles: [filled, outlined, round, sharp, twotone]
+subject:
+    styles: [filled, outlined, round, sharp, twotone]
+subtitles-off:
+    styles: [filled, outlined, round, sharp, twotone]
+supervised-user-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+supervisor-account:
+    styles: [filled, outlined, round, sharp, twotone]
+support:
+    styles: [filled, outlined, round, sharp, twotone]
+swap-horiz:
+    styles: [filled, outlined, round, sharp, twotone]
+swap-horizontal-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+swap-vert:
+    styles: [filled, outlined, round, sharp, twotone]
+swap-vertical-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-down-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-down:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-left-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-left:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-right-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-right:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-up-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-up:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe-vertical:
+    styles: [filled, outlined, round, sharp, twotone]
+swipe:
+    styles: [filled, outlined, round, sharp, twotone]
+switch-access-shortcut-add:
+    styles: [filled, outlined, round, sharp, twotone]
+switch-access-shortcut:
+    styles: [filled, outlined, round, sharp, twotone]
+sync-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+system-update-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+tab-unselected:
+    styles: [filled, outlined, round, sharp, twotone]
+tab:
+    styles: [filled, outlined, round, sharp, twotone]
+table-view:
+    styles: [filled, outlined, round, sharp, twotone]
+task-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+terminal:
+    styles: [filled, outlined, round, sharp, twotone]
+text-rotate-up:
+    styles: [filled, outlined, round, sharp, twotone]
+text-rotate-vertical:
+    styles: [filled, outlined, round, sharp, twotone]
+text-rotation-angledown:
+    styles: [filled, outlined, round, sharp, twotone]
+text-rotation-angleup:
+    styles: [filled, outlined, round, sharp, twotone]
+text-rotation-down:
+    styles: [filled, outlined, round, sharp, twotone]
+text-rotation-none:
+    styles: [filled, outlined, round, sharp, twotone]
+theaters:
+    styles: [filled, outlined, round, sharp, twotone]
+thumb-down-off-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+thumb-down:
+    styles: [filled, outlined, round, sharp, twotone]
+thumb-up-off-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+thumb-up:
+    styles: [filled, outlined, round, sharp, twotone]
+thumbs-up-down:
+    styles: [filled, outlined, round, sharp, twotone]
+timeline:
+    styles: [filled, outlined, round, sharp, twotone]
+tips-and-updates:
+    styles: [filled, outlined, round, sharp, twotone]
+toc:
+    styles: [filled, outlined, round, sharp, twotone]
+today:
+    styles: [filled, outlined, round, sharp, twotone]
+token:
+    styles: [filled, outlined, round, sharp, twotone]
+toll:
+    styles: [filled, outlined, round, sharp, twotone]
+touch-app:
+    styles: [filled, outlined, round, sharp, twotone]
+tour:
+    styles: [filled, outlined, round, sharp, twotone]
+track-changes:
+    styles: [filled, outlined, round, sharp, twotone]
+transcribe:
+    styles: [filled, outlined, round, sharp, twotone]
+translate:
+    styles: [filled, outlined, round, sharp, twotone]
+trending-down:
+    styles: [filled, outlined, round, sharp, twotone]
+trending-flat:
+    styles: [filled, outlined, round, sharp, twotone]
+trending-up:
+    styles: [filled, outlined, round, sharp, twotone]
+troubleshoot:
+    styles: [filled, outlined, round, sharp, twotone]
+try:
+    styles: [filled, outlined, round, sharp, twotone]
+turned-in-not:
+    styles: [filled, outlined, round, sharp, twotone]
+turned-in:
+    styles: [filled, outlined, round, sharp, twotone]
+unfold-less-double:
+    styles: [filled, outlined, round, sharp, twotone]
+unfold-more-double:
+    styles: [filled, outlined, round, sharp, twotone]
+unpublished:
+    styles: [filled, outlined, round, sharp, twotone]
+update-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+update:
+    styles: [filled, outlined, round, sharp, twotone]
+upgrade:
+    styles: [filled, outlined, round, sharp, twotone]
+verified-user:
+    styles: [filled, outlined, round, sharp, twotone]
+verified:
+    styles: [filled, outlined, round, sharp, twotone]
+vertical-split:
+    styles: [filled, outlined, round, sharp, twotone]
+view-agenda:
+    styles: [filled, outlined, round, sharp, twotone]
+view-array:
+    styles: [filled, outlined, round, sharp, twotone]
+view-carousel:
+    styles: [filled, outlined, round, sharp, twotone]
+view-column:
+    styles: [filled, outlined, round, sharp, twotone]
+view-comfy-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+view-compact-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+view-cozy:
+    styles: [filled, outlined, round, sharp, twotone]
+view-day:
+    styles: [filled, outlined, round, sharp, twotone]
+view-headline:
+    styles: [filled, outlined, round, sharp, twotone]
+view-in-ar:
+    styles: [filled, outlined, round, sharp, twotone]
+view-kanban:
+    styles: [filled, outlined, round, sharp, twotone]
+view-list:
+    styles: [filled, outlined, round, sharp, twotone]
+view-module:
+    styles: [filled, outlined, round, sharp, twotone]
+view-quilt:
+    styles: [filled, outlined, round, sharp, twotone]
+view-sidebar:
+    styles: [filled, outlined, round, sharp, twotone]
+view-stream:
+    styles: [filled, outlined, round, sharp, twotone]
+view-timeline:
+    styles: [filled, outlined, round, sharp, twotone]
+view-week:
+    styles: [filled, outlined, round, sharp, twotone]
+visibility-off:
+    styles: [filled, outlined, round, sharp, twotone]
+visibility:
+    styles: [filled, outlined, round, sharp, twotone]
+voice-over-off:
+    styles: [filled, outlined, round, sharp, twotone]
+watch-later:
+    styles: [filled, outlined, round, sharp, twotone]
+webhook:
+    styles: [filled, outlined, round, sharp, twotone]
+width-full:
+    styles: [filled, outlined, round, sharp, twotone]
+width-normal:
+    styles: [filled, outlined, round, sharp, twotone]
+width-wide:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-protected-setup:
+    styles: [filled, outlined, round, sharp, twotone]
+work-history:
+    styles: [filled, outlined, round, sharp, twotone]
+work-off:
+    styles: [filled, outlined, round, sharp, twotone]
+work-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+work:
+    styles: [filled, outlined, round, sharp, twotone]
+wysiwyg:
+    styles: [filled, outlined, round, sharp, twotone]
+youtube-searched-for:
+    styles: [filled, outlined, round, sharp, twotone]
+zoom-in:
+    styles: [filled, outlined, round, sharp, twotone]
+zoom-out:
+    styles: [filled, outlined, round, sharp, twotone]
+add-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-delete:
+    styles: [filled, outlined, round, sharp, twotone]
+error-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+error:
+    styles: [filled, outlined, round, sharp, twotone]
+notification-important:
+    styles: [filled, outlined, round, sharp, twotone]
+warning-amber:
+    styles: [filled, outlined, round, sharp, twotone]
+warning:
+    styles: [filled, outlined, round, sharp, twotone]
+10k:
+    styles: [filled, outlined, round, sharp, twotone]
+1k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+1k:
+    styles: [filled, outlined, round, sharp, twotone]
+2k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+2k:
+    styles: [filled, outlined, round, sharp, twotone]
+3k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+3k:
+    styles: [filled, outlined, round, sharp, twotone]
+4k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+4k:
+    styles: [filled, outlined, round, sharp, twotone]
+5g:
+    styles: [filled, outlined, round, sharp, twotone]
+5k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+5k:
+    styles: [filled, outlined, round, sharp, twotone]
+6k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+6k:
+    styles: [filled, outlined, round, sharp, twotone]
+7k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+7k:
+    styles: [filled, outlined, round, sharp, twotone]
+8k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+8k:
+    styles: [filled, outlined, round, sharp, twotone]
+9k-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+9k:
+    styles: [filled, outlined, round, sharp, twotone]
+add-to-queue:
+    styles: [filled, outlined, round, sharp, twotone]
+airplay:
+    styles: [filled, outlined, round, sharp, twotone]
+album:
+    styles: [filled, outlined, round, sharp, twotone]
+art-track:
+    styles: [filled, outlined, round, sharp, twotone]
+audio-file:
+    styles: [filled, outlined, round, sharp, twotone]
+av-timer:
+    styles: [filled, outlined, round, sharp, twotone]
+branding-watermark:
+    styles: [filled, outlined, round, sharp, twotone]
+call-to-action:
+    styles: [filled, outlined, round, sharp, twotone]
+closed-caption-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+closed-caption-off:
+    styles: [filled, outlined, round, sharp, twotone]
+closed-caption:
+    styles: [filled, outlined, round, sharp, twotone]
+control-camera:
+    styles: [filled, outlined, round, sharp, twotone]
+equalizer:
+    styles: [filled, outlined, round, sharp, twotone]
+explicit:
+    styles: [filled, outlined, round, sharp, twotone]
+fast-forward:
+    styles: [filled, outlined, round, sharp, twotone]
+fast-rewind:
+    styles: [filled, outlined, round, sharp, twotone]
+featured-play-list:
+    styles: [filled, outlined, round, sharp, twotone]
+featured-video:
+    styles: [filled, outlined, round, sharp, twotone]
+fiber-dvr:
+    styles: [filled, outlined, round, sharp, twotone]
+fiber-manual-record:
+    styles: [filled, outlined, round, sharp, twotone]
+fiber-new:
+    styles: [filled, outlined, round, sharp, twotone]
+fiber-pin:
+    styles: [filled, outlined, round, sharp, twotone]
+fiber-smart-record:
+    styles: [filled, outlined, round, sharp, twotone]
+forward-10:
+    styles: [filled, outlined, round, sharp, twotone]
+forward-30:
+    styles: [filled, outlined, round, sharp, twotone]
+forward-5:
+    styles: [filled, outlined, round, sharp, twotone]
+games:
+    styles: [filled, outlined, round, sharp, twotone]
+hd:
+    styles: [filled, outlined, round, sharp, twotone]
+hearing-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+hearing:
+    styles: [filled, outlined, round, sharp, twotone]
+high-quality:
+    styles: [filled, outlined, round, sharp, twotone]
+interpreter-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+library-add-check:
+    styles: [filled, outlined, round, sharp, twotone]
+library-add:
+    styles: [filled, outlined, round, sharp, twotone]
+library-books:
+    styles: [filled, outlined, round, sharp, twotone]
+library-music:
+    styles: [filled, outlined, round, sharp, twotone]
+loop:
+    styles: [filled, outlined, round, sharp, twotone]
+lyrics:
+    styles: [filled, outlined, round, sharp, twotone]
+mic-none:
+    styles: [filled, outlined, round, sharp, twotone]
+mic-off:
+    styles: [filled, outlined, round, sharp, twotone]
+mic:
+    styles: [filled, outlined, round, sharp, twotone]
+missed-video-call:
+    styles: [filled, outlined, round, sharp, twotone]
+movie-edit:
+    styles: [filled]
+movie:
+    styles: [filled, outlined, round, sharp, twotone]
+music-video:
+    styles: [filled, outlined, round, sharp, twotone]
+new-releases:
+    styles: [filled, outlined, round, sharp, twotone]
+not-interested:
+    styles: [filled, outlined, round, sharp, twotone]
+note:
+    styles: [filled, outlined, round, sharp, twotone]
+pause-circle-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+pause-circle-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+pause-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+pause:
+    styles: [filled, outlined, round, sharp, twotone]
+play-arrow:
+    styles: [filled, outlined, round, sharp, twotone]
+play-circle-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+play-circle-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+play-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+play-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+playlist-add-check-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+playlist-add-check:
+    styles: [filled, outlined, round, sharp, twotone]
+playlist-add-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+playlist-add:
+    styles: [filled, outlined, round, sharp, twotone]
+playlist-play:
+    styles: [filled, outlined, round, sharp, twotone]
+playlist-remove:
+    styles: [filled, outlined, round, sharp, twotone]
+queue-music:
+    styles: [filled, outlined, round, sharp, twotone]
+queue-play-next:
+    styles: [filled, outlined, round, sharp, twotone]
+queue:
+    styles: [filled, outlined, round, sharp, twotone]
+radio:
+    styles: [filled, outlined, round, sharp, twotone]
+recent-actors:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-from-queue:
+    styles: [filled, outlined, round, sharp, twotone]
+repeat-on:
+    styles: [filled, outlined, round, sharp, twotone]
+repeat-one-on:
+    styles: [filled, outlined, round, sharp, twotone]
+repeat-one:
+    styles: [filled, outlined, round, sharp, twotone]
+repeat:
+    styles: [filled, outlined, round, sharp, twotone]
+replay-10:
+    styles: [filled, outlined, round, sharp, twotone]
+replay-30:
+    styles: [filled, outlined, round, sharp, twotone]
+replay-5:
+    styles: [filled, outlined, round, sharp, twotone]
+replay-circle-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+replay:
+    styles: [filled, outlined, round, sharp, twotone]
+sd:
+    styles: [filled, outlined, round, sharp, twotone]
+shuffle-on:
+    styles: [filled, outlined, round, sharp, twotone]
+shuffle:
+    styles: [filled, outlined, round, sharp, twotone]
+skip-next:
+    styles: [filled, outlined, round, sharp, twotone]
+skip-previous:
+    styles: [filled, outlined, round, sharp, twotone]
+slow-motion-video:
+    styles: [filled, outlined, round, sharp, twotone]
+snooze:
+    styles: [filled, outlined, round, sharp, twotone]
+sort-by-alpha:
+    styles: [filled, outlined, round, sharp, twotone]
+speed:
+    styles: [filled, outlined, round, sharp, twotone]
+stop-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+stop:
+    styles: [filled, outlined, round, sharp, twotone]
+subscriptions:
+    styles: [filled, outlined, round, sharp, twotone]
+subtitles:
+    styles: [filled, outlined, round, sharp, twotone]
+surround-sound:
+    styles: [filled, outlined, round, sharp, twotone]
+video-call:
+    styles: [filled, outlined, round, sharp, twotone]
+video-file:
+    styles: [filled, outlined, round, sharp, twotone]
+video-label:
+    styles: [filled, outlined, round, sharp, twotone]
+video-library:
+    styles: [filled, outlined, round, sharp, twotone]
+video-settings:
+    styles: [filled, outlined, round, sharp, twotone]
+videocam-off:
+    styles: [filled, outlined, round, sharp, twotone]
+videocam:
+    styles: [filled, outlined, round, sharp, twotone]
+volume-down-alt:
+    styles: [filled]
+volume-down:
+    styles: [filled, outlined, round, sharp, twotone]
+volume-mute:
+    styles: [filled, outlined, round, sharp, twotone]
+volume-off:
+    styles: [filled, outlined, round, sharp, twotone]
+volume-up:
+    styles: [filled, outlined, round, sharp, twotone]
+web-asset-off:
+    styles: [filled, outlined, round, sharp, twotone]
+web-asset:
+    styles: [filled, outlined, round, sharp, twotone]
+web:
+    styles: [filled, outlined, round, sharp, twotone]
+3p:
+    styles: [filled, outlined, round, sharp, twotone]
+add-ic-call:
+    styles: [filled, outlined, round, sharp, twotone]
+alternate-email:
+    styles: [filled, outlined, round, sharp, twotone]
+app-registration:
+    styles: [filled, outlined, round, sharp, twotone]
+business:
+    styles: [filled, outlined, round, sharp, twotone]
+call-end:
+    styles: [filled, outlined, round, sharp, twotone]
+call-made:
+    styles: [filled, outlined, round, sharp, twotone]
+call-merge:
+    styles: [filled, outlined, round, sharp, twotone]
+call-missed-outgoing:
+    styles: [filled, outlined, round, sharp, twotone]
+call-missed:
+    styles: [filled, outlined, round, sharp, twotone]
+call-received:
+    styles: [filled, outlined, round, sharp, twotone]
+call-split:
+    styles: [filled, outlined, round, sharp, twotone]
+call:
+    styles: [filled, outlined, round, sharp, twotone]
+cancel-presentation:
+    styles: [filled, outlined, round, sharp, twotone]
+cell-tower:
+    styles: [filled, outlined, round, sharp, twotone]
+cell-wifi:
+    styles: [filled, outlined, round, sharp, twotone]
+chat-bubble-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+chat-bubble:
+    styles: [filled, outlined, round, sharp, twotone]
+chat:
+    styles: [filled, outlined, round, sharp, twotone]
+clear-all:
+    styles: [filled, outlined, round, sharp, twotone]
+co-present:
+    styles: [filled, outlined, round, sharp, twotone]
+comment:
+    styles: [filled, outlined, round, sharp, twotone]
+comments-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+contact-emergency:
+    styles: [filled, outlined, round, sharp, twotone]
+contact-mail:
+    styles: [filled, outlined, round, sharp, twotone]
+contact-phone:
+    styles: [filled, outlined, round, sharp, twotone]
+contacts:
+    styles: [filled, outlined, round, sharp, twotone]
+desktop-access-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+dialer-sip:
+    styles: [filled, outlined, round, sharp, twotone]
+dialpad:
+    styles: [filled, outlined, round, sharp, twotone]
+document-scanner:
+    styles: [filled, outlined, round, sharp, twotone]
+domain-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+domain-verification:
+    styles: [filled, outlined, round, sharp, twotone]
+duo:
+    styles: [filled, outlined, round, sharp, twotone]
+email:
+    styles: [filled, outlined, round, sharp, twotone]
+forum:
+    styles: [filled, outlined, round, sharp, twotone]
+forward-to-inbox:
+    styles: [filled, outlined, round, sharp, twotone]
+hourglass-bottom:
+    styles: [filled, outlined, round, sharp, twotone]
+hourglass-top:
+    styles: [filled, outlined, round, sharp, twotone]
+hub:
+    styles: [filled, outlined, round, sharp, twotone]
+import-contacts:
+    styles: [filled, outlined, round, sharp, twotone]
+import-export:
+    styles: [filled, outlined, round, sharp, twotone]
+invert-colors-off:
+    styles: [filled, outlined, round, sharp, twotone]
+key-off:
+    styles: [filled, outlined, round, sharp, twotone]
+key:
+    styles: [filled, outlined, round, sharp, twotone]
+list-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+live-help:
+    styles: [filled, outlined, round, sharp, twotone]
+location-off:
+    styles: [filled, outlined, round, sharp, twotone]
+location-on:
+    styles: [filled, outlined, round, sharp, twotone]
+mail-lock:
+    styles: [filled, outlined, round, sharp, twotone]
+mail-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+mark-chat-read:
+    styles: [filled, outlined, round, sharp, twotone]
+mark-chat-unread:
+    styles: [filled, outlined, round, sharp, twotone]
+mark-email-read:
+    styles: [filled, outlined, round, sharp, twotone]
+mark-email-unread:
+    styles: [filled, outlined, round, sharp, twotone]
+mark-unread-chat-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+message:
+    styles: [filled, outlined, round, sharp, twotone]
+mobile-screen-share:
+    styles: [filled, outlined, round, sharp, twotone]
+more-time:
+    styles: [filled, outlined, round, sharp, twotone]
+nat:
+    styles: [filled, outlined, round, sharp, twotone]
+no-sim:
+    styles: [filled, outlined, round, sharp, twotone]
+pause-presentation:
+    styles: [filled, outlined, round, sharp, twotone]
+person-add-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+person-search:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-enabled:
+    styles: [filled, outlined, round, sharp, twotone]
+phone:
+    styles: [filled, outlined, round, sharp, twotone]
+phonelink-erase:
+    styles: [filled, outlined, round, sharp, twotone]
+phonelink-lock:
+    styles: [filled, outlined, round, sharp, twotone]
+phonelink-ring:
+    styles: [filled, outlined, round, sharp, twotone]
+phonelink-setup:
+    styles: [filled, outlined, round, sharp, twotone]
+portable-wifi-off:
+    styles: [filled, outlined, round, sharp, twotone]
+present-to-all:
+    styles: [filled, outlined, round, sharp, twotone]
+print-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+qr-code-2:
+    styles: [filled, outlined, round, sharp, twotone]
+qr-code-scanner:
+    styles: [filled, outlined, round, sharp, twotone]
+qr-code:
+    styles: [filled, outlined, round, sharp, twotone]
+read-more:
+    styles: [filled, outlined, round, sharp, twotone]
+ring-volume:
+    styles: [filled, outlined, round, sharp, twotone]
+rss-feed:
+    styles: [filled, outlined, round, sharp, twotone]
+rtt:
+    styles: [filled, outlined, round, sharp, twotone]
+screen-share:
+    styles: [filled, outlined, round, sharp, twotone]
+send-time-extension:
+    styles: [filled, outlined, round, sharp, twotone]
+sentiment-satisfied-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+sip:
+    styles: [filled, outlined, round, sharp, twotone]
+speaker-phone:
+    styles: [filled, outlined, round, sharp, twotone]
+spoke:
+    styles: [filled, outlined, round, sharp, twotone]
+stay-current-landscape:
+    styles: [filled, outlined, round, sharp, twotone]
+stay-current-portrait:
+    styles: [filled, outlined, round, sharp, twotone]
+stay-primary-landscape:
+    styles: [filled, outlined, round, sharp, twotone]
+stay-primary-portrait:
+    styles: [filled, outlined, round, sharp, twotone]
+stop-screen-share:
+    styles: [filled, outlined, round, sharp, twotone]
+swap-calls:
+    styles: [filled, outlined, round, sharp, twotone]
+textsms:
+    styles: [filled, outlined, round, sharp, twotone]
+unsubscribe:
+    styles: [filled, outlined, round, sharp, twotone]
+voicemail:
+    styles: [filled, outlined, round, sharp, twotone]
+vpn-key-off:
+    styles: [filled, outlined, round, sharp, twotone]
+vpn-key:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-calling:
+    styles: [filled, outlined, round, sharp, twotone]
+add-box:
+    styles: [filled, outlined, round, sharp, twotone]
+add-circle-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+add-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+add-link:
+    styles: [filled, outlined, round, sharp, twotone]
+add:
+    styles: [filled, outlined, round, sharp, twotone]
+amp-stories:
+    styles: [filled, outlined, round, sharp, twotone]
+archive:
+    styles: [filled, outlined, round, sharp, twotone]
+attribution:
+    styles: [filled, outlined, round, sharp, twotone]
+backspace:
+    styles: [filled, outlined, round, sharp, twotone]
+ballot:
+    styles: [filled, outlined, round, sharp, twotone]
+biotech:
+    styles: [filled, outlined, round, sharp, twotone]
+block-flipped:
+    styles: [filled]
+block:
+    styles: [filled, outlined, round, sharp, twotone]
+bolt:
+    styles: [filled, outlined, round, sharp, twotone]
+calculate:
+    styles: [filled, outlined, round, sharp, twotone]
+change-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+clear:
+    styles: [filled, outlined, round, sharp, twotone]
+content-copy:
+    styles: [filled, outlined, round, sharp, twotone]
+content-cut:
+    styles: [filled, outlined, round, sharp, twotone]
+content-paste-go:
+    styles: [filled, outlined, round, sharp, twotone]
+content-paste-off:
+    styles: [filled, outlined, round, sharp, twotone]
+content-paste-search:
+    styles: [filled, outlined, round, sharp, twotone]
+content-paste:
+    styles: [filled, outlined, round, sharp, twotone]
+copy-all:
+    styles: [filled, outlined, round, sharp, twotone]
+create:
+    styles: [filled, outlined, round, sharp, twotone]
+delete-sweep:
+    styles: [filled, outlined, round, sharp, twotone]
+deselect:
+    styles: [filled, outlined, round, sharp, twotone]
+drafts:
+    styles: [filled, outlined, round, sharp, twotone]
+dynamic-feed:
+    styles: [filled, outlined, round, sharp, twotone]
+file-copy:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-list-off:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-list:
+    styles: [filled, outlined, round, sharp, twotone]
+flag-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+flag:
+    styles: [filled, outlined, round, sharp, twotone]
+font-download-off:
+    styles: [filled, outlined, round, sharp, twotone]
+font-download:
+    styles: [filled, outlined, round, sharp, twotone]
+forward:
+    styles: [filled, outlined, round, sharp, twotone]
+gesture:
+    styles: [filled, outlined, round, sharp, twotone]
+how-to-reg:
+    styles: [filled, outlined, round, sharp, twotone]
+how-to-vote:
+    styles: [filled, outlined, round, sharp, twotone]
+inbox:
+    styles: [filled, outlined, round, sharp, twotone]
+insights:
+    styles: [filled, outlined, round, sharp, twotone]
+inventory-2:
+    styles: [filled, outlined, round, sharp, twotone]
+inventory:
+    styles: [filled, outlined, round, sharp, twotone]
+link-off:
+    styles: [filled, outlined, round, sharp, twotone]
+link:
+    styles: [filled, outlined, round, sharp, twotone]
+low-priority:
+    styles: [filled, outlined, round, sharp, twotone]
+mail:
+    styles: [filled, outlined, round, sharp, twotone]
+markunread:
+    styles: [filled, outlined, round, sharp, twotone]
+move-to-inbox:
+    styles: [filled, outlined, round, sharp, twotone]
+next-week:
+    styles: [filled, outlined, round, sharp, twotone]
+outlined-flag:
+    styles: [filled, outlined, round, sharp, twotone]
+policy:
+    styles: [filled, outlined, round, sharp, twotone]
+push-pin:
+    styles: [filled, outlined, round, sharp, twotone]
+redo:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-circle-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+remove:
+    styles: [filled, outlined, round, sharp, twotone]
+reply-all:
+    styles: [filled, outlined, round, sharp, twotone]
+reply:
+    styles: [filled, outlined, round, sharp, twotone]
+report-gmailerrorred:
+    styles: [filled, outlined, round, sharp, twotone]
+report-off:
+    styles: [filled, outlined, round, sharp, twotone]
+report:
+    styles: [filled, outlined, round, sharp, twotone]
+save-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+save-as:
+    styles: [filled, outlined, round, sharp, twotone]
+save:
+    styles: [filled, outlined, round, sharp, twotone]
+select-all:
+    styles: [filled, outlined, round, sharp, twotone]
+send:
+    styles: [filled, outlined, round, sharp, twotone]
+shield:
+    styles: [filled, outlined, round, sharp, twotone]
+sort:
+    styles: [filled, outlined, round, sharp, twotone]
+square-foot:
+    styles: [filled, outlined, round, sharp, twotone]
+stacked-bar-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+stream:
+    styles: [filled, outlined, round, sharp, twotone]
+tag:
+    styles: [filled, outlined, round, sharp, twotone]
+text-format:
+    styles: [filled, outlined, round, sharp, twotone]
+unarchive:
+    styles: [filled, outlined, round, sharp, twotone]
+undo:
+    styles: [filled, outlined, round, sharp, twotone]
+upcoming:
+    styles: [filled, outlined, round, sharp, twotone]
+waves:
+    styles: [filled, outlined, round, sharp, twotone]
+web-stories:
+    styles: [filled, outlined, round, sharp, twotone]
+weekend:
+    styles: [filled, outlined, round, sharp, twotone]
+where-to-vote:
+    styles: [filled, outlined, round, sharp, twotone]
+1x-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+30fps:
+    styles: [filled, outlined, round, sharp, twotone]
+3g-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+4g-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+4g-plus-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+60fps:
+    styles: [filled, outlined, round, sharp, twotone]
+access-alarm:
+    styles: [filled, outlined, round, sharp, twotone]
+access-alarms:
+    styles: [filled, outlined, round, sharp, twotone]
+access-time-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+access-time:
+    styles: [filled, outlined, round, sharp, twotone]
+ad-units:
+    styles: [filled, outlined, round, sharp, twotone]
+add-alarm:
+    styles: [filled, outlined, round, sharp, twotone]
+add-to-home-screen:
+    styles: [filled, outlined, round, sharp, twotone]
+air:
+    styles: [filled, outlined, round, sharp, twotone]
+airplane-ticket:
+    styles: [filled, outlined, round, sharp, twotone]
+airplanemode-active:
+    styles: [filled, outlined, round, sharp, twotone]
+airplanemode-inactive:
+    styles: [filled, outlined, round, sharp, twotone]
+aod:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-0-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-1-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-2-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-20:
+    styles: [twotone]
+battery-3-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-30:
+    styles: [twotone]
+battery-4-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-5-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-50:
+    styles: [twotone]
+battery-6-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-60:
+    styles: [twotone]
+battery-80:
+    styles: [twotone]
+battery-90:
+    styles: [twotone]
+battery-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-charging-20:
+    styles: [twotone]
+battery-charging-30:
+    styles: [twotone]
+battery-charging-50:
+    styles: [twotone]
+battery-charging-60:
+    styles: [twotone]
+battery-charging-80:
+    styles: [twotone]
+battery-charging-90:
+    styles: [twotone]
+battery-charging-full:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-full:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-saver:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-std:
+    styles: [filled, outlined, round, sharp, twotone]
+battery-unknown:
+    styles: [filled, outlined, round, sharp, twotone]
+bloodtype:
+    styles: [filled, outlined, round, sharp, twotone]
+bluetooth-connected:
+    styles: [filled, outlined, round, sharp, twotone]
+bluetooth-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+bluetooth-drive:
+    styles: [filled, outlined, round, sharp, twotone]
+bluetooth-searching:
+    styles: [filled, outlined, round, sharp, twotone]
+bluetooth:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-auto:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-high:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-low:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-medium:
+    styles: [filled, outlined, round, sharp, twotone]
+cable:
+    styles: [filled, outlined, round, sharp, twotone]
+cameraswitch:
+    styles: [filled, outlined, round, sharp, twotone]
+credit-score:
+    styles: [filled, outlined, round, sharp, twotone]
+dark-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+data-saver-off:
+    styles: [filled, outlined, round, sharp, twotone]
+data-saver-on:
+    styles: [filled, outlined, round, sharp, twotone]
+data-usage:
+    styles: [filled, outlined, round, sharp, twotone]
+dataset-linked:
+    styles: [filled, outlined, round, sharp, twotone]
+dataset:
+    styles: [filled, outlined, round, sharp, twotone]
+developer-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+device-thermostat:
+    styles: [filled, outlined, round, sharp, twotone]
+devices-fold:
+    styles: [filled, outlined, round, sharp, twotone]
+devices:
+    styles: [filled, outlined, round, sharp, twotone]
+discount:
+    styles: [filled, outlined, round, sharp, twotone]
+do-not-disturb-on-total-silence:
+    styles: [filled, outlined, round, sharp, twotone]
+dvr:
+    styles: [filled, outlined, round, sharp, twotone]
+e-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+edgesensor-high:
+    styles: [filled, outlined, round, sharp, twotone]
+edgesensor-low:
+    styles: [filled, outlined, round, sharp, twotone]
+flashlight-off:
+    styles: [filled, outlined, round, sharp, twotone]
+flashlight-on:
+    styles: [filled, outlined, round, sharp, twotone]
+flourescent:
+    styles: [filled, outlined, round, sharp, twotone]
+fluorescent:
+    styles: [filled, outlined, round, sharp, twotone]
+fmd-bad:
+    styles: [filled, outlined, round, sharp, twotone]
+fmd-good:
+    styles: [filled, outlined, round, sharp, twotone]
+g-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+gpp-bad:
+    styles: [filled, outlined, round, sharp, twotone]
+gpp-good:
+    styles: [filled, outlined, round, sharp, twotone]
+gpp-maybe:
+    styles: [filled, outlined, round, sharp, twotone]
+gps-fixed:
+    styles: [filled, outlined, round, sharp, twotone]
+gps-not-fixed:
+    styles: [filled, outlined, round, sharp, twotone]
+gps-off:
+    styles: [filled, outlined, round, sharp, twotone]
+graphic-eq:
+    styles: [filled, outlined, round, sharp, twotone]
+grid-3x3:
+    styles: [filled, outlined, round, sharp, twotone]
+grid-4x4:
+    styles: [filled, outlined, round, sharp, twotone]
+grid-goldenratio:
+    styles: [filled, outlined, round, sharp, twotone]
+h-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+h-plus-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-auto-select:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-auto:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-off-select:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-on-select:
+    styles: [filled, outlined, round, sharp, twotone]
+lan:
+    styles: [filled, outlined, round, sharp, twotone]
+lens-blur:
+    styles: [filled, outlined, round, sharp, twotone]
+light-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+location-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+location-searching:
+    styles: [filled, outlined, round, sharp, twotone]
+lte-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+lte-plus-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+macro-off:
+    styles: [filled, outlined, round, sharp, twotone]
+media-bluetooth-off:
+    styles: [filled, outlined, round, sharp, twotone]
+media-bluetooth-on:
+    styles: [filled, outlined, round, sharp, twotone]
+medication-liquid:
+    styles: [filled, outlined, round, sharp, twotone]
+medication:
+    styles: [filled, outlined, round, sharp, twotone]
+mobile-friendly:
+    styles: [filled, outlined, round, sharp, twotone]
+mobile-off:
+    styles: [filled, outlined, round, sharp, twotone]
+mobiledata-off:
+    styles: [filled, outlined, round, sharp, twotone]
+mode-night:
+    styles: [filled, outlined, round, sharp, twotone]
+mode-standby:
+    styles: [filled, outlined, round, sharp, twotone]
+monitor-heart:
+    styles: [filled, outlined, round, sharp, twotone]
+monitor-weight:
+    styles: [filled, outlined, round, sharp, twotone]
+nearby-error:
+    styles: [filled, outlined, round, sharp, twotone]
+nearby-off:
+    styles: [filled, outlined, round, sharp, twotone]
+network-cell:
+    styles: [filled, outlined, round, sharp, twotone]
+network-wifi-1-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+network-wifi-2-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+network-wifi-3-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+network-wifi:
+    styles: [filled, outlined, round, sharp, twotone]
+nfc:
+    styles: [filled, outlined, round, sharp, twotone]
+nightlight:
+    styles: [filled, outlined, round, sharp, twotone]
+note-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+password:
+    styles: [filled, outlined, round, sharp, twotone]
+pattern:
+    styles: [filled, outlined, round, sharp, twotone]
+phishing:
+    styles: [filled, outlined, round, sharp, twotone]
+pin:
+    styles: [filled, outlined, round, sharp, twotone]
+play-lesson:
+    styles: [filled, outlined, round, sharp, twotone]
+price-change:
+    styles: [filled, outlined, round, sharp, twotone]
+price-check:
+    styles: [filled, outlined, round, sharp, twotone]
+punch-clock:
+    styles: [filled, outlined, round, sharp, twotone]
+quiz:
+    styles: [filled, outlined, round, sharp, twotone]
+r-mobiledata:
+    styles: [filled, outlined, round, sharp, twotone]
+radar:
+    styles: [filled, outlined, round, sharp, twotone]
+remember-me:
+    styles: [filled, outlined, round, sharp, twotone]
+reset-tv:
+    styles: [filled, outlined, round, sharp, twotone]
+restart-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+reviews:
+    styles: [filled, outlined, round, sharp, twotone]
+rsvp:
+    styles: [filled, outlined, round, sharp, twotone]
+screen-lock-landscape:
+    styles: [filled, outlined, round, sharp, twotone]
+screen-lock-portrait:
+    styles: [filled, outlined, round, sharp, twotone]
+screen-lock-rotation:
+    styles: [filled, outlined, round, sharp, twotone]
+screen-rotation:
+    styles: [filled, outlined, round, sharp, twotone]
+screen-search-desktop:
+    styles: [filled, outlined, round, sharp, twotone]
+screenshot-monitor:
+    styles: [filled, outlined, round, sharp, twotone]
+screenshot:
+    styles: [filled, outlined, round, sharp, twotone]
+sd-storage:
+    styles: [filled, outlined, round, sharp, twotone]
+security-update-good:
+    styles: [filled, outlined, round, sharp, twotone]
+security-update-warning:
+    styles: [filled, outlined, round, sharp, twotone]
+security-update:
+    styles: [filled, outlined, round, sharp, twotone]
+sell:
+    styles: [filled, outlined, round, sharp, twotone]
+send-to-mobile:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-suggest:
+    styles: [filled, outlined, round, sharp, twotone]
+settings-system-daydream:
+    styles: [filled, outlined, round, sharp, twotone]
+share-location:
+    styles: [filled, outlined, round, sharp, twotone]
+shortcut:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-0-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-1-bar:
+    styles: [twotone]
+signal-cellular-2-bar:
+    styles: [twotone]
+signal-cellular-3-bar:
+    styles: [twotone]
+signal-cellular-4-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-alt-1-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-alt-2-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-connected-no-internet-0-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-connected-no-internet-1-bar:
+    styles: [twotone]
+signal-cellular-connected-no-internet-2-bar:
+    styles: [twotone]
+signal-cellular-connected-no-internet-3-bar:
+    styles: [twotone]
+signal-cellular-connected-no-internet-4-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-no-sim:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-nodata:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-null:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-cellular-off:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-0-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-1-bar-lock:
+    styles: [twotone]
+signal-wifi-1-bar:
+    styles: [twotone]
+signal-wifi-2-bar-lock:
+    styles: [twotone]
+signal-wifi-2-bar:
+    styles: [twotone]
+signal-wifi-3-bar-lock:
+    styles: [twotone]
+signal-wifi-3-bar:
+    styles: [twotone]
+signal-wifi-4-bar-lock:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-4-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-bad:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-connected-no-internet-0:
+    styles: [twotone]
+signal-wifi-connected-no-internet-1:
+    styles: [twotone]
+signal-wifi-connected-no-internet-2:
+    styles: [twotone]
+signal-wifi-connected-no-internet-3:
+    styles: [twotone]
+signal-wifi-connected-no-internet-4:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-off:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-statusbar-1-bar:
+    styles: [twotone]
+signal-wifi-statusbar-2-bar:
+    styles: [twotone]
+signal-wifi-statusbar-3-bar:
+    styles: [twotone]
+signal-wifi-statusbar-4-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-statusbar-connected-no-internet-1:
+    styles: [twotone]
+signal-wifi-statusbar-connected-no-internet-2:
+    styles: [twotone]
+signal-wifi-statusbar-connected-no-internet-3:
+    styles: [twotone]
+signal-wifi-statusbar-connected-no-internet-4:
+    styles: [filled, outlined, round, sharp, twotone]
+signal-wifi-statusbar-connected-no-internet:
+    styles: [twotone]
+signal-wifi-statusbar-not-connected:
+    styles: [twotone]
+signal-wifi-statusbar-null:
+    styles: [filled, outlined, round, sharp, twotone]
+sim-card-download:
+    styles: [filled, outlined, round, sharp, twotone]
+splitscreen:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-score:
+    styles: [filled, outlined, round, sharp, twotone]
+ssid-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+storage:
+    styles: [filled, outlined, round, sharp, twotone]
+storm:
+    styles: [filled, outlined, round, sharp, twotone]
+summarize:
+    styles: [filled, outlined, round, sharp, twotone]
+system-security-update-good:
+    styles: [filled, outlined, round, sharp, twotone]
+system-security-update-warning:
+    styles: [filled, outlined, round, sharp, twotone]
+system-security-update:
+    styles: [filled, outlined, round, sharp, twotone]
+task:
+    styles: [filled, outlined, round, sharp, twotone]
+thermostat:
+    styles: [filled, outlined, round, sharp, twotone]
+timer-10-select:
+    styles: [filled, outlined, round, sharp, twotone]
+timer-3-select:
+    styles: [filled, outlined, round, sharp, twotone]
+tungsten:
+    styles: [filled, outlined, round, sharp, twotone]
+usb-off:
+    styles: [filled, outlined, round, sharp, twotone]
+usb:
+    styles: [filled, outlined, round, sharp, twotone]
+wallpaper:
+    styles: [filled, outlined, round, sharp, twotone]
+water:
+    styles: [filled, outlined, round, sharp, twotone]
+widgets:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-1-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-2-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-calling-1:
+    styles: [twotone]
+wifi-calling-2:
+    styles: [twotone]
+wifi-calling-3:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-channel:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-find:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-lock:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-password:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-tethering-error-rounded:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-tethering-error:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-tethering-off:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-tethering:
+    styles: [filled, outlined, round, sharp, twotone]
+add-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+add-comment:
+    styles: [filled, outlined, round, sharp, twotone]
+align-horizontal-center:
+    styles: [filled, outlined, round, sharp, twotone]
+align-horizontal-left:
+    styles: [filled, outlined, round, sharp, twotone]
+align-horizontal-right:
+    styles: [filled, outlined, round, sharp, twotone]
+align-vertical-bottom:
+    styles: [filled, outlined, round, sharp, twotone]
+align-vertical-center:
+    styles: [filled, outlined, round, sharp, twotone]
+align-vertical-top:
+    styles: [filled, outlined, round, sharp, twotone]
+area-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+attach-file:
+    styles: [filled, outlined, round, sharp, twotone]
+attach-money:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-graph:
+    styles: [filled, outlined, round, sharp, twotone]
+bar-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+border-all:
+    styles: [filled, outlined, round, sharp, twotone]
+border-bottom:
+    styles: [filled, outlined, round, sharp, twotone]
+border-clear:
+    styles: [filled, outlined, round, sharp, twotone]
+border-color:
+    styles: [filled, outlined, round, sharp, twotone]
+border-horizontal:
+    styles: [filled, outlined, round, sharp, twotone]
+border-inner:
+    styles: [filled, outlined, round, sharp, twotone]
+border-left:
+    styles: [filled, outlined, round, sharp, twotone]
+border-outer:
+    styles: [filled, outlined, round, sharp, twotone]
+border-right:
+    styles: [filled, outlined, round, sharp, twotone]
+border-style:
+    styles: [filled, outlined, round, sharp, twotone]
+border-top:
+    styles: [filled, outlined, round, sharp, twotone]
+border-vertical:
+    styles: [filled, outlined, round, sharp, twotone]
+bubble-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+candlestick-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+checklist-rtl:
+    styles: [filled, outlined, round, sharp, twotone]
+checklist:
+    styles: [filled, outlined, round, sharp, twotone]
+data-array:
+    styles: [filled, outlined, round, sharp, twotone]
+data-object:
+    styles: [filled, outlined, round, sharp, twotone]
+drag-handle:
+    styles: [filled, outlined, round, sharp, twotone]
+draw:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-note:
+    styles: [filled, outlined, round, sharp, twotone]
+format-align-center:
+    styles: [filled, outlined, round, sharp, twotone]
+format-align-justify:
+    styles: [filled, outlined, round, sharp, twotone]
+format-align-left:
+    styles: [filled, outlined, round, sharp, twotone]
+format-align-right:
+    styles: [filled, outlined, round, sharp, twotone]
+format-bold:
+    styles: [filled, outlined, round, sharp, twotone]
+format-clear:
+    styles: [filled, outlined, round, sharp, twotone]
+format-color-fill:
+    styles: [filled, outlined, round, sharp, twotone]
+format-color-reset:
+    styles: [filled, outlined, round, sharp, twotone]
+format-color-text:
+    styles: [filled, outlined, round, sharp, twotone]
+format-indent-decrease:
+    styles: [filled, outlined, round, sharp, twotone]
+format-indent-increase:
+    styles: [filled, outlined, round, sharp, twotone]
+format-italic:
+    styles: [filled, outlined, round, sharp, twotone]
+format-line-spacing:
+    styles: [filled, outlined, round, sharp, twotone]
+format-list-bulleted-add:
+    styles: [filled]
+format-list-bulleted:
+    styles: [filled, outlined, round, sharp, twotone]
+format-list-numbered-rtl:
+    styles: [filled, outlined, round, sharp, twotone]
+format-list-numbered:
+    styles: [filled, outlined, round, sharp, twotone]
+format-paint:
+    styles: [filled, outlined, round, sharp, twotone]
+format-quote:
+    styles: [filled, outlined, round, sharp, twotone]
+format-shapes:
+    styles: [filled, outlined, round, sharp, twotone]
+format-size:
+    styles: [filled, outlined, round, sharp, twotone]
+format-strikethrough:
+    styles: [filled, outlined, round, sharp, twotone]
+format-textdirection-l-to-r:
+    styles: [filled, outlined, round, sharp, twotone]
+format-textdirection-r-to-l:
+    styles: [filled, outlined, round, sharp, twotone]
+format-underlined:
+    styles: [filled, outlined, round, sharp, twotone]
+functions:
+    styles: [filled, outlined, round, sharp, twotone]
+height:
+    styles: [filled, outlined, round, sharp, twotone]
+hexagon:
+    styles: [filled, outlined, round, sharp, twotone]
+highlight:
+    styles: [filled, outlined, round, sharp, twotone]
+horizontal-distribute:
+    styles: [filled, outlined, round, sharp, twotone]
+horizontal-rule:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-chart-outlined:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-comment:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-drive-file:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-emoticon:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-invitation:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-link:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-page-break:
+    styles: [filled, outlined, round, sharp, twotone]
+insert-photo:
+    styles: [filled, outlined, round, sharp, twotone]
+line-axis:
+    styles: [filled, outlined, round, sharp, twotone]
+linear-scale:
+    styles: [filled, outlined, round, sharp, twotone]
+margin:
+    styles: [filled, outlined, round, sharp, twotone]
+merge-type:
+    styles: [filled, outlined, round, sharp, twotone]
+mode-comment:
+    styles: [filled, outlined, round, sharp, twotone]
+mode-edit-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+mode-edit:
+    styles: [filled, outlined, round, sharp, twotone]
+mode:
+    styles: [filled, outlined, round, sharp, twotone]
+monetization-on:
+    styles: [filled, outlined, round, sharp, twotone]
+money-off-csred:
+    styles: [filled, outlined, round, sharp, twotone]
+money-off:
+    styles: [filled, outlined, round, sharp, twotone]
+move-down:
+    styles: [filled, outlined, round, sharp, twotone]
+move-up:
+    styles: [filled, outlined, round, sharp, twotone]
+multiline-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+notes:
+    styles: [filled, outlined, round, sharp, twotone]
+numbers:
+    styles: [filled, outlined, round, sharp, twotone]
+padding:
+    styles: [filled, outlined, round, sharp, twotone]
+pentagon:
+    styles: [filled, outlined, round, sharp, twotone]
+pie-chart-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+pie-chart-outlined:
+    styles: [filled]
+pie-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+polyline:
+    styles: [filled, outlined, round, sharp, twotone]
+post-add:
+    styles: [filled, outlined, round, sharp, twotone]
+publish:
+    styles: [filled, outlined, round, sharp, twotone]
+query-stats:
+    styles: [filled, outlined, round, sharp, twotone]
+rectangle:
+    styles: [filled, outlined, round, sharp, twotone]
+scatter-plot:
+    styles: [filled, outlined, round, sharp, twotone]
+schema:
+    styles: [filled, outlined, round, sharp, twotone]
+score:
+    styles: [filled, outlined, round, sharp, twotone]
+shape-line:
+    styles: [filled, outlined, round, sharp, twotone]
+short-text:
+    styles: [filled, outlined, round, sharp, twotone]
+show-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+space-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+square:
+    styles: [filled, outlined, round, sharp, twotone]
+stacked-line-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+strikethrough-s:
+    styles: [filled, outlined, round, sharp, twotone]
+subscript:
+    styles: [filled, outlined, round, sharp, twotone]
+superscript:
+    styles: [filled, outlined, round, sharp, twotone]
+table-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+table-rows:
+    styles: [filled, outlined, round, sharp, twotone]
+text-decrease:
+    styles: [filled, outlined, round, sharp, twotone]
+text-fields:
+    styles: [filled, outlined, round, sharp, twotone]
+text-increase:
+    styles: [filled, outlined, round, sharp, twotone]
+title:
+    styles: [filled, outlined, round, sharp, twotone]
+type-specimen:
+    styles: [filled, outlined, round, sharp, twotone]
+vertical-align-bottom:
+    styles: [filled, outlined, round, sharp, twotone]
+vertical-align-center:
+    styles: [filled, outlined, round, sharp, twotone]
+vertical-align-top:
+    styles: [filled, outlined, round, sharp, twotone]
+vertical-distribute:
+    styles: [filled, outlined, round, sharp, twotone]
+wrap-text:
+    styles: [filled, outlined, round, sharp, twotone]
+approval:
+    styles: [filled, outlined, round, sharp, twotone]
+attach-email:
+    styles: [filled, outlined, round, sharp, twotone]
+attachment:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud-done:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud-download:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud-off:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud-queue:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud-sync:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud-upload:
+    styles: [filled, outlined, round, sharp, twotone]
+cloud:
+    styles: [filled, outlined, round, sharp, twotone]
+create-new-folder:
+    styles: [filled, outlined, round, sharp, twotone]
+difference:
+    styles: [filled, outlined, round, sharp, twotone]
+download-done:
+    styles: [filled, outlined, round, sharp, twotone]
+download-for-offline:
+    styles: [filled, outlined, round, sharp, twotone]
+download:
+    styles: [filled, outlined, round, sharp, twotone]
+downloading:
+    styles: [filled, outlined, round, sharp, twotone]
+drive-file-move-outline:
+    styles: [filled]
+drive-file-move-rtl:
+    styles: [filled, outlined, round, sharp, twotone]
+drive-file-move:
+    styles: [filled, outlined, round, sharp, twotone]
+drive-file-rename-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+drive-folder-upload:
+    styles: [filled, outlined, round, sharp, twotone]
+file-download-done:
+    styles: [filled, outlined, round, sharp, twotone]
+file-download-off:
+    styles: [filled, outlined, round, sharp, twotone]
+file-download:
+    styles: [filled, outlined, round, sharp, twotone]
+file-open:
+    styles: [filled, outlined, round, sharp, twotone]
+file-upload-off:
+    styles: [filled]
+file-upload:
+    styles: [filled, outlined, round, sharp, twotone]
+folder-copy:
+    styles: [filled, outlined, round, sharp, twotone]
+folder-delete:
+    styles: [filled, outlined, round, sharp, twotone]
+folder-off:
+    styles: [filled, outlined, round, sharp, twotone]
+folder-open:
+    styles: [filled, outlined, round, sharp, twotone]
+folder-shared:
+    styles: [filled, outlined, round, sharp, twotone]
+folder-zip:
+    styles: [filled, outlined, round, sharp, twotone]
+folder:
+    styles: [filled, outlined, round, sharp, twotone]
+format-overline:
+    styles: [filled, outlined, round, sharp, twotone]
+grid-view:
+    styles: [filled, outlined, round, sharp, twotone]
+newspaper:
+    styles: [filled, outlined, round, sharp, twotone]
+request-quote:
+    styles: [filled, outlined, round, sharp, twotone]
+rule-folder:
+    styles: [filled, outlined, round, sharp, twotone]
+snippet-folder:
+    styles: [filled, outlined, round, sharp, twotone]
+text-snippet:
+    styles: [filled, outlined, round, sharp, twotone]
+topic:
+    styles: [filled, outlined, round, sharp, twotone]
+upload-file:
+    styles: [filled, outlined, round, sharp, twotone]
+upload:
+    styles: [filled, outlined, round, sharp, twotone]
+workspaces-filled:
+    styles: [filled]
+workspaces-outline:
+    styles: [filled]
+workspaces:
+    styles: [filled, outlined, round, sharp, twotone]
+adf-scanner:
+    styles: [filled, outlined, round, sharp, twotone]
+browser-not-supported:
+    styles: [filled, outlined, round, sharp, twotone]
+browser-updated:
+    styles: [filled, outlined, round, sharp, twotone]
+cast-connected:
+    styles: [filled, outlined, round, sharp, twotone]
+cast-for-education:
+    styles: [filled, outlined, round, sharp, twotone]
+cast:
+    styles: [filled, outlined, round, sharp, twotone]
+computer:
+    styles: [filled, outlined, round, sharp, twotone]
+connected-tv:
+    styles: [filled, outlined, round, sharp, twotone]
+conveyor-belt:
+    styles: [filled]
+desktop-mac:
+    styles: [filled, outlined, round, sharp, twotone]
+desktop-windows:
+    styles: [filled, outlined, round, sharp, twotone]
+developer-board-off:
+    styles: [filled, outlined, round, sharp, twotone]
+developer-board:
+    styles: [filled, outlined, round, sharp, twotone]
+device-hub:
+    styles: [filled, outlined, round, sharp, twotone]
+device-unknown:
+    styles: [filled, outlined, round, sharp, twotone]
+devices-other:
+    styles: [filled, outlined, round, sharp, twotone]
+dock:
+    styles: [filled, outlined, round, sharp, twotone]
+earbuds-battery:
+    styles: [filled, outlined, round, sharp, twotone]
+earbuds:
+    styles: [filled, outlined, round, sharp, twotone]
+forklift:
+    styles: [filled]
+front-loader:
+    styles: [filled]
+gamepad:
+    styles: [filled, outlined, round, sharp, twotone]
+headphones-battery:
+    styles: [filled, outlined, round, sharp, twotone]
+headphones:
+    styles: [filled, outlined, round, sharp, twotone]
+headset-mic:
+    styles: [filled, outlined, round, sharp, twotone]
+headset-off:
+    styles: [filled, outlined, round, sharp, twotone]
+headset:
+    styles: [filled, outlined, round, sharp, twotone]
+home-max:
+    styles: [filled, outlined, round, sharp, twotone]
+home-mini:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-arrow-down:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-arrow-left:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-arrow-right:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-arrow-up:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-backspace:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-capslock:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-command-key:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-control-key:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-double-arrow-down:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-double-arrow-left:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-double-arrow-right:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-double-arrow-up:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-hide:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-option-key:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-return:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-tab:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard-voice:
+    styles: [filled, outlined, round, sharp, twotone]
+keyboard:
+    styles: [filled, outlined, round, sharp, twotone]
+laptop-chromebook:
+    styles: [filled, outlined, round, sharp, twotone]
+laptop-mac:
+    styles: [filled, outlined, round, sharp, twotone]
+laptop-windows:
+    styles: [filled, outlined, round, sharp, twotone]
+laptop:
+    styles: [filled, outlined, round, sharp, twotone]
+memory:
+    styles: [filled, outlined, round, sharp, twotone]
+monitor:
+    styles: [filled, outlined, round, sharp, twotone]
+mouse:
+    styles: [filled, outlined, round, sharp, twotone]
+pallet:
+    styles: [filled]
+phone-android:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-iphone:
+    styles: [filled, outlined, round, sharp, twotone]
+phonelink-off:
+    styles: [filled, outlined, round, sharp, twotone]
+phonelink:
+    styles: [filled, outlined, round, sharp, twotone]
+point-of-sale:
+    styles: [filled, outlined, round, sharp, twotone]
+power-input:
+    styles: [filled, outlined, round, sharp, twotone]
+router:
+    styles: [filled, outlined, round, sharp, twotone]
+scanner:
+    styles: [filled, outlined, round, sharp, twotone]
+security:
+    styles: [filled, outlined, round, sharp, twotone]
+sim-card:
+    styles: [filled, outlined, round, sharp, twotone]
+smart-display:
+    styles: [filled, outlined, round, sharp, twotone]
+smart-screen:
+    styles: [filled, outlined, round, sharp, twotone]
+smart-toy:
+    styles: [filled, outlined, round, sharp, twotone]
+smartphone:
+    styles: [filled, outlined, round, sharp, twotone]
+speaker-group:
+    styles: [filled, outlined, round, sharp, twotone]
+speaker:
+    styles: [filled, outlined, round, sharp, twotone]
+start:
+    styles: [filled, outlined, round, sharp, twotone]
+tablet-android:
+    styles: [filled, outlined, round, sharp, twotone]
+tablet-mac:
+    styles: [filled, outlined, round, sharp, twotone]
+tablet:
+    styles: [filled, outlined, round, sharp, twotone]
+toys:
+    styles: [filled, outlined, round, sharp, twotone]
+trolley:
+    styles: [filled]
+tv:
+    styles: [filled, outlined, round, sharp, twotone]
+videogame-asset-off:
+    styles: [filled, outlined, round, sharp, twotone]
+videogame-asset:
+    styles: [filled, outlined, round, sharp, twotone]
+watch-off:
+    styles: [filled, outlined, round, sharp, twotone]
+watch:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+blinds-closed:
+    styles: [filled, outlined, round, sharp, twotone]
+blinds:
+    styles: [filled, outlined, round, sharp, twotone]
+broadcast-on-home:
+    styles: [filled, outlined, round, sharp, twotone]
+broadcast-on-personal:
+    styles: [filled, outlined, round, sharp, twotone]
+cloudy-snowing:
+    styles: [filled]
+curtains-closed:
+    styles: [filled, outlined, round, sharp, twotone]
+curtains:
+    styles: [filled, outlined, round, sharp, twotone]
+electric-bolt:
+    styles: [filled, outlined, round, sharp, twotone]
+electric-meter:
+    styles: [filled, outlined, round, sharp, twotone]
+energy-savings-leaf:
+    styles: [filled, outlined, round, sharp, twotone]
+foggy:
+    styles: [filled]
+gas-meter:
+    styles: [filled, outlined, round, sharp, twotone]
+heat-pump:
+    styles: [filled, outlined, round, sharp, twotone]
+mode-fan-off:
+    styles: [filled, outlined, round, sharp, twotone]
+nest-cam-wired-stand:
+    styles: [filled, outlined, round, sharp, twotone]
+oil-barrel:
+    styles: [filled, outlined, round, sharp, twotone]
+propane-tank:
+    styles: [filled, outlined, round, sharp, twotone]
+propane:
+    styles: [filled, outlined, round, sharp, twotone]
+roller-shades-closed:
+    styles: [filled, outlined, round, sharp, twotone]
+roller-shades:
+    styles: [filled, outlined, round, sharp, twotone]
+sensor-door:
+    styles: [filled, outlined, round, sharp, twotone]
+sensor-occupied:
+    styles: [filled, outlined, round, sharp, twotone]
+sensor-window:
+    styles: [filled, outlined, round, sharp, twotone]
+shelves:
+    styles: [filled]
+shield-moon:
+    styles: [filled, outlined, round, sharp, twotone]
+snowing:
+    styles: [filled]
+solar-power:
+    styles: [filled, outlined, round, sharp, twotone]
+sunny-snowing:
+    styles: [filled]
+sunny:
+    styles: [filled]
+vertical-shades-closed:
+    styles: [filled, outlined, round, sharp, twotone]
+vertical-shades:
+    styles: [filled, outlined, round, sharp, twotone]
+wind-power:
+    styles: [filled, outlined, round, sharp, twotone]
+10mp:
+    styles: [filled, outlined, round, sharp, twotone]
+11mp:
+    styles: [filled, outlined, round, sharp, twotone]
+12mp:
+    styles: [filled, outlined, round, sharp, twotone]
+13mp:
+    styles: [filled, outlined, round, sharp, twotone]
+14mp:
+    styles: [filled, outlined, round, sharp, twotone]
+15mp:
+    styles: [filled, outlined, round, sharp, twotone]
+16mp:
+    styles: [filled, outlined, round, sharp, twotone]
+17mp:
+    styles: [filled, outlined, round, sharp, twotone]
+18mp:
+    styles: [filled, outlined, round, sharp, twotone]
+19mp:
+    styles: [filled, outlined, round, sharp, twotone]
+20mp:
+    styles: [filled, outlined, round, sharp, twotone]
+21mp:
+    styles: [filled, outlined, round, sharp, twotone]
+22mp:
+    styles: [filled, outlined, round, sharp, twotone]
+23mp:
+    styles: [filled, outlined, round, sharp, twotone]
+24mp:
+    styles: [filled, outlined, round, sharp, twotone]
+2mp:
+    styles: [filled, outlined, round, sharp, twotone]
+30fps-select:
+    styles: [filled, outlined, round, sharp, twotone]
+3mp:
+    styles: [filled, outlined, round, sharp, twotone]
+4mp:
+    styles: [filled, outlined, round, sharp, twotone]
+5mp:
+    styles: [filled, outlined, round, sharp, twotone]
+60fps-select:
+    styles: [filled, outlined, round, sharp, twotone]
+6mp:
+    styles: [filled, outlined, round, sharp, twotone]
+7mp:
+    styles: [filled, outlined, round, sharp, twotone]
+8mp:
+    styles: [filled, outlined, round, sharp, twotone]
+9mp:
+    styles: [filled, outlined, round, sharp, twotone]
+add-a-photo:
+    styles: [filled, outlined, round, sharp, twotone]
+add-photo-alternate:
+    styles: [filled, outlined, round, sharp, twotone]
+add-to-photos:
+    styles: [filled, outlined, round, sharp, twotone]
+adjust:
+    styles: [filled, outlined, round, sharp, twotone]
+animation:
+    styles: [filled, outlined, round, sharp, twotone]
+assistant-photo:
+    styles: [filled, outlined, round, sharp, twotone]
+assistant:
+    styles: [filled, outlined, round, sharp, twotone]
+audiotrack:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-awesome-mosaic:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-awesome-motion:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-awesome:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-fix-high:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-fix-normal:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-fix-off:
+    styles: [filled, outlined, round, sharp, twotone]
+auto-stories:
+    styles: [filled, outlined, round, sharp, twotone]
+autofps-select:
+    styles: [filled, outlined, round, sharp, twotone]
+bedtime-off:
+    styles: [filled, outlined, round, sharp, twotone]
+bedtime:
+    styles: [filled, outlined, round, sharp, twotone]
+blur-circular:
+    styles: [filled, outlined, round, sharp, twotone]
+blur-linear:
+    styles: [filled, outlined, round, sharp, twotone]
+blur-off:
+    styles: [filled, outlined, round, sharp, twotone]
+blur-on:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-1:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-2:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-3:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-4:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-5:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-6:
+    styles: [filled, outlined, round, sharp, twotone]
+brightness-7:
+    styles: [filled, outlined, round, sharp, twotone]
+broken-image:
+    styles: [filled, outlined, round, sharp, twotone]
+brush:
+    styles: [filled, outlined, round, sharp, twotone]
+burst-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+camera-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+camera-front:
+    styles: [filled, outlined, round, sharp, twotone]
+camera-rear:
+    styles: [filled, outlined, round, sharp, twotone]
+camera-roll:
+    styles: [filled, outlined, round, sharp, twotone]
+camera:
+    styles: [filled, outlined, round, sharp, twotone]
+cases:
+    styles: [filled, outlined, round, sharp, twotone]
+center-focus-strong:
+    styles: [filled, outlined, round, sharp, twotone]
+center-focus-weak:
+    styles: [filled, outlined, round, sharp, twotone]
+circle:
+    styles: [filled, outlined, round, sharp, twotone]
+collections-bookmark:
+    styles: [filled, outlined, round, sharp, twotone]
+collections:
+    styles: [filled, outlined, round, sharp, twotone]
+color-lens:
+    styles: [filled, outlined, round, sharp, twotone]
+colorize:
+    styles: [filled, outlined, round, sharp, twotone]
+compare:
+    styles: [filled, outlined, round, sharp, twotone]
+contrast:
+    styles: [filled, outlined, round, sharp, twotone]
+control-point-duplicate:
+    styles: [filled, outlined, round, sharp, twotone]
+control-point:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-16-9:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-3-2:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-5-4:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-7-5:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-din:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-free:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-landscape:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-original:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-portrait:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-rotate:
+    styles: [filled, outlined, round, sharp, twotone]
+crop-square:
+    styles: [filled, outlined, round, sharp, twotone]
+crop:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-bitcoin:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-franc:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-lira:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-pound:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-ruble:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-rupee:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-yen:
+    styles: [filled, outlined, round, sharp, twotone]
+currency-yuan:
+    styles: [filled, outlined, round, sharp, twotone]
+deblur:
+    styles: [filled, outlined, round, sharp, twotone]
+dehaze:
+    styles: [filled, outlined, round, sharp, twotone]
+details:
+    styles: [filled, outlined, round, sharp, twotone]
+dirty-lens:
+    styles: [filled, outlined, round, sharp, twotone]
+edit:
+    styles: [filled, outlined, round, sharp, twotone]
+euro:
+    styles: [filled, outlined, round, sharp, twotone]
+exposure-neg-1:
+    styles: [filled, outlined, round, sharp, twotone]
+exposure-neg-2:
+    styles: [filled, outlined, round, sharp, twotone]
+exposure-plus-1:
+    styles: [filled, outlined, round, sharp, twotone]
+exposure-plus-2:
+    styles: [filled, outlined, round, sharp, twotone]
+exposure-zero:
+    styles: [filled, outlined, round, sharp, twotone]
+exposure:
+    styles: [filled, outlined, round, sharp, twotone]
+face-retouching-natural:
+    styles: [filled, outlined, round, sharp, twotone]
+face-retouching-off:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-1:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-2:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-3:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-4:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-5:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-6:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-7:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-8:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-9-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-9:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-b-and-w:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-center-focus:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-drama:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-frames:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-hdr:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-none:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-tilt-shift:
+    styles: [filled, outlined, round, sharp, twotone]
+filter-vintage:
+    styles: [filled, outlined, round, sharp, twotone]
+filter:
+    styles: [filled, outlined, round, sharp, twotone]
+flare:
+    styles: [filled, outlined, round, sharp, twotone]
+flash-auto:
+    styles: [filled, outlined, round, sharp, twotone]
+flash-off:
+    styles: [filled, outlined, round, sharp, twotone]
+flash-on:
+    styles: [filled, outlined, round, sharp, twotone]
+flip-camera-android:
+    styles: [filled, outlined, round, sharp, twotone]
+flip-camera-ios:
+    styles: [filled, outlined, round, sharp, twotone]
+flip:
+    styles: [filled, outlined, round, sharp, twotone]
+gradient:
+    styles: [filled, outlined, round, sharp, twotone]
+grain:
+    styles: [filled, outlined, round, sharp, twotone]
+grid-off:
+    styles: [filled, outlined, round, sharp, twotone]
+grid-on:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-enhanced-select:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-off:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-on:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-plus:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-strong:
+    styles: [filled, outlined, round, sharp, twotone]
+hdr-weak:
+    styles: [filled, outlined, round, sharp, twotone]
+healing:
+    styles: [filled, outlined, round, sharp, twotone]
+hevc:
+    styles: [filled, outlined, round, sharp, twotone]
+hide-image:
+    styles: [filled, outlined, round, sharp, twotone]
+image-aspect-ratio:
+    styles: [filled, outlined, round, sharp, twotone]
+image-not-supported:
+    styles: [filled, outlined, round, sharp, twotone]
+image-search:
+    styles: [filled, outlined, round, sharp, twotone]
+image:
+    styles: [filled, outlined, round, sharp, twotone]
+incomplete-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+iso:
+    styles: [filled, outlined, round, sharp, twotone]
+landscape:
+    styles: [filled, outlined, round, sharp, twotone]
+leak-add:
+    styles: [filled, outlined, round, sharp, twotone]
+leak-remove:
+    styles: [filled, outlined, round, sharp, twotone]
+lens:
+    styles: [filled, outlined, round, sharp, twotone]
+linked-camera:
+    styles: [filled, outlined, round, sharp, twotone]
+logo-dev:
+    styles: [filled, outlined, round, sharp, twotone]
+looks-3:
+    styles: [filled, outlined, round, sharp, twotone]
+looks-4:
+    styles: [filled, outlined, round, sharp, twotone]
+looks-5:
+    styles: [filled, outlined, round, sharp, twotone]
+looks-6:
+    styles: [filled, outlined, round, sharp, twotone]
+looks-one:
+    styles: [filled, outlined, round, sharp, twotone]
+looks-two:
+    styles: [filled, outlined, round, sharp, twotone]
+looks:
+    styles: [filled, outlined, round, sharp, twotone]
+loupe:
+    styles: [filled, outlined, round, sharp, twotone]
+mic-external-off:
+    styles: [filled, outlined, round, sharp, twotone]
+mic-external-on:
+    styles: [filled, outlined, round, sharp, twotone]
+monochrome-photos:
+    styles: [filled, outlined, round, sharp, twotone]
+motion-photos-auto:
+    styles: [filled, outlined, round, sharp, twotone]
+motion-photos-off:
+    styles: [filled, outlined, round, sharp, twotone]
+motion-photos-on:
+    styles: [filled, outlined, round, sharp, twotone]
+motion-photos-pause:
+    styles: [filled, outlined, round, sharp, twotone]
+motion-photos-paused:
+    styles: [filled, outlined, round, sharp, twotone]
+movie-creation:
+    styles: [filled, outlined, round, sharp, twotone]
+movie-filter:
+    styles: [filled, outlined, round, sharp, twotone]
+mp:
+    styles: [filled, outlined, round, sharp, twotone]
+music-note:
+    styles: [filled, outlined, round, sharp, twotone]
+music-off:
+    styles: [filled, outlined, round, sharp, twotone]
+nature-people:
+    styles: [filled, outlined, round, sharp, twotone]
+nature:
+    styles: [filled, outlined, round, sharp, twotone]
+navigate-before:
+    styles: [filled, outlined, round, sharp, twotone]
+navigate-next:
+    styles: [filled, outlined, round, sharp, twotone]
+palette:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-fish-eye:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-horizontal-select:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-horizontal:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-photosphere-select:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-photosphere:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-vertical-select:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-vertical:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-wide-angle-select:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama-wide-angle:
+    styles: [filled, outlined, round, sharp, twotone]
+panorama:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-album:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-camera-back:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-camera-front:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-camera:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-filter:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-library:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-size-select-actual:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-size-select-large:
+    styles: [filled, outlined, round, sharp, twotone]
+photo-size-select-small:
+    styles: [filled, outlined, round, sharp, twotone]
+photo:
+    styles: [filled, outlined, round, sharp, twotone]
+picture-as-pdf:
+    styles: [filled, outlined, round, sharp, twotone]
+portrait:
+    styles: [filled, outlined, round, sharp, twotone]
+raw-off:
+    styles: [filled, outlined, round, sharp, twotone]
+raw-on:
+    styles: [filled, outlined, round, sharp, twotone]
+receipt-long:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-red-eye:
+    styles: [filled, outlined, round, sharp, twotone]
+rotate-90-degrees-ccw:
+    styles: [filled, outlined, round, sharp, twotone]
+rotate-90-degrees-cw:
+    styles: [filled, outlined, round, sharp, twotone]
+rotate-left:
+    styles: [filled, outlined, round, sharp, twotone]
+rotate-right:
+    styles: [filled, outlined, round, sharp, twotone]
+shutter-speed:
+    styles: [filled, outlined, round, sharp, twotone]
+slideshow:
+    styles: [filled, outlined, round, sharp, twotone]
+straighten:
+    styles: [filled, outlined, round, sharp, twotone]
+style:
+    styles: [filled, outlined, round, sharp, twotone]
+switch-camera:
+    styles: [filled, outlined, round, sharp, twotone]
+switch-video:
+    styles: [filled, outlined, round, sharp, twotone]
+tag-faces:
+    styles: [filled, outlined, round, sharp, twotone]
+texture:
+    styles: [filled, outlined, round, sharp, twotone]
+thermostat-auto:
+    styles: [filled, outlined, round, sharp, twotone]
+timelapse:
+    styles: [filled, outlined, round, sharp, twotone]
+timer-10:
+    styles: [filled, outlined, round, sharp, twotone]
+timer-3:
+    styles: [filled, outlined, round, sharp, twotone]
+timer-off:
+    styles: [filled, outlined, round, sharp, twotone]
+timer:
+    styles: [filled, outlined, round, sharp, twotone]
+tonality:
+    styles: [filled, outlined, round, sharp, twotone]
+transform:
+    styles: [filled, outlined, round, sharp, twotone]
+tune:
+    styles: [filled, outlined, round, sharp, twotone]
+video-camera-back:
+    styles: [filled, outlined, round, sharp, twotone]
+video-camera-front:
+    styles: [filled, outlined, round, sharp, twotone]
+video-stable:
+    styles: [filled, outlined, round, sharp, twotone]
+view-comfy:
+    styles: [filled, outlined, round, sharp, twotone]
+view-compact:
+    styles: [filled, outlined, round, sharp, twotone]
+vignette:
+    styles: [filled, outlined, round, sharp, twotone]
+vrpano:
+    styles: [filled, outlined, round, sharp, twotone]
+wb-auto:
+    styles: [filled, outlined, round, sharp, twotone]
+wb-cloudy:
+    styles: [filled, outlined, round, sharp, twotone]
+wb-incandescent:
+    styles: [filled, outlined, round, sharp, twotone]
+wb-iridescent:
+    styles: [filled, outlined, round, sharp, twotone]
+wb-shade:
+    styles: [filled, outlined, round, sharp, twotone]
+wb-sunny:
+    styles: [filled, outlined, round, sharp, twotone]
+wb-twighlight:
+    styles: [filled]
+wb-twilight:
+    styles: [filled, outlined, round, sharp, twotone]
+add-business:
+    styles: [filled, outlined, round, sharp, twotone]
+add-location-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+add-location:
+    styles: [filled, outlined, round, sharp, twotone]
+add-road:
+    styles: [filled, outlined, round, sharp, twotone]
+agriculture:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-stops:
+    styles: [filled, outlined, round, sharp, twotone]
+airlines:
+    styles: [filled, outlined, round, sharp, twotone]
+alt-route:
+    styles: [filled, outlined, round, sharp, twotone]
+atm:
+    styles: [filled, outlined, round, sharp, twotone]
+attractions:
+    styles: [filled, outlined, round, sharp, twotone]
+badge:
+    styles: [filled, outlined, round, sharp, twotone]
+bakery-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+beenhere:
+    styles: [filled, outlined, round, sharp, twotone]
+bike-scooter:
+    styles: [filled, outlined, round, sharp, twotone]
+breakfast-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+brunch-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+bus-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+car-crash:
+    styles: [filled, outlined, round, sharp, twotone]
+car-rental:
+    styles: [filled, outlined, round, sharp, twotone]
+car-repair:
+    styles: [filled, outlined, round, sharp, twotone]
+castle:
+    styles: [filled, outlined, round, sharp, twotone]
+category:
+    styles: [filled, outlined, round, sharp, twotone]
+celebration:
+    styles: [filled, outlined, round, sharp, twotone]
+church:
+    styles: [filled, outlined, round, sharp, twotone]
+cleaning-services:
+    styles: [filled, outlined, round, sharp, twotone]
+compass-calibration:
+    styles: [filled, outlined, round, sharp, twotone]
+connecting-airports:
+    styles: [filled, outlined, round, sharp, twotone]
+crisis-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+delivery-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+departure-board:
+    styles: [filled, outlined, round, sharp, twotone]
+design-services:
+    styles: [filled, outlined, round, sharp, twotone]
+diamond:
+    styles: [filled, outlined, round, sharp, twotone]
+dinner-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-bike:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-boat-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-boat:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-bus-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-bus:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-car-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-car:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-railway-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-railway:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-run:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-subway-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-subway:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-transit-filled:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-transit:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-walk:
+    styles: [filled, outlined, round, sharp, twotone]
+directions:
+    styles: [filled, outlined, round, sharp, twotone]
+dry-cleaning:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-attributes:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-location-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-location:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-road:
+    styles: [filled, outlined, round, sharp, twotone]
+egg-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+egg:
+    styles: [filled, outlined, round, sharp, twotone]
+electric-bike:
+    styles: [filled, outlined, round, sharp, twotone]
+electric-car:
+    styles: [filled, outlined, round, sharp, twotone]
+electric-moped:
+    styles: [filled, outlined, round, sharp, twotone]
+electric-rickshaw:
+    styles: [filled, outlined, round, sharp, twotone]
+electric-scooter:
+    styles: [filled, outlined, round, sharp, twotone]
+electrical-services:
+    styles: [filled, outlined, round, sharp, twotone]
+emergency-recording:
+    styles: [filled, outlined, round, sharp, twotone]
+emergency-share:
+    styles: [filled, outlined, round, sharp, twotone]
+emergency:
+    styles: [filled, outlined, round, sharp, twotone]
+ev-station:
+    styles: [filled, outlined, round, sharp, twotone]
+factory:
+    styles: [filled, outlined, round, sharp, twotone]
+fastfood:
+    styles: [filled, outlined, round, sharp, twotone]
+festival:
+    styles: [filled, outlined, round, sharp, twotone]
+fire-hydrant-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+fire-truck:
+    styles: [filled, outlined, round, sharp, twotone]
+flight-class:
+    styles: [filled, outlined, round, sharp, twotone]
+flight:
+    styles: [filled, outlined, round, sharp, twotone]
+forest:
+    styles: [filled, outlined, round, sharp, twotone]
+fork-left:
+    styles: [filled, outlined, round, sharp, twotone]
+fork-right:
+    styles: [filled, outlined, round, sharp, twotone]
+fort:
+    styles: [filled, outlined, round, sharp, twotone]
+hail:
+    styles: [filled, outlined, round, sharp, twotone]
+handyman:
+    styles: [filled, outlined, round, sharp, twotone]
+hardware:
+    styles: [filled, outlined, round, sharp, twotone]
+home-repair-service:
+    styles: [filled, outlined, round, sharp, twotone]
+hotel:
+    styles: [filled, outlined, round, sharp, twotone]
+hvac:
+    styles: [filled, outlined, round, sharp, twotone]
+icecream:
+    styles: [filled, outlined, round, sharp, twotone]
+kebab-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+layers-clear:
+    styles: [filled, outlined, round, sharp, twotone]
+layers:
+    styles: [filled, outlined, round, sharp, twotone]
+liquor:
+    styles: [filled, outlined, round, sharp, twotone]
+local-activity:
+    styles: [filled, outlined, round, sharp, twotone]
+local-airport:
+    styles: [filled, outlined, round, sharp, twotone]
+local-atm:
+    styles: [filled, outlined, round, sharp, twotone]
+local-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+local-cafe:
+    styles: [filled, outlined, round, sharp, twotone]
+local-car-wash:
+    styles: [filled, outlined, round, sharp, twotone]
+local-convenience-store:
+    styles: [filled, outlined, round, sharp, twotone]
+local-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+local-drink:
+    styles: [filled, outlined, round, sharp, twotone]
+local-fire-department:
+    styles: [filled, outlined, round, sharp, twotone]
+local-florist:
+    styles: [filled, outlined, round, sharp, twotone]
+local-gas-station:
+    styles: [filled, outlined, round, sharp, twotone]
+local-grocery-store:
+    styles: [filled, outlined, round, sharp, twotone]
+local-hospital:
+    styles: [filled, outlined, round, sharp, twotone]
+local-hotel:
+    styles: [filled, outlined, round, sharp, twotone]
+local-laundry-service:
+    styles: [filled, outlined, round, sharp, twotone]
+local-library:
+    styles: [filled, outlined, round, sharp, twotone]
+local-mall:
+    styles: [filled, outlined, round, sharp, twotone]
+local-movies:
+    styles: [filled, outlined, round, sharp, twotone]
+local-offer:
+    styles: [filled, outlined, round, sharp, twotone]
+local-parking:
+    styles: [filled, outlined, round, sharp, twotone]
+local-pharmacy:
+    styles: [filled, outlined, round, sharp, twotone]
+local-phone:
+    styles: [filled, outlined, round, sharp, twotone]
+local-pizza:
+    styles: [filled, outlined, round, sharp, twotone]
+local-play:
+    styles: [filled, outlined, round, sharp, twotone]
+local-police:
+    styles: [filled, outlined, round, sharp, twotone]
+local-post-office:
+    styles: [filled, outlined, round, sharp, twotone]
+local-printshop:
+    styles: [filled, outlined, round, sharp, twotone]
+local-see:
+    styles: [filled, outlined, round, sharp, twotone]
+local-shipping:
+    styles: [filled, outlined, round, sharp, twotone]
+local-taxi:
+    styles: [filled, outlined, round, sharp, twotone]
+location-pin:
+    styles: [filled]
+lunch-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+map:
+    styles: [filled, outlined, round, sharp, twotone]
+maps-ugc:
+    styles: [filled, outlined, round, sharp, twotone]
+medical-information:
+    styles: [filled, outlined, round, sharp, twotone]
+medical-services:
+    styles: [filled, outlined, round, sharp, twotone]
+menu-book:
+    styles: [filled, outlined, round, sharp, twotone]
+merge:
+    styles: [filled, outlined, round, sharp, twotone]
+minor-crash:
+    styles: [filled, outlined, round, sharp, twotone]
+miscellaneous-services:
+    styles: [filled, outlined, round, sharp, twotone]
+mode-of-travel:
+    styles: [filled, outlined, round, sharp, twotone]
+money:
+    styles: [filled, outlined, round, sharp, twotone]
+moped:
+    styles: [filled, outlined, round, sharp, twotone]
+mosque:
+    styles: [filled, outlined, round, sharp, twotone]
+moving:
+    styles: [filled, outlined, round, sharp, twotone]
+multiple-stop:
+    styles: [filled, outlined, round, sharp, twotone]
+museum:
+    styles: [filled, outlined, round, sharp, twotone]
+my-location:
+    styles: [filled, outlined, round, sharp, twotone]
+navigation:
+    styles: [filled, outlined, round, sharp, twotone]
+near-me-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+near-me:
+    styles: [filled, outlined, round, sharp, twotone]
+nightlife:
+    styles: [filled, outlined, round, sharp, twotone]
+no-crash:
+    styles: [filled, outlined, round, sharp, twotone]
+no-meals-ouline:
+    styles: [filled]
+no-meals:
+    styles: [filled, outlined, round, sharp, twotone]
+no-transfer:
+    styles: [filled, outlined, round, sharp, twotone]
+not-listed-location:
+    styles: [filled, outlined, round, sharp, twotone]
+park:
+    styles: [filled, outlined, round, sharp, twotone]
+pedal-bike:
+    styles: [filled, outlined, round, sharp, twotone]
+person-pin-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+person-pin:
+    styles: [filled, outlined, round, sharp, twotone]
+pest-control-rodent:
+    styles: [filled, outlined, round, sharp, twotone]
+pest-control:
+    styles: [filled, outlined, round, sharp, twotone]
+pin-drop:
+    styles: [filled, outlined, round, sharp, twotone]
+place:
+    styles: [filled, outlined, round, sharp, twotone]
+plumbing:
+    styles: [filled, outlined, round, sharp, twotone]
+railway-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+ramen-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+ramp-left:
+    styles: [filled, outlined, round, sharp, twotone]
+ramp-right:
+    styles: [filled, outlined, round, sharp, twotone]
+rate-review:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-road:
+    styles: [filled, outlined, round, sharp, twotone]
+restaurant-menu:
+    styles: [filled, outlined, round, sharp, twotone]
+restaurant:
+    styles: [filled, outlined, round, sharp, twotone]
+roundabout-left:
+    styles: [filled, outlined, round, sharp, twotone]
+roundabout-right:
+    styles: [filled, outlined, round, sharp, twotone]
+route:
+    styles: [filled, outlined, round, sharp, twotone]
+run-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+safety-check:
+    styles: [filled, outlined, round, sharp, twotone]
+sailing:
+    styles: [filled, outlined, round, sharp, twotone]
+satellite:
+    styles: [filled, outlined, round, sharp, twotone]
+screen-rotation-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+set-meal:
+    styles: [filled, outlined, round, sharp, twotone]
+signpost:
+    styles: [filled, outlined, round, sharp, twotone]
+snowmobile:
+    styles: [filled, outlined, round, sharp, twotone]
+sos:
+    styles: [filled, outlined, round, sharp, twotone]
+soup-kitchen:
+    styles: [filled, outlined, round, sharp, twotone]
+stadium:
+    styles: [filled, outlined, round, sharp, twotone]
+store-mall-directory:
+    styles: [filled, outlined, round, sharp, twotone]
+straight:
+    styles: [filled, outlined, round, sharp, twotone]
+streetview:
+    styles: [filled, outlined, round, sharp, twotone]
+subway:
+    styles: [filled, outlined, round, sharp, twotone]
+synagogue:
+    styles: [filled, outlined, round, sharp, twotone]
+takeout-dining:
+    styles: [filled, outlined, round, sharp, twotone]
+taxi-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+temple-buddhist:
+    styles: [filled, outlined, round, sharp, twotone]
+temple-hindu:
+    styles: [filled, outlined, round, sharp, twotone]
+terrain:
+    styles: [filled, outlined, round, sharp, twotone]
+theater-comedy:
+    styles: [filled, outlined, round, sharp, twotone]
+tire-repair:
+    styles: [filled, outlined, round, sharp, twotone]
+traffic:
+    styles: [filled, outlined, round, sharp, twotone]
+train:
+    styles: [filled, outlined, round, sharp, twotone]
+tram:
+    styles: [filled, outlined, round, sharp, twotone]
+transfer-within-a-station:
+    styles: [filled, outlined, round, sharp, twotone]
+transit-enterexit:
+    styles: [filled, outlined, round, sharp, twotone]
+trip-origin:
+    styles: [filled, outlined, round, sharp, twotone]
+turn-left:
+    styles: [filled, outlined, round, sharp, twotone]
+turn-right:
+    styles: [filled, outlined, round, sharp, twotone]
+turn-sharp-left:
+    styles: [filled, outlined, round, sharp, twotone]
+turn-sharp-right:
+    styles: [filled, outlined, round, sharp, twotone]
+turn-slight-left:
+    styles: [filled, outlined, round, sharp, twotone]
+turn-slight-right:
+    styles: [filled, outlined, round, sharp, twotone]
+two-wheeler:
+    styles: [filled, outlined, round, sharp, twotone]
+u-turn-left:
+    styles: [filled, outlined, round, sharp, twotone]
+u-turn-right:
+    styles: [filled, outlined, round, sharp, twotone]
+volunteer-activism:
+    styles: [filled, outlined, round, sharp, twotone]
+warehouse:
+    styles: [filled, outlined, round, sharp, twotone]
+wine-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+wrong-location:
+    styles: [filled, outlined, round, sharp, twotone]
+zoom-in-map:
+    styles: [filled, outlined, round, sharp, twotone]
+zoom-out-map:
+    styles: [filled, outlined, round, sharp, twotone]
+add-home-work:
+    styles: [filled, outlined, round, sharp, twotone]
+app-settings-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+apps-outage:
+    styles: [filled, outlined, round, sharp, twotone]
+apps:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-back-ios-new:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-back-ios:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-back:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-downward:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-drop-down-circle:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-drop-down:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-drop-up:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-forward-ios:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-forward:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-left:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-right:
+    styles: [filled, outlined, round, sharp, twotone]
+arrow-upward:
+    styles: [filled, outlined, round, sharp, twotone]
+assistant-direction:
+    styles: [filled, outlined, round, sharp, twotone]
+assistant-navigation:
+    styles: [filled]
+campaign:
+    styles: [filled, outlined, round, sharp, twotone]
+cancel:
+    styles: [filled, outlined, round, sharp, twotone]
+check:
+    styles: [filled, outlined, round, sharp, twotone]
+chevron-left:
+    styles: [filled, outlined, round, sharp, twotone]
+chevron-right:
+    styles: [filled, outlined, round, sharp, twotone]
+close:
+    styles: [filled, outlined, round, sharp, twotone]
+double-arrow:
+    styles: [filled, outlined, round, sharp, twotone]
+east:
+    styles: [filled, outlined, round, sharp, twotone]
+expand-circle-down:
+    styles: [filled, outlined, round, sharp, twotone]
+expand-less:
+    styles: [filled, outlined, round, sharp, twotone]
+expand-more:
+    styles: [filled, outlined, round, sharp, twotone]
+first-page:
+    styles: [filled, outlined, round, sharp, twotone]
+fullscreen-exit:
+    styles: [filled, outlined, round, sharp, twotone]
+fullscreen:
+    styles: [filled, outlined, round, sharp, twotone]
+home-work:
+    styles: [filled, outlined, round, sharp, twotone]
+last-page:
+    styles: [filled, outlined, round, sharp, twotone]
+legend-toggle:
+    styles: [filled, outlined, round, sharp, twotone]
+maps-home-work:
+    styles: [filled, outlined, round, sharp, twotone]
+menu-open:
+    styles: [filled, outlined, round, sharp, twotone]
+menu:
+    styles: [filled, outlined, round, sharp, twotone]
+more-horiz:
+    styles: [filled, outlined, round, sharp, twotone]
+more-vert:
+    styles: [filled, outlined, round, sharp, twotone]
+north-east:
+    styles: [filled, outlined, round, sharp, twotone]
+north-west:
+    styles: [filled, outlined, round, sharp, twotone]
+north:
+    styles: [filled, outlined, round, sharp, twotone]
+offline-share:
+    styles: [filled, outlined, round, sharp, twotone]
+payments:
+    styles: [filled, outlined, round, sharp, twotone]
+pivot-table-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+refresh:
+    styles: [filled, outlined, round, sharp, twotone]
+south-east:
+    styles: [filled, outlined, round, sharp, twotone]
+south-west:
+    styles: [filled, outlined, round, sharp, twotone]
+south:
+    styles: [filled, outlined, round, sharp, twotone]
+subdirectory-arrow-left:
+    styles: [filled, outlined, round, sharp, twotone]
+subdirectory-arrow-right:
+    styles: [filled, outlined, round, sharp, twotone]
+switch-left:
+    styles: [filled, outlined, round, sharp, twotone]
+switch-right:
+    styles: [filled, outlined, round, sharp, twotone]
+unfold-less:
+    styles: [filled, outlined, round, sharp, twotone]
+unfold-more:
+    styles: [filled, outlined, round, sharp, twotone]
+waterfall-chart:
+    styles: [filled, outlined, round, sharp, twotone]
+west:
+    styles: [filled, outlined, round, sharp, twotone]
+account-tree:
+    styles: [filled, outlined, round, sharp, twotone]
+adb:
+    styles: [filled, outlined, round, sharp, twotone]
+add-call:
+    styles: [filled]
+airline-seat-flat-angled:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-seat-flat:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-seat-individual-suite:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-seat-legroom-extra:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-seat-legroom-normal:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-seat-legroom-reduced:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-seat-recline-extra:
+    styles: [filled, outlined, round, sharp, twotone]
+airline-seat-recline-normal:
+    styles: [filled, outlined, round, sharp, twotone]
+bluetooth-audio:
+    styles: [filled, outlined, round, sharp, twotone]
+confirmation-number:
+    styles: [filled, outlined, round, sharp, twotone]
+directions-off:
+    styles: [filled, outlined, round, sharp, twotone]
+disc-full:
+    styles: [filled, outlined, round, sharp, twotone]
+do-disturb-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+do-disturb-off:
+    styles: [filled, outlined, round, sharp, twotone]
+do-disturb-on:
+    styles: [filled, outlined, round, sharp, twotone]
+do-disturb:
+    styles: [filled, outlined, round, sharp, twotone]
+do-not-disturb-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+do-not-disturb-off:
+    styles: [filled, outlined, round, sharp, twotone]
+do-not-disturb-on:
+    styles: [filled, outlined, round, sharp, twotone]
+do-not-disturb:
+    styles: [filled, outlined, round, sharp, twotone]
+drive-eta:
+    styles: [filled, outlined, round, sharp, twotone]
+enhanced-encryption:
+    styles: [filled, outlined, round, sharp, twotone]
+event-available:
+    styles: [filled, outlined, round, sharp, twotone]
+event-busy:
+    styles: [filled, outlined, round, sharp, twotone]
+event-note:
+    styles: [filled, outlined, round, sharp, twotone]
+folder-special:
+    styles: [filled, outlined, round, sharp, twotone]
+imagesearch-roller:
+    styles: [filled, outlined, round, sharp, twotone]
+live-tv:
+    styles: [filled, outlined, round, sharp, twotone]
+mms:
+    styles: [filled, outlined, round, sharp, twotone]
+more:
+    styles: [filled, outlined, round, sharp, twotone]
+network-check:
+    styles: [filled, outlined, round, sharp, twotone]
+network-locked:
+    styles: [filled, outlined, round, sharp, twotone]
+no-encryption-gmailerrorred:
+    styles: [filled, outlined, round, sharp, twotone]
+no-encryption:
+    styles: [filled, outlined, round, sharp, twotone]
+ondemand-video:
+    styles: [filled, outlined, round, sharp, twotone]
+personal-video:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-bluetooth-speaker:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-callback:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-forwarded:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-in-talk:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-locked:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-missed:
+    styles: [filled, outlined, round, sharp, twotone]
+phone-paused:
+    styles: [filled, outlined, round, sharp, twotone]
+power-off:
+    styles: [filled, outlined, round, sharp, twotone]
+power:
+    styles: [filled, outlined, round, sharp, twotone]
+priority-high:
+    styles: [filled, outlined, round, sharp, twotone]
+running-with-errors:
+    styles: [filled, outlined, round, sharp, twotone]
+sd-card-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+sd-card:
+    styles: [filled, outlined, round, sharp, twotone]
+sim-card-alert:
+    styles: [filled, outlined, round, sharp, twotone]
+sms-failed:
+    styles: [filled, outlined, round, sharp, twotone]
+sms:
+    styles: [filled, outlined, round, sharp, twotone]
+support-agent:
+    styles: [filled, outlined, round, sharp, twotone]
+sync-disabled:
+    styles: [filled, outlined, round, sharp, twotone]
+sync-lock:
+    styles: [filled, outlined, round, sharp, twotone]
+sync-problem:
+    styles: [filled, outlined, round, sharp, twotone]
+sync:
+    styles: [filled, outlined, round, sharp, twotone]
+system-update:
+    styles: [filled, outlined, round, sharp, twotone]
+tap-and-play:
+    styles: [filled, outlined, round, sharp, twotone]
+time-to-leave:
+    styles: [filled, outlined, round, sharp, twotone]
+tv-off:
+    styles: [filled, outlined, round, sharp, twotone]
+vibration:
+    styles: [filled, outlined, round, sharp, twotone]
+video-chat:
+    styles: [filled, outlined, round, sharp, twotone]
+voice-chat:
+    styles: [filled, outlined, round, sharp, twotone]
+vpn-lock:
+    styles: [filled, outlined, round, sharp, twotone]
+wc:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi-off:
+    styles: [filled, outlined, round, sharp, twotone]
+wifi:
+    styles: [filled, outlined, round, sharp, twotone]
+ac-unit:
+    styles: [filled, outlined, round, sharp, twotone]
+airport-shuttle:
+    styles: [filled, outlined, round, sharp, twotone]
+all-inclusive:
+    styles: [filled, outlined, round, sharp, twotone]
+apartment:
+    styles: [filled, outlined, round, sharp, twotone]
+baby-changing-station:
+    styles: [filled, outlined, round, sharp, twotone]
+backpack:
+    styles: [filled, outlined, round, sharp, twotone]
+balcony:
+    styles: [filled, outlined, round, sharp, twotone]
+bathtub:
+    styles: [filled, outlined, round, sharp, twotone]
+beach-access:
+    styles: [filled, outlined, round, sharp, twotone]
+bento:
+    styles: [filled, outlined, round, sharp, twotone]
+bungalow:
+    styles: [filled, outlined, round, sharp, twotone]
+business-center:
+    styles: [filled, outlined, round, sharp, twotone]
+cabin:
+    styles: [filled, outlined, round, sharp, twotone]
+carpenter:
+    styles: [filled, outlined, round, sharp, twotone]
+casino:
+    styles: [filled, outlined, round, sharp, twotone]
+chalet:
+    styles: [filled, outlined, round, sharp, twotone]
+charging-station:
+    styles: [filled, outlined, round, sharp, twotone]
+checkroom:
+    styles: [filled, outlined, round, sharp, twotone]
+child-care:
+    styles: [filled, outlined, round, sharp, twotone]
+child-friendly:
+    styles: [filled, outlined, round, sharp, twotone]
+corporate-fare:
+    styles: [filled, outlined, round, sharp, twotone]
+cottage:
+    styles: [filled, outlined, round, sharp, twotone]
+countertops:
+    styles: [filled, outlined, round, sharp, twotone]
+crib:
+    styles: [filled, outlined, round, sharp, twotone]
+desk:
+    styles: [filled, outlined, round, sharp, twotone]
+do-not-step:
+    styles: [filled, outlined, round, sharp, twotone]
+do-not-touch:
+    styles: [filled, outlined, round, sharp, twotone]
+dry:
+    styles: [filled, outlined, round, sharp, twotone]
+elevator:
+    styles: [filled, outlined, round, sharp, twotone]
+escalator-warning:
+    styles: [filled, outlined, round, sharp, twotone]
+escalator:
+    styles: [filled, outlined, round, sharp, twotone]
+family-restroom:
+    styles: [filled, outlined, round, sharp, twotone]
+fence:
+    styles: [filled, outlined, round, sharp, twotone]
+fire-extinguisher:
+    styles: [filled, outlined, round, sharp, twotone]
+fitness-center:
+    styles: [filled, outlined, round, sharp, twotone]
+food-bank:
+    styles: [filled, outlined, round, sharp, twotone]
+foundation:
+    styles: [filled, outlined, round, sharp, twotone]
+free-breakfast:
+    styles: [filled, outlined, round, sharp, twotone]
+gite:
+    styles: [filled, outlined, round, sharp, twotone]
+golf-course:
+    styles: [filled, outlined, round, sharp, twotone]
+grass:
+    styles: [filled, outlined, round, sharp, twotone]
+holiday-village:
+    styles: [filled, outlined, round, sharp, twotone]
+hot-tub:
+    styles: [filled, outlined, round, sharp, twotone]
+house-siding:
+    styles: [filled, outlined, round, sharp, twotone]
+house:
+    styles: [filled, outlined, round, sharp, twotone]
+houseboat:
+    styles: [filled, outlined, round, sharp, twotone]
+iron:
+    styles: [filled, outlined, round, sharp, twotone]
+kitchen:
+    styles: [filled, outlined, round, sharp, twotone]
+meeting-room:
+    styles: [filled, outlined, round, sharp, twotone]
+microwave:
+    styles: [filled, outlined, round, sharp, twotone]
+night-shelter:
+    styles: [filled, outlined, round, sharp, twotone]
+no-backpack:
+    styles: [filled, outlined, round, sharp, twotone]
+no-cell:
+    styles: [filled, outlined, round, sharp, twotone]
+no-drinks:
+    styles: [filled, outlined, round, sharp, twotone]
+no-flash:
+    styles: [filled, outlined, round, sharp, twotone]
+no-food:
+    styles: [filled, outlined, round, sharp, twotone]
+no-meeting-room:
+    styles: [filled, outlined, round, sharp, twotone]
+no-photography:
+    styles: [filled, outlined, round, sharp, twotone]
+no-stroller:
+    styles: [filled, outlined, round, sharp, twotone]
+other-houses:
+    styles: [filled, outlined, round, sharp, twotone]
+pool:
+    styles: [filled, outlined, round, sharp, twotone]
+rice-bowl:
+    styles: [filled, outlined, round, sharp, twotone]
+roofing:
+    styles: [filled, outlined, round, sharp, twotone]
+room-preferences:
+    styles: [filled, outlined, round, sharp, twotone]
+room-service:
+    styles: [filled, outlined, round, sharp, twotone]
+rv-hookup:
+    styles: [filled, outlined, round, sharp, twotone]
+smoke-free:
+    styles: [filled, outlined, round, sharp, twotone]
+smoking-rooms:
+    styles: [filled, outlined, round, sharp, twotone]
+soap:
+    styles: [filled, outlined, round, sharp, twotone]
+spa:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+stairs:
+    styles: [filled, outlined, round, sharp, twotone]
+storefront:
+    styles: [filled, outlined, round, sharp, twotone]
+stroller:
+    styles: [filled, outlined, round, sharp, twotone]
+tapas:
+    styles: [filled, outlined, round, sharp, twotone]
+tty:
+    styles: [filled, outlined, round, sharp, twotone]
+umbrella:
+    styles: [filled, outlined, round, sharp, twotone]
+vape-free:
+    styles: [filled, outlined, round, sharp, twotone]
+vaping-rooms:
+    styles: [filled, outlined, round, sharp, twotone]
+villa:
+    styles: [filled, outlined, round, sharp, twotone]
+wash:
+    styles: [filled, outlined, round, sharp, twotone]
+water-damage:
+    styles: [filled, outlined, round, sharp, twotone]
+wheelchair-pickup:
+    styles: [filled, outlined, round, sharp, twotone]
+bathroom:
+    styles: [filled, outlined, round, sharp, twotone]
+bed:
+    styles: [filled, outlined, round, sharp, twotone]
+bedroom-baby:
+    styles: [filled, outlined, round, sharp, twotone]
+bedroom-child:
+    styles: [filled, outlined, round, sharp, twotone]
+bedroom-parent:
+    styles: [filled, outlined, round, sharp, twotone]
+blender:
+    styles: [filled, outlined, round, sharp, twotone]
+camera-indoor:
+    styles: [filled, outlined, round, sharp, twotone]
+camera-outdoor:
+    styles: [filled, outlined, round, sharp, twotone]
+chair-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+chair:
+    styles: [filled, outlined, round, sharp, twotone]
+coffee-maker:
+    styles: [filled, outlined, round, sharp, twotone]
+coffee:
+    styles: [filled, outlined, round, sharp, twotone]
+dining:
+    styles: [filled, outlined, round, sharp, twotone]
+door-back:
+    styles: [filled, outlined, round, sharp, twotone]
+door-front:
+    styles: [filled, outlined, round, sharp, twotone]
+door-sliding:
+    styles: [filled, outlined, round, sharp, twotone]
+doorbell:
+    styles: [filled, outlined, round, sharp, twotone]
+feed:
+    styles: [filled, outlined, round, sharp, twotone]
+flatware:
+    styles: [filled, outlined, round, sharp, twotone]
+garage:
+    styles: [filled, outlined, round, sharp, twotone]
+light:
+    styles: [filled, outlined, round, sharp, twotone]
+living:
+    styles: [filled, outlined, round, sharp, twotone]
+manage-search:
+    styles: [filled, outlined, round, sharp, twotone]
+podcasts:
+    styles: [filled, outlined, round, sharp, twotone]
+shower:
+    styles: [filled, outlined, round, sharp, twotone]
+table-bar:
+    styles: [filled, outlined, round, sharp, twotone]
+table-restaurant:
+    styles: [filled, outlined, round, sharp, twotone]
+window:
+    styles: [filled, outlined, round, sharp, twotone]
+yard:
+    styles: [filled, outlined, round, sharp, twotone]
+18-up-rating:
+    styles: [filled, outlined, round, sharp, twotone]
+6-ft-apart:
+    styles: [filled, outlined, round, sharp, twotone]
+add-moderator:
+    styles: [filled, outlined, round, sharp, twotone]
+add-reaction:
+    styles: [filled, outlined, round, sharp, twotone]
+architecture:
+    styles: [filled, outlined, round, sharp, twotone]
+assist-walker:
+    styles: [filled, outlined, round, sharp, twotone]
+back-hand:
+    styles: [filled, outlined, round, sharp, twotone]
+blind:
+    styles: [filled, outlined, round, sharp, twotone]
+boy:
+    styles: [filled, outlined, round, sharp, twotone]
+cake:
+    styles: [filled, outlined, round, sharp, twotone]
+catching-pokemon:
+    styles: [filled, outlined, round, sharp, twotone]
+clean-hands:
+    styles: [filled, outlined, round, sharp, twotone]
+co2:
+    styles: [filled, outlined, round, sharp, twotone]
+compost:
+    styles: [filled, outlined, round, sharp, twotone]
+connect-without-contact:
+    styles: [filled, outlined, round, sharp, twotone]
+construction:
+    styles: [filled, outlined, round, sharp, twotone]
+cookie:
+    styles: [filled, outlined, round, sharp, twotone]
+coronavirus:
+    styles: [filled, outlined, round, sharp, twotone]
+cruelty-free:
+    styles: [filled, outlined, round, sharp, twotone]
+cyclone:
+    styles: [filled, outlined, round, sharp, twotone]
+deck:
+    styles: [filled, outlined, round, sharp, twotone]
+dew-point:
+    styles: [filled]
+diversity-1:
+    styles: [filled, outlined, round, sharp, twotone]
+diversity-2:
+    styles: [filled, outlined, round, sharp, twotone]
+diversity-3:
+    styles: [filled, outlined, round, sharp, twotone]
+domain-add:
+    styles: [filled, outlined, round, sharp, twotone]
+domain:
+    styles: [filled, outlined, round, sharp, twotone]
+downhill-skiing:
+    styles: [filled, outlined, round, sharp, twotone]
+edit-notifications:
+    styles: [filled, outlined, round, sharp, twotone]
+elderly-woman:
+    styles: [filled, outlined, round, sharp, twotone]
+elderly:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-emotions:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-events:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-flags:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-food-beverage:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-nature:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-objects:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-people:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-symbols:
+    styles: [filled, outlined, round, sharp, twotone]
+emoji-transportation:
+    styles: [filled, outlined, round, sharp, twotone]
+engineering:
+    styles: [filled, outlined, round, sharp, twotone]
+face-2:
+    styles: [filled, outlined, round, sharp, twotone]
+face-3:
+    styles: [filled, outlined, round, sharp, twotone]
+face-4:
+    styles: [filled, outlined, round, sharp, twotone]
+face-5:
+    styles: [filled, outlined, round, sharp, twotone]
+face-6:
+    styles: [filled, outlined, round, sharp, twotone]
+facebook:
+    styles: [filled, outlined, round, sharp, twotone]
+female:
+    styles: [filled, outlined, round, sharp, twotone]
+fireplace:
+    styles: [filled, outlined, round, sharp, twotone]
+fitbit:
+    styles: [filled, outlined, round, sharp, twotone]
+flood:
+    styles: [filled, outlined, round, sharp, twotone]
+follow-the-signs:
+    styles: [filled, outlined, round, sharp, twotone]
+front-hand:
+    styles: [filled, outlined, round, sharp, twotone]
+girl:
+    styles: [filled, outlined, round, sharp, twotone]
+group-add:
+    styles: [filled, outlined, round, sharp, twotone]
+group-off:
+    styles: [filled, outlined, round, sharp, twotone]
+group-remove:
+    styles: [filled, outlined, round, sharp, twotone]
+group:
+    styles: [filled, outlined, round, sharp, twotone]
+groups-2:
+    styles: [filled, outlined, round, sharp, twotone]
+groups-3:
+    styles: [filled, outlined, round, sharp, twotone]
+groups:
+    styles: [filled, outlined, round, sharp, twotone]
+handshake:
+    styles: [filled, outlined, round, sharp, twotone]
+health-and-safety:
+    styles: [filled, outlined, round, sharp, twotone]
+heart-broken:
+    styles: [filled, outlined, round, sharp, twotone]
+hiking:
+    styles: [filled, outlined, round, sharp, twotone]
+history-edu:
+    styles: [filled, outlined, round, sharp, twotone]
+hive:
+    styles: [filled, outlined, round, sharp, twotone]
+ice-skating:
+    styles: [filled, outlined, round, sharp, twotone]
+interests:
+    styles: [filled, outlined, round, sharp, twotone]
+ios-share:
+    styles: [filled, outlined, round, sharp, twotone]
+kayaking:
+    styles: [filled, outlined, round, sharp, twotone]
+king-bed:
+    styles: [filled, outlined, round, sharp, twotone]
+kitesurfing:
+    styles: [filled, outlined, round, sharp, twotone]
+landslide:
+    styles: [filled, outlined, round, sharp, twotone]
+location-city:
+    styles: [filled, outlined, round, sharp, twotone]
+luggage:
+    styles: [filled, outlined, round, sharp, twotone]
+male:
+    styles: [filled, outlined, round, sharp, twotone]
+man-2:
+    styles: [filled, outlined, round, sharp, twotone]
+man-3:
+    styles: [filled, outlined, round, sharp, twotone]
+man-4:
+    styles: [filled, outlined, round, sharp, twotone]
+man:
+    styles: [filled, outlined, round, sharp, twotone]
+masks:
+    styles: [filled, outlined, round, sharp, twotone]
+military-tech:
+    styles: [filled, outlined, round, sharp, twotone]
+mood-bad:
+    styles: [filled, outlined, round, sharp, twotone]
+mood:
+    styles: [filled, outlined, round, sharp, twotone]
+nights-stay:
+    styles: [filled, outlined, round, sharp, twotone]
+no-adult-content:
+    styles: [filled, outlined, round, sharp, twotone]
+no-luggage:
+    styles: [filled, outlined, round, sharp, twotone]
+nordic-walking:
+    styles: [filled, outlined, round, sharp, twotone]
+notification-add:
+    styles: [filled, outlined, round, sharp, twotone]
+notifications-active:
+    styles: [filled, outlined, round, sharp, twotone]
+notifications-none:
+    styles: [filled, outlined, round, sharp, twotone]
+notifications-off:
+    styles: [filled, outlined, round, sharp, twotone]
+notifications-paused:
+    styles: [filled, outlined, round, sharp, twotone]
+notifications:
+    styles: [filled, outlined, round, sharp, twotone]
+outdoor-grill:
+    styles: [filled, outlined, round, sharp, twotone]
+pages:
+    styles: [filled, outlined, round, sharp, twotone]
+paragliding:
+    styles: [filled, outlined, round, sharp, twotone]
+party-mode:
+    styles: [filled, outlined, round, sharp, twotone]
+people-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+people-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+people:
+    styles: [filled, outlined, round, sharp, twotone]
+person-2:
+    styles: [filled, outlined, round, sharp, twotone]
+person-3:
+    styles: [filled, outlined, round, sharp, twotone]
+person-4:
+    styles: [filled, outlined, round, sharp, twotone]
+person-add-alt-1:
+    styles: [filled, outlined, round, sharp, twotone]
+person-add-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+person-add:
+    styles: [filled, outlined, round, sharp, twotone]
+person-off:
+    styles: [filled, outlined, round, sharp, twotone]
+person-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+person-remove-alt-1:
+    styles: [filled, outlined, round, sharp, twotone]
+person-remove:
+    styles: [filled, outlined, round, sharp, twotone]
+person:
+    styles: [filled, outlined, round, sharp, twotone]
+personal-injury:
+    styles: [filled, outlined, round, sharp, twotone]
+piano-off:
+    styles: [filled, outlined, round, sharp, twotone]
+piano:
+    styles: [filled, outlined, round, sharp, twotone]
+pix:
+    styles: [filled, outlined, round, sharp, twotone]
+plus-one:
+    styles: [filled, outlined, round, sharp, twotone]
+poll:
+    styles: [filled, outlined, round, sharp, twotone]
+precision-manufacturing:
+    styles: [filled, outlined, round, sharp, twotone]
+psychology-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+psychology:
+    styles: [filled, outlined, round, sharp, twotone]
+public-off:
+    styles: [filled, outlined, round, sharp, twotone]
+public:
+    styles: [filled, outlined, round, sharp, twotone]
+real-estate-agent:
+    styles: [filled, outlined, round, sharp, twotone]
+recommend:
+    styles: [filled, outlined, round, sharp, twotone]
+recycling:
+    styles: [filled, outlined, round, sharp, twotone]
+reduce-capacity:
+    styles: [filled, outlined, round, sharp, twotone]
+remove-moderator:
+    styles: [filled, outlined, round, sharp, twotone]
+roller-skating:
+    styles: [filled, outlined, round, sharp, twotone]
+safety-divider:
+    styles: [filled, outlined, round, sharp, twotone]
+sanitizer:
+    styles: [filled, outlined, round, sharp, twotone]
+scale:
+    styles: [filled, outlined, round, sharp, twotone]
+school:
+    styles: [filled, outlined, round, sharp, twotone]
+science:
+    styles: [filled, outlined, round, sharp, twotone]
+scoreboard:
+    styles: [filled, outlined, round, sharp, twotone]
+scuba-diving:
+    styles: [filled, outlined, round, sharp, twotone]
+self-improvement:
+    styles: [filled, outlined, round, sharp, twotone]
+sentiment-dissatisfied:
+    styles: [filled, outlined, round, sharp, twotone]
+sentiment-neutral:
+    styles: [filled, outlined, round, sharp, twotone]
+sentiment-satisfied:
+    styles: [filled, outlined, round, sharp, twotone]
+sentiment-very-dissatisfied:
+    styles: [filled, outlined, round, sharp, twotone]
+sentiment-very-satisfied:
+    styles: [filled, outlined, round, sharp, twotone]
+severe-cold:
+    styles: [filled, outlined, round, sharp, twotone]
+share:
+    styles: [filled, outlined, round, sharp, twotone]
+sick:
+    styles: [filled, outlined, round, sharp, twotone]
+sign-language:
+    styles: [filled, outlined, round, sharp, twotone]
+single-bed:
+    styles: [filled, outlined, round, sharp, twotone]
+skateboarding:
+    styles: [filled, outlined, round, sharp, twotone]
+sledding:
+    styles: [filled, outlined, round, sharp, twotone]
+snowboarding:
+    styles: [filled, outlined, round, sharp, twotone]
+snowshoeing:
+    styles: [filled, outlined, round, sharp, twotone]
+social-distance:
+    styles: [filled, outlined, round, sharp, twotone]
+south-america:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-baseball:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-basketball:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-cricket:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-esports:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-football:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-golf:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-gymnastics:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-handball:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-hockey:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-kabaddi:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-martial-arts:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-mma:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-motorsports:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-rugby:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-soccer:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-tennis:
+    styles: [filled, outlined, round, sharp, twotone]
+sports-volleyball:
+    styles: [filled, outlined, round, sharp, twotone]
+sports:
+    styles: [filled, outlined, round, sharp, twotone]
+surfing:
+    styles: [filled, outlined, round, sharp, twotone]
+switch-account:
+    styles: [filled, outlined, round, sharp, twotone]
+thumb-down-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+thumb-up-alt:
+    styles: [filled, outlined, round, sharp, twotone]
+thunderstorm:
+    styles: [filled, outlined, round, sharp, twotone]
+tornado:
+    styles: [filled, outlined, round, sharp, twotone]
+transgender:
+    styles: [filled, outlined, round, sharp, twotone]
+travel-explore:
+    styles: [filled, outlined, round, sharp, twotone]
+tsunami:
+    styles: [filled, outlined, round, sharp, twotone]
+vaccines:
+    styles: [filled, outlined, round, sharp, twotone]
+volcano:
+    styles: [filled, outlined, round, sharp, twotone]
+wallet:
+    styles: [filled, outlined, round, sharp, twotone]
+water-drop:
+    styles: [filled, outlined, round, sharp, twotone]
+waving-hand:
+    styles: [filled, outlined, round, sharp, twotone]
+whatsapp:
+    styles: [filled, outlined, round, sharp, twotone]
+whatshot:
+    styles: [filled, outlined, round, sharp, twotone]
+woman-2:
+    styles: [filled, outlined, round, sharp, twotone]
+woman:
+    styles: [filled, outlined, round, sharp, twotone]
+workspace-premium:
+    styles: [filled, outlined, round, sharp, twotone]
+check-box-outline-blank:
+    styles: [filled, outlined, round, sharp, twotone]
+check-box:
+    styles: [filled, outlined, round, sharp, twotone]
+indeterminate-check-box:
+    styles: [filled, outlined, round, sharp, twotone]
+radio-button-checked:
+    styles: [filled, outlined, round, sharp, twotone]
+radio-button-unchecked:
+    styles: [filled, outlined, round, sharp, twotone]
+star-border-purple500:
+    styles: [filled, outlined, round, sharp, twotone]
+star-border:
+    styles: [filled, outlined, round, sharp, twotone]
+star-half:
+    styles: [filled, outlined, round, sharp, twotone]
+star-outline:
+    styles: [filled, outlined, round, sharp, twotone]
+star-purple500:
+    styles: [filled, outlined, round, sharp, twotone]
+star:
+    styles: [filled, outlined, round, sharp, twotone]
+toggle-off:
+    styles: [filled, outlined, round, sharp, twotone]
+toggle-on:
+    styles: [filled, outlined, round, sharp, twotone]

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Material Icons";
+	font-style: normal;
+	font-weight: 400;
+	font-display: block;
+	src: url("../webfonts/materialiconsfilled.woff2?e42b8098dab7259e82a69ae5e734f9c7") format("woff2"),
+		url("../webfonts/materialiconsfilled.woff?e42b8098dab7259e82a69ae5e734f9c7") format("woff");
+}

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Material Icons Sharp";
+	font-style: normal;
+	font-weight: 400;
+	font-display: block;
+	src: url("../webfonts/materialiconssharp.woff2?92a3ae053e3319176b8baa80de255825") format("woff2"),
+		url("../webfonts/materialiconssharp.woff?92a3ae053e3319176b8baa80de255825") format("woff");
+}

@@ -1,0 +1,4421 @@
+$mi-10k: "\\f000";
+$mi-10mp: "\\f001";
+$mi-11mp: "\\f002";
+$mi-123: "\\f003";
+$mi-12mp: "\\f004";
+$mi-13mp: "\\f005";
+$mi-14mp: "\\f006";
+$mi-15mp: "\\f007";
+$mi-16mp: "\\f008";
+$mi-17mp: "\\f009";
+$mi-18-up-rating: "\\f00a";
+$mi-18mp: "\\f00b";
+$mi-19mp: "\\f00c";
+$mi-1k: "\\f00d";
+$mi-1k-plus: "\\f00e";
+$mi-1x-mobiledata: "\\f00f";
+$mi-20mp: "\\f010";
+$mi-21mp: "\\f011";
+$mi-22mp: "\\f012";
+$mi-23mp: "\\f013";
+$mi-24mp: "\\f014";
+$mi-2k: "\\f015";
+$mi-2k-plus: "\\f016";
+$mi-2mp: "\\f017";
+$mi-30fps: "\\f018";
+$mi-30fps-select: "\\f019";
+$mi-360: "\\f01a";
+$mi-3d-rotation: "\\f01b";
+$mi-3g-mobiledata: "\\f01c";
+$mi-3k: "\\f01d";
+$mi-3k-plus: "\\f01e";
+$mi-3mp: "\\f01f";
+$mi-3p: "\\f020";
+$mi-4g-mobiledata: "\\f021";
+$mi-4g-plus-mobiledata: "\\f022";
+$mi-4k: "\\f023";
+$mi-4k-plus: "\\f024";
+$mi-4mp: "\\f025";
+$mi-5g: "\\f026";
+$mi-5k: "\\f027";
+$mi-5k-plus: "\\f028";
+$mi-5mp: "\\f029";
+$mi-6-ft-apart: "\\f02a";
+$mi-60fps: "\\f02b";
+$mi-60fps-select: "\\f02c";
+$mi-6k: "\\f02d";
+$mi-6k-plus: "\\f02e";
+$mi-6mp: "\\f02f";
+$mi-7k: "\\f030";
+$mi-7k-plus: "\\f031";
+$mi-7mp: "\\f032";
+$mi-8k: "\\f033";
+$mi-8k-plus: "\\f034";
+$mi-8mp: "\\f035";
+$mi-9k: "\\f036";
+$mi-9k-plus: "\\f037";
+$mi-9mp: "\\f038";
+$mi-abc: "\\f039";
+$mi-ac-unit: "\\f03a";
+$mi-access-alarm: "\\f03b";
+$mi-access-alarms: "\\f03c";
+$mi-access-time: "\\f03d";
+$mi-access-time-filled: "\\f03e";
+$mi-accessibility: "\\f03f";
+$mi-accessibility-new: "\\f040";
+$mi-accessible: "\\f041";
+$mi-accessible-forward: "\\f042";
+$mi-account-balance: "\\f043";
+$mi-account-balance-wallet: "\\f044";
+$mi-account-box: "\\f045";
+$mi-account-circle: "\\f046";
+$mi-account-tree: "\\f047";
+$mi-ad-units: "\\f048";
+$mi-adb: "\\f049";
+$mi-add: "\\f04a";
+$mi-add-a-photo: "\\f04b";
+$mi-add-alarm: "\\f04c";
+$mi-add-alert: "\\f04d";
+$mi-add-box: "\\f04e";
+$mi-add-business: "\\f04f";
+$mi-add-call: "\\f050";
+$mi-add-card: "\\f051";
+$mi-add-chart: "\\f052";
+$mi-add-circle: "\\f053";
+$mi-add-circle-outline: "\\f054";
+$mi-add-comment: "\\f055";
+$mi-add-home: "\\f056";
+$mi-add-home-work: "\\f057";
+$mi-add-ic-call: "\\f058";
+$mi-add-link: "\\f059";
+$mi-add-location: "\\f05a";
+$mi-add-location-alt: "\\f05b";
+$mi-add-moderator: "\\f05c";
+$mi-add-photo-alternate: "\\f05d";
+$mi-add-reaction: "\\f05e";
+$mi-add-road: "\\f05f";
+$mi-add-shopping-cart: "\\f060";
+$mi-add-task: "\\f061";
+$mi-add-to-drive: "\\f062";
+$mi-add-to-home-screen: "\\f063";
+$mi-add-to-photos: "\\f064";
+$mi-add-to-queue: "\\f065";
+$mi-addchart: "\\f066";
+$mi-adf-scanner: "\\f067";
+$mi-adjust: "\\f068";
+$mi-admin-panel-settings: "\\f069";
+$mi-ads-click: "\\f06a";
+$mi-agriculture: "\\f06b";
+$mi-air: "\\f06c";
+$mi-airline-seat-flat: "\\f06d";
+$mi-airline-seat-flat-angled: "\\f06e";
+$mi-airline-seat-individual-suite: "\\f06f";
+$mi-airline-seat-legroom-extra: "\\f070";
+$mi-airline-seat-legroom-normal: "\\f071";
+$mi-airline-seat-legroom-reduced: "\\f072";
+$mi-airline-seat-recline-extra: "\\f073";
+$mi-airline-seat-recline-normal: "\\f074";
+$mi-airline-stops: "\\f075";
+$mi-airlines: "\\f076";
+$mi-airplane-ticket: "\\f077";
+$mi-airplanemode-active: "\\f078";
+$mi-airplanemode-inactive: "\\f079";
+$mi-airplay: "\\f07a";
+$mi-airport-shuttle: "\\f07b";
+$mi-alarm: "\\f07c";
+$mi-alarm-add: "\\f07d";
+$mi-alarm-off: "\\f07e";
+$mi-alarm-on: "\\f07f";
+$mi-album: "\\f080";
+$mi-align-horizontal-center: "\\f081";
+$mi-align-horizontal-left: "\\f082";
+$mi-align-horizontal-right: "\\f083";
+$mi-align-vertical-bottom: "\\f084";
+$mi-align-vertical-center: "\\f085";
+$mi-align-vertical-top: "\\f086";
+$mi-all-inbox: "\\f087";
+$mi-all-inclusive: "\\f088";
+$mi-all-out: "\\f089";
+$mi-alt-route: "\\f08a";
+$mi-alternate-email: "\\f08b";
+$mi-amp-stories: "\\f08c";
+$mi-analytics: "\\f08d";
+$mi-anchor: "\\f08e";
+$mi-android: "\\f08f";
+$mi-animation: "\\f090";
+$mi-announcement: "\\f091";
+$mi-aod: "\\f092";
+$mi-apartment: "\\f093";
+$mi-api: "\\f094";
+$mi-app-blocking: "\\f095";
+$mi-app-registration: "\\f096";
+$mi-app-settings-alt: "\\f097";
+$mi-app-shortcut: "\\f098";
+$mi-approval: "\\f099";
+$mi-apps: "\\f09a";
+$mi-apps-outage: "\\f09b";
+$mi-architecture: "\\f09c";
+$mi-archive: "\\f09d";
+$mi-area-chart: "\\f09e";
+$mi-arrow-back: "\\f09f";
+$mi-arrow-back-ios: "\\f0a0";
+$mi-arrow-back-ios-new: "\\f0a1";
+$mi-arrow-circle-down: "\\f0a2";
+$mi-arrow-circle-left: "\\f0a3";
+$mi-arrow-circle-right: "\\f0a4";
+$mi-arrow-circle-up: "\\f0a5";
+$mi-arrow-downward: "\\f0a6";
+$mi-arrow-drop-down: "\\f0a7";
+$mi-arrow-drop-down-circle: "\\f0a8";
+$mi-arrow-drop-up: "\\f0a9";
+$mi-arrow-forward: "\\f0aa";
+$mi-arrow-forward-ios: "\\f0ab";
+$mi-arrow-left: "\\f0ac";
+$mi-arrow-outward: "\\f0ad";
+$mi-arrow-right: "\\f0ae";
+$mi-arrow-right-alt: "\\f0af";
+$mi-arrow-upward: "\\f0b0";
+$mi-art-track: "\\f0b1";
+$mi-article: "\\f0b2";
+$mi-aspect-ratio: "\\f0b3";
+$mi-assessment: "\\f0b4";
+$mi-assignment: "\\f0b5";
+$mi-assignment-add: "\\f0b6";
+$mi-assignment-ind: "\\f0b7";
+$mi-assignment-late: "\\f0b8";
+$mi-assignment-return: "\\f0b9";
+$mi-assignment-returned: "\\f0ba";
+$mi-assignment-turned-in: "\\f0bb";
+$mi-assist-walker: "\\f0bc";
+$mi-assistant: "\\f0bd";
+$mi-assistant-direction: "\\f0be";
+$mi-assistant-navigation: "\\f0bf";
+$mi-assistant-photo: "\\f0c0";
+$mi-assured-workload: "\\f0c1";
+$mi-atm: "\\f0c2";
+$mi-attach-email: "\\f0c3";
+$mi-attach-file: "\\f0c4";
+$mi-attach-money: "\\f0c5";
+$mi-attachment: "\\f0c6";
+$mi-attractions: "\\f0c7";
+$mi-attribution: "\\f0c8";
+$mi-audio-file: "\\f0c9";
+$mi-audiotrack: "\\f0ca";
+$mi-auto-awesome: "\\f0cb";
+$mi-auto-awesome-mosaic: "\\f0cc";
+$mi-auto-awesome-motion: "\\f0cd";
+$mi-auto-delete: "\\f0ce";
+$mi-auto-fix-high: "\\f0cf";
+$mi-auto-fix-normal: "\\f0d0";
+$mi-auto-fix-off: "\\f0d1";
+$mi-auto-graph: "\\f0d2";
+$mi-auto-mode: "\\f0d3";
+$mi-auto-stories: "\\f0d4";
+$mi-autofps-select: "\\f0d5";
+$mi-autorenew: "\\f0d6";
+$mi-av-timer: "\\f0d7";
+$mi-baby-changing-station: "\\f0d8";
+$mi-back-hand: "\\f0d9";
+$mi-backpack: "\\f0da";
+$mi-backspace: "\\f0db";
+$mi-backup: "\\f0dc";
+$mi-backup-table: "\\f0dd";
+$mi-badge: "\\f0de";
+$mi-bakery-dining: "\\f0df";
+$mi-balance: "\\f0e0";
+$mi-balcony: "\\f0e1";
+$mi-ballot: "\\f0e2";
+$mi-bar-chart: "\\f0e3";
+$mi-barcode-reader: "\\f0e4";
+$mi-batch-prediction: "\\f0e5";
+$mi-bathroom: "\\f0e6";
+$mi-bathtub: "\\f0e7";
+$mi-battery-0-bar: "\\f0e8";
+$mi-battery-1-bar: "\\f0e9";
+$mi-battery-2-bar: "\\f0ea";
+$mi-battery-20: "\\f0eb";
+$mi-battery-3-bar: "\\f0ec";
+$mi-battery-30: "\\f0ed";
+$mi-battery-4-bar: "\\f0ee";
+$mi-battery-5-bar: "\\f0ef";
+$mi-battery-50: "\\f0f0";
+$mi-battery-6-bar: "\\f0f1";
+$mi-battery-60: "\\f0f2";
+$mi-battery-80: "\\f0f3";
+$mi-battery-90: "\\f0f4";
+$mi-battery-alert: "\\f0f5";
+$mi-battery-charging-20: "\\f0f6";
+$mi-battery-charging-30: "\\f0f7";
+$mi-battery-charging-50: "\\f0f8";
+$mi-battery-charging-60: "\\f0f9";
+$mi-battery-charging-80: "\\f0fa";
+$mi-battery-charging-90: "\\f0fb";
+$mi-battery-charging-full: "\\f0fc";
+$mi-battery-full: "\\f0fd";
+$mi-battery-saver: "\\f0fe";
+$mi-battery-std: "\\f0ff";
+$mi-battery-unknown: "\\f100";
+$mi-beach-access: "\\f101";
+$mi-bed: "\\f102";
+$mi-bedroom-baby: "\\f103";
+$mi-bedroom-child: "\\f104";
+$mi-bedroom-parent: "\\f105";
+$mi-bedtime: "\\f106";
+$mi-bedtime-off: "\\f107";
+$mi-beenhere: "\\f108";
+$mi-bento: "\\f109";
+$mi-bike-scooter: "\\f10a";
+$mi-biotech: "\\f10b";
+$mi-blender: "\\f10c";
+$mi-blind: "\\f10d";
+$mi-blinds: "\\f10e";
+$mi-blinds-closed: "\\f10f";
+$mi-block: "\\f110";
+$mi-block-flipped: "\\f111";
+$mi-bloodtype: "\\f112";
+$mi-bluetooth: "\\f113";
+$mi-bluetooth-audio: "\\f114";
+$mi-bluetooth-connected: "\\f115";
+$mi-bluetooth-disabled: "\\f116";
+$mi-bluetooth-drive: "\\f117";
+$mi-bluetooth-searching: "\\f118";
+$mi-blur-circular: "\\f119";
+$mi-blur-linear: "\\f11a";
+$mi-blur-off: "\\f11b";
+$mi-blur-on: "\\f11c";
+$mi-bolt: "\\f11d";
+$mi-book: "\\f11e";
+$mi-book-online: "\\f11f";
+$mi-bookmark: "\\f120";
+$mi-bookmark-add: "\\f121";
+$mi-bookmark-added: "\\f122";
+$mi-bookmark-border: "\\f123";
+$mi-bookmark-remove: "\\f124";
+$mi-bookmarks: "\\f125";
+$mi-border-all: "\\f126";
+$mi-border-bottom: "\\f127";
+$mi-border-clear: "\\f128";
+$mi-border-color: "\\f129";
+$mi-border-horizontal: "\\f12a";
+$mi-border-inner: "\\f12b";
+$mi-border-left: "\\f12c";
+$mi-border-outer: "\\f12d";
+$mi-border-right: "\\f12e";
+$mi-border-style: "\\f12f";
+$mi-border-top: "\\f130";
+$mi-border-vertical: "\\f131";
+$mi-boy: "\\f132";
+$mi-branding-watermark: "\\f133";
+$mi-breakfast-dining: "\\f134";
+$mi-brightness-1: "\\f135";
+$mi-brightness-2: "\\f136";
+$mi-brightness-3: "\\f137";
+$mi-brightness-4: "\\f138";
+$mi-brightness-5: "\\f139";
+$mi-brightness-6: "\\f13a";
+$mi-brightness-7: "\\f13b";
+$mi-brightness-auto: "\\f13c";
+$mi-brightness-high: "\\f13d";
+$mi-brightness-low: "\\f13e";
+$mi-brightness-medium: "\\f13f";
+$mi-broadcast-on-home: "\\f140";
+$mi-broadcast-on-personal: "\\f141";
+$mi-broken-image: "\\f142";
+$mi-browse-gallery: "\\f143";
+$mi-browser-not-supported: "\\f144";
+$mi-browser-updated: "\\f145";
+$mi-brunch-dining: "\\f146";
+$mi-brush: "\\f147";
+$mi-bubble-chart: "\\f148";
+$mi-bug-report: "\\f149";
+$mi-build: "\\f14a";
+$mi-build-circle: "\\f14b";
+$mi-bungalow: "\\f14c";
+$mi-burst-mode: "\\f14d";
+$mi-bus-alert: "\\f14e";
+$mi-business: "\\f14f";
+$mi-business-center: "\\f150";
+$mi-cabin: "\\f151";
+$mi-cable: "\\f152";
+$mi-cached: "\\f153";
+$mi-cake: "\\f154";
+$mi-calculate: "\\f155";
+$mi-calendar-month: "\\f156";
+$mi-calendar-today: "\\f157";
+$mi-calendar-view-day: "\\f158";
+$mi-calendar-view-month: "\\f159";
+$mi-calendar-view-week: "\\f15a";
+$mi-call: "\\f15b";
+$mi-call-end: "\\f15c";
+$mi-call-made: "\\f15d";
+$mi-call-merge: "\\f15e";
+$mi-call-missed: "\\f15f";
+$mi-call-missed-outgoing: "\\f160";
+$mi-call-received: "\\f161";
+$mi-call-split: "\\f162";
+$mi-call-to-action: "\\f163";
+$mi-camera: "\\f164";
+$mi-camera-alt: "\\f165";
+$mi-camera-enhance: "\\f166";
+$mi-camera-front: "\\f167";
+$mi-camera-indoor: "\\f168";
+$mi-camera-outdoor: "\\f169";
+$mi-camera-rear: "\\f16a";
+$mi-camera-roll: "\\f16b";
+$mi-cameraswitch: "\\f16c";
+$mi-campaign: "\\f16d";
+$mi-cancel: "\\f16e";
+$mi-cancel-presentation: "\\f16f";
+$mi-cancel-schedule-send: "\\f170";
+$mi-candlestick-chart: "\\f171";
+$mi-car-crash: "\\f172";
+$mi-car-rental: "\\f173";
+$mi-car-repair: "\\f174";
+$mi-card-giftcard: "\\f175";
+$mi-card-membership: "\\f176";
+$mi-card-travel: "\\f177";
+$mi-carpenter: "\\f178";
+$mi-cases: "\\f179";
+$mi-casino: "\\f17a";
+$mi-cast: "\\f17b";
+$mi-cast-connected: "\\f17c";
+$mi-cast-for-education: "\\f17d";
+$mi-castle: "\\f17e";
+$mi-catching-pokemon: "\\f17f";
+$mi-category: "\\f180";
+$mi-celebration: "\\f181";
+$mi-cell-tower: "\\f182";
+$mi-cell-wifi: "\\f183";
+$mi-center-focus-strong: "\\f184";
+$mi-center-focus-weak: "\\f185";
+$mi-chair: "\\f186";
+$mi-chair-alt: "\\f187";
+$mi-chalet: "\\f188";
+$mi-change-circle: "\\f189";
+$mi-change-history: "\\f18a";
+$mi-charging-station: "\\f18b";
+$mi-chat: "\\f18c";
+$mi-chat-bubble: "\\f18d";
+$mi-chat-bubble-outline: "\\f18e";
+$mi-check: "\\f18f";
+$mi-check-box: "\\f190";
+$mi-check-box-outline-blank: "\\f191";
+$mi-check-circle: "\\f192";
+$mi-check-circle-outline: "\\f193";
+$mi-checklist: "\\f194";
+$mi-checklist-rtl: "\\f195";
+$mi-checkroom: "\\f196";
+$mi-chevron-left: "\\f197";
+$mi-chevron-right: "\\f198";
+$mi-child-care: "\\f199";
+$mi-child-friendly: "\\f19a";
+$mi-chrome-reader-mode: "\\f19b";
+$mi-church: "\\f19c";
+$mi-circle: "\\f19d";
+$mi-circle-notifications: "\\f19e";
+$mi-class: "\\f19f";
+$mi-clean-hands: "\\f1a0";
+$mi-cleaning-services: "\\f1a1";
+$mi-clear: "\\f1a2";
+$mi-clear-all: "\\f1a3";
+$mi-close: "\\f1a4";
+$mi-close-fullscreen: "\\f1a5";
+$mi-closed-caption: "\\f1a6";
+$mi-closed-caption-disabled: "\\f1a7";
+$mi-closed-caption-off: "\\f1a8";
+$mi-cloud: "\\f1a9";
+$mi-cloud-circle: "\\f1aa";
+$mi-cloud-done: "\\f1ab";
+$mi-cloud-download: "\\f1ac";
+$mi-cloud-off: "\\f1ad";
+$mi-cloud-queue: "\\f1ae";
+$mi-cloud-sync: "\\f1af";
+$mi-cloud-upload: "\\f1b0";
+$mi-cloudy-snowing: "\\f1b1";
+$mi-co-present: "\\f1b2";
+$mi-co2: "\\f1b3";
+$mi-code: "\\f1b4";
+$mi-code-off: "\\f1b5";
+$mi-coffee: "\\f1b6";
+$mi-coffee-maker: "\\f1b7";
+$mi-collections: "\\f1b8";
+$mi-collections-bookmark: "\\f1b9";
+$mi-color-lens: "\\f1ba";
+$mi-colorize: "\\f1bb";
+$mi-comment: "\\f1bc";
+$mi-comment-bank: "\\f1bd";
+$mi-comments-disabled: "\\f1be";
+$mi-commit: "\\f1bf";
+$mi-commute: "\\f1c0";
+$mi-compare: "\\f1c1";
+$mi-compare-arrows: "\\f1c2";
+$mi-compass-calibration: "\\f1c3";
+$mi-compost: "\\f1c4";
+$mi-compress: "\\f1c5";
+$mi-computer: "\\f1c6";
+$mi-confirmation-number: "\\f1c7";
+$mi-connect-without-contact: "\\f1c8";
+$mi-connected-tv: "\\f1c9";
+$mi-connecting-airports: "\\f1ca";
+$mi-construction: "\\f1cb";
+$mi-contact-emergency: "\\f1cc";
+$mi-contact-mail: "\\f1cd";
+$mi-contact-page: "\\f1ce";
+$mi-contact-phone: "\\f1cf";
+$mi-contact-support: "\\f1d0";
+$mi-contactless: "\\f1d1";
+$mi-contacts: "\\f1d2";
+$mi-content-copy: "\\f1d3";
+$mi-content-cut: "\\f1d4";
+$mi-content-paste: "\\f1d5";
+$mi-content-paste-go: "\\f1d6";
+$mi-content-paste-off: "\\f1d7";
+$mi-content-paste-search: "\\f1d8";
+$mi-contrast: "\\f1d9";
+$mi-control-camera: "\\f1da";
+$mi-control-point: "\\f1db";
+$mi-control-point-duplicate: "\\f1dc";
+$mi-conveyor-belt: "\\f1dd";
+$mi-cookie: "\\f1de";
+$mi-copy-all: "\\f1df";
+$mi-copyright: "\\f1e0";
+$mi-coronavirus: "\\f1e1";
+$mi-corporate-fare: "\\f1e2";
+$mi-cottage: "\\f1e3";
+$mi-countertops: "\\f1e4";
+$mi-create: "\\f1e5";
+$mi-create-new-folder: "\\f1e6";
+$mi-credit-card: "\\f1e7";
+$mi-credit-card-off: "\\f1e8";
+$mi-credit-score: "\\f1e9";
+$mi-crib: "\\f1ea";
+$mi-crisis-alert: "\\f1eb";
+$mi-crop: "\\f1ec";
+$mi-crop-16-9: "\\f1ed";
+$mi-crop-3-2: "\\f1ee";
+$mi-crop-5-4: "\\f1ef";
+$mi-crop-7-5: "\\f1f0";
+$mi-crop-din: "\\f1f1";
+$mi-crop-free: "\\f1f2";
+$mi-crop-landscape: "\\f1f3";
+$mi-crop-original: "\\f1f4";
+$mi-crop-portrait: "\\f1f5";
+$mi-crop-rotate: "\\f1f6";
+$mi-crop-square: "\\f1f7";
+$mi-cruelty-free: "\\f1f8";
+$mi-css: "\\f1f9";
+$mi-currency-bitcoin: "\\f1fa";
+$mi-currency-exchange: "\\f1fb";
+$mi-currency-franc: "\\f1fc";
+$mi-currency-lira: "\\f1fd";
+$mi-currency-pound: "\\f1fe";
+$mi-currency-ruble: "\\f1ff";
+$mi-currency-rupee: "\\f200";
+$mi-currency-yen: "\\f201";
+$mi-currency-yuan: "\\f202";
+$mi-curtains: "\\f203";
+$mi-curtains-closed: "\\f204";
+$mi-cyclone: "\\f205";
+$mi-dangerous: "\\f206";
+$mi-dark-mode: "\\f207";
+$mi-dashboard: "\\f208";
+$mi-dashboard-customize: "\\f209";
+$mi-data-array: "\\f20a";
+$mi-data-exploration: "\\f20b";
+$mi-data-object: "\\f20c";
+$mi-data-saver-off: "\\f20d";
+$mi-data-saver-on: "\\f20e";
+$mi-data-thresholding: "\\f20f";
+$mi-data-usage: "\\f210";
+$mi-dataset: "\\f211";
+$mi-dataset-linked: "\\f212";
+$mi-date-range: "\\f213";
+$mi-deblur: "\\f214";
+$mi-deck: "\\f215";
+$mi-dehaze: "\\f216";
+$mi-delete: "\\f217";
+$mi-delete-forever: "\\f218";
+$mi-delete-outline: "\\f219";
+$mi-delete-sweep: "\\f21a";
+$mi-delivery-dining: "\\f21b";
+$mi-density-large: "\\f21c";
+$mi-density-medium: "\\f21d";
+$mi-density-small: "\\f21e";
+$mi-departure-board: "\\f21f";
+$mi-description: "\\f220";
+$mi-deselect: "\\f221";
+$mi-design-services: "\\f222";
+$mi-desk: "\\f223";
+$mi-desktop-access-disabled: "\\f224";
+$mi-desktop-mac: "\\f225";
+$mi-desktop-windows: "\\f226";
+$mi-details: "\\f227";
+$mi-developer-board: "\\f228";
+$mi-developer-board-off: "\\f229";
+$mi-developer-mode: "\\f22a";
+$mi-device-hub: "\\f22b";
+$mi-device-thermostat: "\\f22c";
+$mi-device-unknown: "\\f22d";
+$mi-devices: "\\f22e";
+$mi-devices-fold: "\\f22f";
+$mi-devices-other: "\\f230";
+$mi-dew-point: "\\f231";
+$mi-dialer-sip: "\\f232";
+$mi-dialpad: "\\f233";
+$mi-diamond: "\\f234";
+$mi-difference: "\\f235";
+$mi-dining: "\\f236";
+$mi-dinner-dining: "\\f237";
+$mi-directions: "\\f238";
+$mi-directions-bike: "\\f239";
+$mi-directions-boat: "\\f23a";
+$mi-directions-boat-filled: "\\f23b";
+$mi-directions-bus: "\\f23c";
+$mi-directions-bus-filled: "\\f23d";
+$mi-directions-car: "\\f23e";
+$mi-directions-car-filled: "\\f23f";
+$mi-directions-off: "\\f240";
+$mi-directions-railway: "\\f241";
+$mi-directions-railway-filled: "\\f242";
+$mi-directions-run: "\\f243";
+$mi-directions-subway: "\\f244";
+$mi-directions-subway-filled: "\\f245";
+$mi-directions-transit: "\\f246";
+$mi-directions-transit-filled: "\\f247";
+$mi-directions-walk: "\\f248";
+$mi-dirty-lens: "\\f249";
+$mi-disabled-by-default: "\\f24a";
+$mi-disabled-visible: "\\f24b";
+$mi-disc-full: "\\f24c";
+$mi-discount: "\\f24d";
+$mi-display-settings: "\\f24e";
+$mi-diversity-1: "\\f24f";
+$mi-diversity-2: "\\f250";
+$mi-diversity-3: "\\f251";
+$mi-dns: "\\f252";
+$mi-do-disturb: "\\f253";
+$mi-do-disturb-alt: "\\f254";
+$mi-do-disturb-off: "\\f255";
+$mi-do-disturb-on: "\\f256";
+$mi-do-not-disturb: "\\f257";
+$mi-do-not-disturb-alt: "\\f258";
+$mi-do-not-disturb-off: "\\f259";
+$mi-do-not-disturb-on: "\\f25a";
+$mi-do-not-disturb-on-total-silence: "\\f25b";
+$mi-do-not-step: "\\f25c";
+$mi-do-not-touch: "\\f25d";
+$mi-dock: "\\f25e";
+$mi-document-scanner: "\\f25f";
+$mi-domain: "\\f260";
+$mi-domain-add: "\\f261";
+$mi-domain-disabled: "\\f262";
+$mi-domain-verification: "\\f263";
+$mi-done: "\\f264";
+$mi-done-all: "\\f265";
+$mi-done-outline: "\\f266";
+$mi-donut-large: "\\f267";
+$mi-donut-small: "\\f268";
+$mi-door-back: "\\f269";
+$mi-door-front: "\\f26a";
+$mi-door-sliding: "\\f26b";
+$mi-doorbell: "\\f26c";
+$mi-double-arrow: "\\f26d";
+$mi-downhill-skiing: "\\f26e";
+$mi-download: "\\f26f";
+$mi-download-done: "\\f270";
+$mi-download-for-offline: "\\f271";
+$mi-downloading: "\\f272";
+$mi-drafts: "\\f273";
+$mi-drag-handle: "\\f274";
+$mi-drag-indicator: "\\f275";
+$mi-draw: "\\f276";
+$mi-drive-eta: "\\f277";
+$mi-drive-file-move: "\\f278";
+$mi-drive-file-move-outline: "\\f279";
+$mi-drive-file-move-rtl: "\\f27a";
+$mi-drive-file-rename-outline: "\\f27b";
+$mi-drive-folder-upload: "\\f27c";
+$mi-dry: "\\f27d";
+$mi-dry-cleaning: "\\f27e";
+$mi-duo: "\\f27f";
+$mi-dvr: "\\f280";
+$mi-dynamic-feed: "\\f281";
+$mi-dynamic-form: "\\f282";
+$mi-e-mobiledata: "\\f283";
+$mi-earbuds: "\\f284";
+$mi-earbuds-battery: "\\f285";
+$mi-east: "\\f286";
+$mi-eco: "\\f287";
+$mi-edgesensor-high: "\\f288";
+$mi-edgesensor-low: "\\f289";
+$mi-edit: "\\f28a";
+$mi-edit-attributes: "\\f28b";
+$mi-edit-calendar: "\\f28c";
+$mi-edit-document: "\\f28d";
+$mi-edit-location: "\\f28e";
+$mi-edit-location-alt: "\\f28f";
+$mi-edit-note: "\\f290";
+$mi-edit-notifications: "\\f291";
+$mi-edit-off: "\\f292";
+$mi-edit-road: "\\f293";
+$mi-edit-square: "\\f294";
+$mi-egg: "\\f295";
+$mi-egg-alt: "\\f296";
+$mi-eject: "\\f297";
+$mi-elderly: "\\f298";
+$mi-elderly-woman: "\\f299";
+$mi-electric-bike: "\\f29a";
+$mi-electric-bolt: "\\f29b";
+$mi-electric-car: "\\f29c";
+$mi-electric-meter: "\\f29d";
+$mi-electric-moped: "\\f29e";
+$mi-electric-rickshaw: "\\f29f";
+$mi-electric-scooter: "\\f2a0";
+$mi-electrical-services: "\\f2a1";
+$mi-elevator: "\\f2a2";
+$mi-email: "\\f2a3";
+$mi-emergency: "\\f2a4";
+$mi-emergency-recording: "\\f2a5";
+$mi-emergency-share: "\\f2a6";
+$mi-emoji-emotions: "\\f2a7";
+$mi-emoji-events: "\\f2a8";
+$mi-emoji-flags: "\\f2a9";
+$mi-emoji-food-beverage: "\\f2aa";
+$mi-emoji-nature: "\\f2ab";
+$mi-emoji-objects: "\\f2ac";
+$mi-emoji-people: "\\f2ad";
+$mi-emoji-symbols: "\\f2ae";
+$mi-emoji-transportation: "\\f2af";
+$mi-energy-savings-leaf: "\\f2b0";
+$mi-engineering: "\\f2b1";
+$mi-enhanced-encryption: "\\f2b2";
+$mi-equalizer: "\\f2b3";
+$mi-error: "\\f2b4";
+$mi-error-outline: "\\f2b5";
+$mi-escalator: "\\f2b6";
+$mi-escalator-warning: "\\f2b7";
+$mi-euro: "\\f2b8";
+$mi-euro-symbol: "\\f2b9";
+$mi-ev-station: "\\f2ba";
+$mi-event: "\\f2bb";
+$mi-event-available: "\\f2bc";
+$mi-event-busy: "\\f2bd";
+$mi-event-note: "\\f2be";
+$mi-event-repeat: "\\f2bf";
+$mi-event-seat: "\\f2c0";
+$mi-exit-to-app: "\\f2c1";
+$mi-expand: "\\f2c2";
+$mi-expand-circle-down: "\\f2c3";
+$mi-expand-less: "\\f2c4";
+$mi-expand-more: "\\f2c5";
+$mi-explicit: "\\f2c6";
+$mi-explore: "\\f2c7";
+$mi-explore-off: "\\f2c8";
+$mi-exposure: "\\f2c9";
+$mi-exposure-neg-1: "\\f2ca";
+$mi-exposure-neg-2: "\\f2cb";
+$mi-exposure-plus-1: "\\f2cc";
+$mi-exposure-plus-2: "\\f2cd";
+$mi-exposure-zero: "\\f2ce";
+$mi-extension: "\\f2cf";
+$mi-extension-off: "\\f2d0";
+$mi-face: "\\f2d1";
+$mi-face-2: "\\f2d2";
+$mi-face-3: "\\f2d3";
+$mi-face-4: "\\f2d4";
+$mi-face-5: "\\f2d5";
+$mi-face-6: "\\f2d6";
+$mi-face-retouching-natural: "\\f2d7";
+$mi-face-retouching-off: "\\f2d8";
+$mi-face-unlock: "\\f2d9";
+$mi-facebook: "\\f2da";
+$mi-fact-check: "\\f2db";
+$mi-factory: "\\f2dc";
+$mi-family-restroom: "\\f2dd";
+$mi-fast-forward: "\\f2de";
+$mi-fast-rewind: "\\f2df";
+$mi-fastfood: "\\f2e0";
+$mi-favorite: "\\f2e1";
+$mi-favorite-border: "\\f2e2";
+$mi-fax: "\\f2e3";
+$mi-featured-play-list: "\\f2e4";
+$mi-featured-video: "\\f2e5";
+$mi-feed: "\\f2e6";
+$mi-feedback: "\\f2e7";
+$mi-female: "\\f2e8";
+$mi-fence: "\\f2e9";
+$mi-festival: "\\f2ea";
+$mi-fiber-dvr: "\\f2eb";
+$mi-fiber-manual-record: "\\f2ec";
+$mi-fiber-new: "\\f2ed";
+$mi-fiber-pin: "\\f2ee";
+$mi-fiber-smart-record: "\\f2ef";
+$mi-file-copy: "\\f2f0";
+$mi-file-download: "\\f2f1";
+$mi-file-download-done: "\\f2f2";
+$mi-file-download-off: "\\f2f3";
+$mi-file-open: "\\f2f4";
+$mi-file-present: "\\f2f5";
+$mi-file-upload: "\\f2f6";
+$mi-file-upload-off: "\\f2f7";
+$mi-filter: "\\f2f8";
+$mi-filter-1: "\\f2f9";
+$mi-filter-2: "\\f2fa";
+$mi-filter-3: "\\f2fb";
+$mi-filter-4: "\\f2fc";
+$mi-filter-5: "\\f2fd";
+$mi-filter-6: "\\f2fe";
+$mi-filter-7: "\\f2ff";
+$mi-filter-8: "\\f300";
+$mi-filter-9: "\\f301";
+$mi-filter-9-plus: "\\f302";
+$mi-filter-alt: "\\f303";
+$mi-filter-alt-off: "\\f304";
+$mi-filter-b-and-w: "\\f305";
+$mi-filter-center-focus: "\\f306";
+$mi-filter-drama: "\\f307";
+$mi-filter-frames: "\\f308";
+$mi-filter-hdr: "\\f309";
+$mi-filter-list: "\\f30a";
+$mi-filter-list-alt: "\\f30b";
+$mi-filter-list-off: "\\f30c";
+$mi-filter-none: "\\f30d";
+$mi-filter-tilt-shift: "\\f30e";
+$mi-filter-vintage: "\\f30f";
+$mi-find-in-page: "\\f310";
+$mi-find-replace: "\\f311";
+$mi-fingerprint: "\\f312";
+$mi-fire-extinguisher: "\\f313";
+$mi-fire-hydrant-alt: "\\f314";
+$mi-fire-truck: "\\f315";
+$mi-fireplace: "\\f316";
+$mi-first-page: "\\f317";
+$mi-fit-screen: "\\f318";
+$mi-fitbit: "\\f319";
+$mi-fitness-center: "\\f31a";
+$mi-flag: "\\f31b";
+$mi-flag-circle: "\\f31c";
+$mi-flaky: "\\f31d";
+$mi-flare: "\\f31e";
+$mi-flash-auto: "\\f31f";
+$mi-flash-off: "\\f320";
+$mi-flash-on: "\\f321";
+$mi-flashlight-off: "\\f322";
+$mi-flashlight-on: "\\f323";
+$mi-flatware: "\\f324";
+$mi-flight: "\\f325";
+$mi-flight-class: "\\f326";
+$mi-flight-land: "\\f327";
+$mi-flight-takeoff: "\\f328";
+$mi-flip: "\\f329";
+$mi-flip-camera-android: "\\f32a";
+$mi-flip-camera-ios: "\\f32b";
+$mi-flip-to-back: "\\f32c";
+$mi-flip-to-front: "\\f32d";
+$mi-flood: "\\f32e";
+$mi-flourescent: "\\f32f";
+$mi-fluorescent: "\\f330";
+$mi-flutter-dash: "\\f331";
+$mi-fmd-bad: "\\f332";
+$mi-fmd-good: "\\f333";
+$mi-foggy: "\\f334";
+$mi-folder: "\\f335";
+$mi-folder-copy: "\\f336";
+$mi-folder-delete: "\\f337";
+$mi-folder-off: "\\f338";
+$mi-folder-open: "\\f339";
+$mi-folder-shared: "\\f33a";
+$mi-folder-special: "\\f33b";
+$mi-folder-zip: "\\f33c";
+$mi-follow-the-signs: "\\f33d";
+$mi-font-download: "\\f33e";
+$mi-font-download-off: "\\f33f";
+$mi-food-bank: "\\f340";
+$mi-forest: "\\f341";
+$mi-fork-left: "\\f342";
+$mi-fork-right: "\\f343";
+$mi-forklift: "\\f344";
+$mi-format-align-center: "\\f345";
+$mi-format-align-justify: "\\f346";
+$mi-format-align-left: "\\f347";
+$mi-format-align-right: "\\f348";
+$mi-format-bold: "\\f349";
+$mi-format-clear: "\\f34a";
+$mi-format-color-fill: "\\f34b";
+$mi-format-color-reset: "\\f34c";
+$mi-format-color-text: "\\f34d";
+$mi-format-indent-decrease: "\\f34e";
+$mi-format-indent-increase: "\\f34f";
+$mi-format-italic: "\\f350";
+$mi-format-line-spacing: "\\f351";
+$mi-format-list-bulleted: "\\f352";
+$mi-format-list-bulleted-add: "\\f353";
+$mi-format-list-numbered: "\\f354";
+$mi-format-list-numbered-rtl: "\\f355";
+$mi-format-overline: "\\f356";
+$mi-format-paint: "\\f357";
+$mi-format-quote: "\\f358";
+$mi-format-shapes: "\\f359";
+$mi-format-size: "\\f35a";
+$mi-format-strikethrough: "\\f35b";
+$mi-format-textdirection-l-to-r: "\\f35c";
+$mi-format-textdirection-r-to-l: "\\f35d";
+$mi-format-underlined: "\\f35e";
+$mi-fort: "\\f35f";
+$mi-forum: "\\f360";
+$mi-forward: "\\f361";
+$mi-forward-10: "\\f362";
+$mi-forward-30: "\\f363";
+$mi-forward-5: "\\f364";
+$mi-forward-to-inbox: "\\f365";
+$mi-foundation: "\\f366";
+$mi-free-breakfast: "\\f367";
+$mi-free-cancellation: "\\f368";
+$mi-front-hand: "\\f369";
+$mi-front-loader: "\\f36a";
+$mi-fullscreen: "\\f36b";
+$mi-fullscreen-exit: "\\f36c";
+$mi-functions: "\\f36d";
+$mi-g-mobiledata: "\\f36e";
+$mi-g-translate: "\\f36f";
+$mi-gamepad: "\\f370";
+$mi-games: "\\f371";
+$mi-garage: "\\f372";
+$mi-gas-meter: "\\f373";
+$mi-gavel: "\\f374";
+$mi-generating-tokens: "\\f375";
+$mi-gesture: "\\f376";
+$mi-get-app: "\\f377";
+$mi-gif: "\\f378";
+$mi-gif-box: "\\f379";
+$mi-girl: "\\f37a";
+$mi-gite: "\\f37b";
+$mi-golf-course: "\\f37c";
+$mi-gpp-bad: "\\f37d";
+$mi-gpp-good: "\\f37e";
+$mi-gpp-maybe: "\\f37f";
+$mi-gps-fixed: "\\f380";
+$mi-gps-not-fixed: "\\f381";
+$mi-gps-off: "\\f382";
+$mi-grade: "\\f383";
+$mi-gradient: "\\f384";
+$mi-grading: "\\f385";
+$mi-grain: "\\f386";
+$mi-graphic-eq: "\\f387";
+$mi-grass: "\\f388";
+$mi-grid-3x3: "\\f389";
+$mi-grid-4x4: "\\f38a";
+$mi-grid-goldenratio: "\\f38b";
+$mi-grid-off: "\\f38c";
+$mi-grid-on: "\\f38d";
+$mi-grid-view: "\\f38e";
+$mi-group: "\\f38f";
+$mi-group-add: "\\f390";
+$mi-group-off: "\\f391";
+$mi-group-remove: "\\f392";
+$mi-group-work: "\\f393";
+$mi-groups: "\\f394";
+$mi-groups-2: "\\f395";
+$mi-groups-3: "\\f396";
+$mi-h-mobiledata: "\\f397";
+$mi-h-plus-mobiledata: "\\f398";
+$mi-hail: "\\f399";
+$mi-handshake: "\\f39a";
+$mi-handyman: "\\f39b";
+$mi-hardware: "\\f39c";
+$mi-hd: "\\f39d";
+$mi-hdr-auto: "\\f39e";
+$mi-hdr-auto-select: "\\f39f";
+$mi-hdr-enhanced-select: "\\f3a0";
+$mi-hdr-off: "\\f3a1";
+$mi-hdr-off-select: "\\f3a2";
+$mi-hdr-on: "\\f3a3";
+$mi-hdr-on-select: "\\f3a4";
+$mi-hdr-plus: "\\f3a5";
+$mi-hdr-strong: "\\f3a6";
+$mi-hdr-weak: "\\f3a7";
+$mi-headphones: "\\f3a8";
+$mi-headphones-battery: "\\f3a9";
+$mi-headset: "\\f3aa";
+$mi-headset-mic: "\\f3ab";
+$mi-headset-off: "\\f3ac";
+$mi-healing: "\\f3ad";
+$mi-health-and-safety: "\\f3ae";
+$mi-hearing: "\\f3af";
+$mi-hearing-disabled: "\\f3b0";
+$mi-heart-broken: "\\f3b1";
+$mi-heat-pump: "\\f3b2";
+$mi-height: "\\f3b3";
+$mi-help: "\\f3b4";
+$mi-help-center: "\\f3b5";
+$mi-help-outline: "\\f3b6";
+$mi-hevc: "\\f3b7";
+$mi-hexagon: "\\f3b8";
+$mi-hide-image: "\\f3b9";
+$mi-hide-source: "\\f3ba";
+$mi-high-quality: "\\f3bb";
+$mi-highlight: "\\f3bc";
+$mi-highlight-alt: "\\f3bd";
+$mi-highlight-off: "\\f3be";
+$mi-hiking: "\\f3bf";
+$mi-history: "\\f3c0";
+$mi-history-edu: "\\f3c1";
+$mi-history-toggle-off: "\\f3c2";
+$mi-hive: "\\f3c3";
+$mi-hls: "\\f3c4";
+$mi-hls-off: "\\f3c5";
+$mi-holiday-village: "\\f3c6";
+$mi-home: "\\f3c7";
+$mi-home-filled: "\\f3c8";
+$mi-home-max: "\\f3c9";
+$mi-home-mini: "\\f3ca";
+$mi-home-repair-service: "\\f3cb";
+$mi-home-work: "\\f3cc";
+$mi-horizontal-distribute: "\\f3cd";
+$mi-horizontal-rule: "\\f3ce";
+$mi-horizontal-split: "\\f3cf";
+$mi-hot-tub: "\\f3d0";
+$mi-hotel: "\\f3d1";
+$mi-hotel-class: "\\f3d2";
+$mi-hourglass-bottom: "\\f3d3";
+$mi-hourglass-disabled: "\\f3d4";
+$mi-hourglass-empty: "\\f3d5";
+$mi-hourglass-full: "\\f3d6";
+$mi-hourglass-top: "\\f3d7";
+$mi-house: "\\f3d8";
+$mi-house-siding: "\\f3d9";
+$mi-houseboat: "\\f3da";
+$mi-how-to-reg: "\\f3db";
+$mi-how-to-vote: "\\f3dc";
+$mi-html: "\\f3dd";
+$mi-http: "\\f3de";
+$mi-https: "\\f3df";
+$mi-hub: "\\f3e0";
+$mi-hvac: "\\f3e1";
+$mi-ice-skating: "\\f3e2";
+$mi-icecream: "\\f3e3";
+$mi-image: "\\f3e4";
+$mi-image-aspect-ratio: "\\f3e5";
+$mi-image-not-supported: "\\f3e6";
+$mi-image-search: "\\f3e7";
+$mi-imagesearch-roller: "\\f3e8";
+$mi-import-contacts: "\\f3e9";
+$mi-import-export: "\\f3ea";
+$mi-important-devices: "\\f3eb";
+$mi-inbox: "\\f3ec";
+$mi-incomplete-circle: "\\f3ed";
+$mi-indeterminate-check-box: "\\f3ee";
+$mi-info: "\\f3ef";
+$mi-info-outline: "\\f3f0";
+$mi-input: "\\f3f1";
+$mi-insert-chart: "\\f3f2";
+$mi-insert-chart-outlined: "\\f3f3";
+$mi-insert-comment: "\\f3f4";
+$mi-insert-drive-file: "\\f3f5";
+$mi-insert-emoticon: "\\f3f6";
+$mi-insert-invitation: "\\f3f7";
+$mi-insert-link: "\\f3f8";
+$mi-insert-page-break: "\\f3f9";
+$mi-insert-photo: "\\f3fa";
+$mi-insights: "\\f3fb";
+$mi-install-desktop: "\\f3fc";
+$mi-install-mobile: "\\f3fd";
+$mi-integration-instructions: "\\f3fe";
+$mi-interests: "\\f3ff";
+$mi-interpreter-mode: "\\f400";
+$mi-inventory: "\\f401";
+$mi-inventory-2: "\\f402";
+$mi-invert-colors: "\\f403";
+$mi-invert-colors-off: "\\f404";
+$mi-ios-share: "\\f405";
+$mi-iron: "\\f406";
+$mi-iso: "\\f407";
+$mi-javascript: "\\f408";
+$mi-join-full: "\\f409";
+$mi-join-inner: "\\f40a";
+$mi-join-left: "\\f40b";
+$mi-join-right: "\\f40c";
+$mi-kayaking: "\\f40d";
+$mi-kebab-dining: "\\f40e";
+$mi-key: "\\f40f";
+$mi-key-off: "\\f410";
+$mi-keyboard: "\\f411";
+$mi-keyboard-alt: "\\f412";
+$mi-keyboard-arrow-down: "\\f413";
+$mi-keyboard-arrow-left: "\\f414";
+$mi-keyboard-arrow-right: "\\f415";
+$mi-keyboard-arrow-up: "\\f416";
+$mi-keyboard-backspace: "\\f417";
+$mi-keyboard-capslock: "\\f418";
+$mi-keyboard-command-key: "\\f419";
+$mi-keyboard-control-key: "\\f41a";
+$mi-keyboard-double-arrow-down: "\\f41b";
+$mi-keyboard-double-arrow-left: "\\f41c";
+$mi-keyboard-double-arrow-right: "\\f41d";
+$mi-keyboard-double-arrow-up: "\\f41e";
+$mi-keyboard-hide: "\\f41f";
+$mi-keyboard-option-key: "\\f420";
+$mi-keyboard-return: "\\f421";
+$mi-keyboard-tab: "\\f422";
+$mi-keyboard-voice: "\\f423";
+$mi-king-bed: "\\f424";
+$mi-kitchen: "\\f425";
+$mi-kitesurfing: "\\f426";
+$mi-label: "\\f427";
+$mi-label-important: "\\f428";
+$mi-label-important-outline: "\\f429";
+$mi-label-off: "\\f42a";
+$mi-label-outline: "\\f42b";
+$mi-lan: "\\f42c";
+$mi-landscape: "\\f42d";
+$mi-landslide: "\\f42e";
+$mi-language: "\\f42f";
+$mi-laptop: "\\f430";
+$mi-laptop-chromebook: "\\f431";
+$mi-laptop-mac: "\\f432";
+$mi-laptop-windows: "\\f433";
+$mi-last-page: "\\f434";
+$mi-launch: "\\f435";
+$mi-layers: "\\f436";
+$mi-layers-clear: "\\f437";
+$mi-leaderboard: "\\f438";
+$mi-leak-add: "\\f439";
+$mi-leak-remove: "\\f43a";
+$mi-legend-toggle: "\\f43b";
+$mi-lens: "\\f43c";
+$mi-lens-blur: "\\f43d";
+$mi-library-add: "\\f43e";
+$mi-library-add-check: "\\f43f";
+$mi-library-books: "\\f440";
+$mi-library-music: "\\f441";
+$mi-light: "\\f442";
+$mi-light-mode: "\\f443";
+$mi-lightbulb: "\\f444";
+$mi-lightbulb-circle: "\\f445";
+$mi-lightbulb-outline: "\\f446";
+$mi-line-axis: "\\f447";
+$mi-line-style: "\\f448";
+$mi-line-weight: "\\f449";
+$mi-linear-scale: "\\f44a";
+$mi-link: "\\f44b";
+$mi-link-off: "\\f44c";
+$mi-linked-camera: "\\f44d";
+$mi-liquor: "\\f44e";
+$mi-list: "\\f44f";
+$mi-list-alt: "\\f450";
+$mi-live-help: "\\f451";
+$mi-live-tv: "\\f452";
+$mi-living: "\\f453";
+$mi-local-activity: "\\f454";
+$mi-local-airport: "\\f455";
+$mi-local-atm: "\\f456";
+$mi-local-bar: "\\f457";
+$mi-local-cafe: "\\f458";
+$mi-local-car-wash: "\\f459";
+$mi-local-convenience-store: "\\f45a";
+$mi-local-dining: "\\f45b";
+$mi-local-drink: "\\f45c";
+$mi-local-fire-department: "\\f45d";
+$mi-local-florist: "\\f45e";
+$mi-local-gas-station: "\\f45f";
+$mi-local-grocery-store: "\\f460";
+$mi-local-hospital: "\\f461";
+$mi-local-hotel: "\\f462";
+$mi-local-laundry-service: "\\f463";
+$mi-local-library: "\\f464";
+$mi-local-mall: "\\f465";
+$mi-local-movies: "\\f466";
+$mi-local-offer: "\\f467";
+$mi-local-parking: "\\f468";
+$mi-local-pharmacy: "\\f469";
+$mi-local-phone: "\\f46a";
+$mi-local-pizza: "\\f46b";
+$mi-local-play: "\\f46c";
+$mi-local-police: "\\f46d";
+$mi-local-post-office: "\\f46e";
+$mi-local-printshop: "\\f46f";
+$mi-local-see: "\\f470";
+$mi-local-shipping: "\\f471";
+$mi-local-taxi: "\\f472";
+$mi-location-city: "\\f473";
+$mi-location-disabled: "\\f474";
+$mi-location-off: "\\f475";
+$mi-location-on: "\\f476";
+$mi-location-pin: "\\f477";
+$mi-location-searching: "\\f478";
+$mi-lock: "\\f479";
+$mi-lock-clock: "\\f47a";
+$mi-lock-open: "\\f47b";
+$mi-lock-outline: "\\f47c";
+$mi-lock-person: "\\f47d";
+$mi-lock-reset: "\\f47e";
+$mi-login: "\\f47f";
+$mi-logo-dev: "\\f480";
+$mi-logout: "\\f481";
+$mi-looks: "\\f482";
+$mi-looks-3: "\\f483";
+$mi-looks-4: "\\f484";
+$mi-looks-5: "\\f485";
+$mi-looks-6: "\\f486";
+$mi-looks-one: "\\f487";
+$mi-looks-two: "\\f488";
+$mi-loop: "\\f489";
+$mi-loupe: "\\f48a";
+$mi-low-priority: "\\f48b";
+$mi-loyalty: "\\f48c";
+$mi-lte-mobiledata: "\\f48d";
+$mi-lte-plus-mobiledata: "\\f48e";
+$mi-luggage: "\\f48f";
+$mi-lunch-dining: "\\f490";
+$mi-lyrics: "\\f491";
+$mi-macro-off: "\\f492";
+$mi-mail: "\\f493";
+$mi-mail-lock: "\\f494";
+$mi-mail-outline: "\\f495";
+$mi-male: "\\f496";
+$mi-man: "\\f497";
+$mi-man-2: "\\f498";
+$mi-man-3: "\\f499";
+$mi-man-4: "\\f49a";
+$mi-manage-accounts: "\\f49b";
+$mi-manage-history: "\\f49c";
+$mi-manage-search: "\\f49d";
+$mi-map: "\\f49e";
+$mi-maps-home-work: "\\f49f";
+$mi-maps-ugc: "\\f4a0";
+$mi-margin: "\\f4a1";
+$mi-mark-as-unread: "\\f4a2";
+$mi-mark-chat-read: "\\f4a3";
+$mi-mark-chat-unread: "\\f4a4";
+$mi-mark-email-read: "\\f4a5";
+$mi-mark-email-unread: "\\f4a6";
+$mi-mark-unread-chat-alt: "\\f4a7";
+$mi-markunread: "\\f4a8";
+$mi-markunread-mailbox: "\\f4a9";
+$mi-masks: "\\f4aa";
+$mi-maximize: "\\f4ab";
+$mi-media-bluetooth-off: "\\f4ac";
+$mi-media-bluetooth-on: "\\f4ad";
+$mi-mediation: "\\f4ae";
+$mi-medical-information: "\\f4af";
+$mi-medical-services: "\\f4b0";
+$mi-medication: "\\f4b1";
+$mi-medication-liquid: "\\f4b2";
+$mi-meeting-room: "\\f4b3";
+$mi-memory: "\\f4b4";
+$mi-menu: "\\f4b5";
+$mi-menu-book: "\\f4b6";
+$mi-menu-open: "\\f4b7";
+$mi-merge: "\\f4b8";
+$mi-merge-type: "\\f4b9";
+$mi-message: "\\f4ba";
+$mi-mic: "\\f4bb";
+$mi-mic-external-off: "\\f4bc";
+$mi-mic-external-on: "\\f4bd";
+$mi-mic-none: "\\f4be";
+$mi-mic-off: "\\f4bf";
+$mi-microwave: "\\f4c0";
+$mi-military-tech: "\\f4c1";
+$mi-minimize: "\\f4c2";
+$mi-minor-crash: "\\f4c3";
+$mi-miscellaneous-services: "\\f4c4";
+$mi-missed-video-call: "\\f4c5";
+$mi-mms: "\\f4c6";
+$mi-mobile-friendly: "\\f4c7";
+$mi-mobile-off: "\\f4c8";
+$mi-mobile-screen-share: "\\f4c9";
+$mi-mobiledata-off: "\\f4ca";
+$mi-mode: "\\f4cb";
+$mi-mode-comment: "\\f4cc";
+$mi-mode-edit: "\\f4cd";
+$mi-mode-edit-outline: "\\f4ce";
+$mi-mode-fan-off: "\\f4cf";
+$mi-mode-night: "\\f4d0";
+$mi-mode-of-travel: "\\f4d1";
+$mi-mode-standby: "\\f4d2";
+$mi-model-training: "\\f4d3";
+$mi-monetization-on: "\\f4d4";
+$mi-money: "\\f4d5";
+$mi-money-off: "\\f4d6";
+$mi-money-off-csred: "\\f4d7";
+$mi-monitor: "\\f4d8";
+$mi-monitor-heart: "\\f4d9";
+$mi-monitor-weight: "\\f4da";
+$mi-monochrome-photos: "\\f4db";
+$mi-mood: "\\f4dc";
+$mi-mood-bad: "\\f4dd";
+$mi-moped: "\\f4de";
+$mi-more: "\\f4df";
+$mi-more-horiz: "\\f4e0";
+$mi-more-time: "\\f4e1";
+$mi-more-vert: "\\f4e2";
+$mi-mosque: "\\f4e3";
+$mi-motion-photos-auto: "\\f4e4";
+$mi-motion-photos-off: "\\f4e5";
+$mi-motion-photos-on: "\\f4e6";
+$mi-motion-photos-pause: "\\f4e7";
+$mi-motion-photos-paused: "\\f4e8";
+$mi-mouse: "\\f4e9";
+$mi-move-down: "\\f4ea";
+$mi-move-to-inbox: "\\f4eb";
+$mi-move-up: "\\f4ec";
+$mi-movie: "\\f4ed";
+$mi-movie-creation: "\\f4ee";
+$mi-movie-edit: "\\f4ef";
+$mi-movie-filter: "\\f4f0";
+$mi-moving: "\\f4f1";
+$mi-mp: "\\f4f2";
+$mi-multiline-chart: "\\f4f3";
+$mi-multiple-stop: "\\f4f4";
+$mi-museum: "\\f4f5";
+$mi-music-note: "\\f4f6";
+$mi-music-off: "\\f4f7";
+$mi-music-video: "\\f4f8";
+$mi-my-location: "\\f4f9";
+$mi-nat: "\\f4fa";
+$mi-nature: "\\f4fb";
+$mi-nature-people: "\\f4fc";
+$mi-navigate-before: "\\f4fd";
+$mi-navigate-next: "\\f4fe";
+$mi-navigation: "\\f4ff";
+$mi-near-me: "\\f500";
+$mi-near-me-disabled: "\\f501";
+$mi-nearby-error: "\\f502";
+$mi-nearby-off: "\\f503";
+$mi-nest-cam-wired-stand: "\\f504";
+$mi-network-cell: "\\f505";
+$mi-network-check: "\\f506";
+$mi-network-locked: "\\f507";
+$mi-network-ping: "\\f508";
+$mi-network-wifi: "\\f509";
+$mi-network-wifi-1-bar: "\\f50a";
+$mi-network-wifi-2-bar: "\\f50b";
+$mi-network-wifi-3-bar: "\\f50c";
+$mi-new-label: "\\f50d";
+$mi-new-releases: "\\f50e";
+$mi-newspaper: "\\f50f";
+$mi-next-plan: "\\f510";
+$mi-next-week: "\\f511";
+$mi-nfc: "\\f512";
+$mi-night-shelter: "\\f513";
+$mi-nightlife: "\\f514";
+$mi-nightlight: "\\f515";
+$mi-nightlight-round: "\\f516";
+$mi-nights-stay: "\\f517";
+$mi-no-accounts: "\\f518";
+$mi-no-adult-content: "\\f519";
+$mi-no-backpack: "\\f51a";
+$mi-no-cell: "\\f51b";
+$mi-no-crash: "\\f51c";
+$mi-no-drinks: "\\f51d";
+$mi-no-encryption: "\\f51e";
+$mi-no-encryption-gmailerrorred: "\\f51f";
+$mi-no-flash: "\\f520";
+$mi-no-food: "\\f521";
+$mi-no-luggage: "\\f522";
+$mi-no-meals: "\\f523";
+$mi-no-meals-ouline: "\\f524";
+$mi-no-meeting-room: "\\f525";
+$mi-no-photography: "\\f526";
+$mi-no-sim: "\\f527";
+$mi-no-stroller: "\\f528";
+$mi-no-transfer: "\\f529";
+$mi-noise-aware: "\\f52a";
+$mi-noise-control-off: "\\f52b";
+$mi-nordic-walking: "\\f52c";
+$mi-north: "\\f52d";
+$mi-north-east: "\\f52e";
+$mi-north-west: "\\f52f";
+$mi-not-accessible: "\\f530";
+$mi-not-interested: "\\f531";
+$mi-not-listed-location: "\\f532";
+$mi-not-started: "\\f533";
+$mi-note: "\\f534";
+$mi-note-add: "\\f535";
+$mi-note-alt: "\\f536";
+$mi-notes: "\\f537";
+$mi-notification-add: "\\f538";
+$mi-notification-important: "\\f539";
+$mi-notifications: "\\f53a";
+$mi-notifications-active: "\\f53b";
+$mi-notifications-none: "\\f53c";
+$mi-notifications-off: "\\f53d";
+$mi-notifications-paused: "\\f53e";
+$mi-numbers: "\\f53f";
+$mi-offline-bolt: "\\f540";
+$mi-offline-pin: "\\f541";
+$mi-offline-share: "\\f542";
+$mi-oil-barrel: "\\f543";
+$mi-on-device-training: "\\f544";
+$mi-ondemand-video: "\\f545";
+$mi-online-prediction: "\\f546";
+$mi-opacity: "\\f547";
+$mi-open-in-browser: "\\f548";
+$mi-open-in-full: "\\f549";
+$mi-open-in-new: "\\f54a";
+$mi-open-in-new-off: "\\f54b";
+$mi-open-with: "\\f54c";
+$mi-other-houses: "\\f54d";
+$mi-outbond: "\\f54e";
+$mi-outbound: "\\f54f";
+$mi-outbox: "\\f550";
+$mi-outdoor-grill: "\\f551";
+$mi-outgoing-mail: "\\f552";
+$mi-outlet: "\\f553";
+$mi-outlined-flag: "\\f554";
+$mi-output: "\\f555";
+$mi-padding: "\\f556";
+$mi-pages: "\\f557";
+$mi-pageview: "\\f558";
+$mi-paid: "\\f559";
+$mi-palette: "\\f55a";
+$mi-pallet: "\\f55b";
+$mi-pan-tool: "\\f55c";
+$mi-pan-tool-alt: "\\f55d";
+$mi-panorama: "\\f55e";
+$mi-panorama-fish-eye: "\\f55f";
+$mi-panorama-horizontal: "\\f560";
+$mi-panorama-horizontal-select: "\\f561";
+$mi-panorama-photosphere: "\\f562";
+$mi-panorama-photosphere-select: "\\f563";
+$mi-panorama-vertical: "\\f564";
+$mi-panorama-vertical-select: "\\f565";
+$mi-panorama-wide-angle: "\\f566";
+$mi-panorama-wide-angle-select: "\\f567";
+$mi-paragliding: "\\f568";
+$mi-park: "\\f569";
+$mi-party-mode: "\\f56a";
+$mi-password: "\\f56b";
+$mi-pattern: "\\f56c";
+$mi-pause: "\\f56d";
+$mi-pause-circle: "\\f56e";
+$mi-pause-circle-filled: "\\f56f";
+$mi-pause-circle-outline: "\\f570";
+$mi-pause-presentation: "\\f571";
+$mi-payment: "\\f572";
+$mi-payments: "\\f573";
+$mi-pedal-bike: "\\f574";
+$mi-pending: "\\f575";
+$mi-pending-actions: "\\f576";
+$mi-pentagon: "\\f577";
+$mi-people: "\\f578";
+$mi-people-alt: "\\f579";
+$mi-people-outline: "\\f57a";
+$mi-percent: "\\f57b";
+$mi-perm-camera-mic: "\\f57c";
+$mi-perm-contact-calendar: "\\f57d";
+$mi-perm-data-setting: "\\f57e";
+$mi-perm-device-information: "\\f57f";
+$mi-perm-identity: "\\f580";
+$mi-perm-media: "\\f581";
+$mi-perm-phone-msg: "\\f582";
+$mi-perm-scan-wifi: "\\f583";
+$mi-person: "\\f584";
+$mi-person-2: "\\f585";
+$mi-person-3: "\\f586";
+$mi-person-4: "\\f587";
+$mi-person-add: "\\f588";
+$mi-person-add-alt: "\\f589";
+$mi-person-add-alt-1: "\\f58a";
+$mi-person-add-disabled: "\\f58b";
+$mi-person-off: "\\f58c";
+$mi-person-outline: "\\f58d";
+$mi-person-pin: "\\f58e";
+$mi-person-pin-circle: "\\f58f";
+$mi-person-remove: "\\f590";
+$mi-person-remove-alt-1: "\\f591";
+$mi-person-search: "\\f592";
+$mi-personal-injury: "\\f593";
+$mi-personal-video: "\\f594";
+$mi-pest-control: "\\f595";
+$mi-pest-control-rodent: "\\f596";
+$mi-pets: "\\f597";
+$mi-phishing: "\\f598";
+$mi-phone: "\\f599";
+$mi-phone-android: "\\f59a";
+$mi-phone-bluetooth-speaker: "\\f59b";
+$mi-phone-callback: "\\f59c";
+$mi-phone-disabled: "\\f59d";
+$mi-phone-enabled: "\\f59e";
+$mi-phone-forwarded: "\\f59f";
+$mi-phone-in-talk: "\\f5a0";
+$mi-phone-iphone: "\\f5a1";
+$mi-phone-locked: "\\f5a2";
+$mi-phone-missed: "\\f5a3";
+$mi-phone-paused: "\\f5a4";
+$mi-phonelink: "\\f5a5";
+$mi-phonelink-erase: "\\f5a6";
+$mi-phonelink-lock: "\\f5a7";
+$mi-phonelink-off: "\\f5a8";
+$mi-phonelink-ring: "\\f5a9";
+$mi-phonelink-setup: "\\f5aa";
+$mi-photo: "\\f5ab";
+$mi-photo-album: "\\f5ac";
+$mi-photo-camera: "\\f5ad";
+$mi-photo-camera-back: "\\f5ae";
+$mi-photo-camera-front: "\\f5af";
+$mi-photo-filter: "\\f5b0";
+$mi-photo-library: "\\f5b1";
+$mi-photo-size-select-actual: "\\f5b2";
+$mi-photo-size-select-large: "\\f5b3";
+$mi-photo-size-select-small: "\\f5b4";
+$mi-php: "\\f5b5";
+$mi-piano: "\\f5b6";
+$mi-piano-off: "\\f5b7";
+$mi-picture-as-pdf: "\\f5b8";
+$mi-picture-in-picture: "\\f5b9";
+$mi-picture-in-picture-alt: "\\f5ba";
+$mi-pie-chart: "\\f5bb";
+$mi-pie-chart-outline: "\\f5bc";
+$mi-pie-chart-outlined: "\\f5bd";
+$mi-pin: "\\f5be";
+$mi-pin-drop: "\\f5bf";
+$mi-pin-end: "\\f5c0";
+$mi-pin-invoke: "\\f5c1";
+$mi-pinch: "\\f5c2";
+$mi-pivot-table-chart: "\\f5c3";
+$mi-pix: "\\f5c4";
+$mi-place: "\\f5c5";
+$mi-plagiarism: "\\f5c6";
+$mi-play-arrow: "\\f5c7";
+$mi-play-circle: "\\f5c8";
+$mi-play-circle-filled: "\\f5c9";
+$mi-play-circle-outline: "\\f5ca";
+$mi-play-disabled: "\\f5cb";
+$mi-play-for-work: "\\f5cc";
+$mi-play-lesson: "\\f5cd";
+$mi-playlist-add: "\\f5ce";
+$mi-playlist-add-check: "\\f5cf";
+$mi-playlist-add-check-circle: "\\f5d0";
+$mi-playlist-add-circle: "\\f5d1";
+$mi-playlist-play: "\\f5d2";
+$mi-playlist-remove: "\\f5d3";
+$mi-plumbing: "\\f5d4";
+$mi-plus-one: "\\f5d5";
+$mi-podcasts: "\\f5d6";
+$mi-point-of-sale: "\\f5d7";
+$mi-policy: "\\f5d8";
+$mi-poll: "\\f5d9";
+$mi-polyline: "\\f5da";
+$mi-polymer: "\\f5db";
+$mi-pool: "\\f5dc";
+$mi-portable-wifi-off: "\\f5dd";
+$mi-portrait: "\\f5de";
+$mi-post-add: "\\f5df";
+$mi-power: "\\f5e0";
+$mi-power-input: "\\f5e1";
+$mi-power-off: "\\f5e2";
+$mi-power-settings-new: "\\f5e3";
+$mi-precision-manufacturing: "\\f5e4";
+$mi-pregnant-woman: "\\f5e5";
+$mi-present-to-all: "\\f5e6";
+$mi-preview: "\\f5e7";
+$mi-price-change: "\\f5e8";
+$mi-price-check: "\\f5e9";
+$mi-print: "\\f5ea";
+$mi-print-disabled: "\\f5eb";
+$mi-priority-high: "\\f5ec";
+$mi-privacy-tip: "\\f5ed";
+$mi-private-connectivity: "\\f5ee";
+$mi-production-quantity-limits: "\\f5ef";
+$mi-propane: "\\f5f0";
+$mi-propane-tank: "\\f5f1";
+$mi-psychology: "\\f5f2";
+$mi-psychology-alt: "\\f5f3";
+$mi-public: "\\f5f4";
+$mi-public-off: "\\f5f5";
+$mi-publish: "\\f5f6";
+$mi-published-with-changes: "\\f5f7";
+$mi-punch-clock: "\\f5f8";
+$mi-push-pin: "\\f5f9";
+$mi-qr-code: "\\f5fa";
+$mi-qr-code-2: "\\f5fb";
+$mi-qr-code-scanner: "\\f5fc";
+$mi-query-builder: "\\f5fd";
+$mi-query-stats: "\\f5fe";
+$mi-question-answer: "\\f5ff";
+$mi-question-mark: "\\f600";
+$mi-queue: "\\f601";
+$mi-queue-music: "\\f602";
+$mi-queue-play-next: "\\f603";
+$mi-quickreply: "\\f604";
+$mi-quiz: "\\f605";
+$mi-r-mobiledata: "\\f606";
+$mi-radar: "\\f607";
+$mi-radio: "\\f608";
+$mi-radio-button-checked: "\\f609";
+$mi-radio-button-unchecked: "\\f60a";
+$mi-railway-alert: "\\f60b";
+$mi-ramen-dining: "\\f60c";
+$mi-ramp-left: "\\f60d";
+$mi-ramp-right: "\\f60e";
+$mi-rate-review: "\\f60f";
+$mi-raw-off: "\\f610";
+$mi-raw-on: "\\f611";
+$mi-read-more: "\\f612";
+$mi-real-estate-agent: "\\f613";
+$mi-rebase-edit: "\\f614";
+$mi-receipt: "\\f615";
+$mi-receipt-long: "\\f616";
+$mi-recent-actors: "\\f617";
+$mi-recommend: "\\f618";
+$mi-record-voice-over: "\\f619";
+$mi-rectangle: "\\f61a";
+$mi-recycling: "\\f61b";
+$mi-redeem: "\\f61c";
+$mi-redo: "\\f61d";
+$mi-reduce-capacity: "\\f61e";
+$mi-refresh: "\\f61f";
+$mi-remember-me: "\\f620";
+$mi-remove: "\\f621";
+$mi-remove-circle: "\\f622";
+$mi-remove-circle-outline: "\\f623";
+$mi-remove-done: "\\f624";
+$mi-remove-from-queue: "\\f625";
+$mi-remove-moderator: "\\f626";
+$mi-remove-red-eye: "\\f627";
+$mi-remove-road: "\\f628";
+$mi-remove-shopping-cart: "\\f629";
+$mi-reorder: "\\f62a";
+$mi-repartition: "\\f62b";
+$mi-repeat: "\\f62c";
+$mi-repeat-on: "\\f62d";
+$mi-repeat-one: "\\f62e";
+$mi-repeat-one-on: "\\f62f";
+$mi-replay: "\\f630";
+$mi-replay-10: "\\f631";
+$mi-replay-30: "\\f632";
+$mi-replay-5: "\\f633";
+$mi-replay-circle-filled: "\\f634";
+$mi-reply: "\\f635";
+$mi-reply-all: "\\f636";
+$mi-report: "\\f637";
+$mi-report-gmailerrorred: "\\f638";
+$mi-report-off: "\\f639";
+$mi-report-problem: "\\f63a";
+$mi-request-page: "\\f63b";
+$mi-request-quote: "\\f63c";
+$mi-reset-tv: "\\f63d";
+$mi-restart-alt: "\\f63e";
+$mi-restaurant: "\\f63f";
+$mi-restaurant-menu: "\\f640";
+$mi-restore: "\\f641";
+$mi-restore-from-trash: "\\f642";
+$mi-restore-page: "\\f643";
+$mi-reviews: "\\f644";
+$mi-rice-bowl: "\\f645";
+$mi-ring-volume: "\\f646";
+$mi-rocket: "\\f647";
+$mi-rocket-launch: "\\f648";
+$mi-roller-shades: "\\f649";
+$mi-roller-shades-closed: "\\f64a";
+$mi-roller-skating: "\\f64b";
+$mi-roofing: "\\f64c";
+$mi-room: "\\f64d";
+$mi-room-preferences: "\\f64e";
+$mi-room-service: "\\f64f";
+$mi-rotate-90-degrees-ccw: "\\f650";
+$mi-rotate-90-degrees-cw: "\\f651";
+$mi-rotate-left: "\\f652";
+$mi-rotate-right: "\\f653";
+$mi-roundabout-left: "\\f654";
+$mi-roundabout-right: "\\f655";
+$mi-rounded-corner: "\\f656";
+$mi-route: "\\f657";
+$mi-router: "\\f658";
+$mi-rowing: "\\f659";
+$mi-rss-feed: "\\f65a";
+$mi-rsvp: "\\f65b";
+$mi-rtt: "\\f65c";
+$mi-rule: "\\f65d";
+$mi-rule-folder: "\\f65e";
+$mi-run-circle: "\\f65f";
+$mi-running-with-errors: "\\f660";
+$mi-rv-hookup: "\\f661";
+$mi-safety-check: "\\f662";
+$mi-safety-divider: "\\f663";
+$mi-sailing: "\\f664";
+$mi-sanitizer: "\\f665";
+$mi-satellite: "\\f666";
+$mi-satellite-alt: "\\f667";
+$mi-save: "\\f668";
+$mi-save-alt: "\\f669";
+$mi-save-as: "\\f66a";
+$mi-saved-search: "\\f66b";
+$mi-savings: "\\f66c";
+$mi-scale: "\\f66d";
+$mi-scanner: "\\f66e";
+$mi-scatter-plot: "\\f66f";
+$mi-schedule: "\\f670";
+$mi-schedule-send: "\\f671";
+$mi-schema: "\\f672";
+$mi-school: "\\f673";
+$mi-science: "\\f674";
+$mi-score: "\\f675";
+$mi-scoreboard: "\\f676";
+$mi-screen-lock-landscape: "\\f677";
+$mi-screen-lock-portrait: "\\f678";
+$mi-screen-lock-rotation: "\\f679";
+$mi-screen-rotation: "\\f67a";
+$mi-screen-rotation-alt: "\\f67b";
+$mi-screen-search-desktop: "\\f67c";
+$mi-screen-share: "\\f67d";
+$mi-screenshot: "\\f67e";
+$mi-screenshot-monitor: "\\f67f";
+$mi-scuba-diving: "\\f680";
+$mi-sd: "\\f681";
+$mi-sd-card: "\\f682";
+$mi-sd-card-alert: "\\f683";
+$mi-sd-storage: "\\f684";
+$mi-search: "\\f685";
+$mi-search-off: "\\f686";
+$mi-security: "\\f687";
+$mi-security-update: "\\f688";
+$mi-security-update-good: "\\f689";
+$mi-security-update-warning: "\\f68a";
+$mi-segment: "\\f68b";
+$mi-select-all: "\\f68c";
+$mi-self-improvement: "\\f68d";
+$mi-sell: "\\f68e";
+$mi-send: "\\f68f";
+$mi-send-and-archive: "\\f690";
+$mi-send-time-extension: "\\f691";
+$mi-send-to-mobile: "\\f692";
+$mi-sensor-door: "\\f693";
+$mi-sensor-occupied: "\\f694";
+$mi-sensor-window: "\\f695";
+$mi-sensors: "\\f696";
+$mi-sensors-off: "\\f697";
+$mi-sentiment-dissatisfied: "\\f698";
+$mi-sentiment-neutral: "\\f699";
+$mi-sentiment-satisfied: "\\f69a";
+$mi-sentiment-satisfied-alt: "\\f69b";
+$mi-sentiment-very-dissatisfied: "\\f69c";
+$mi-sentiment-very-satisfied: "\\f69d";
+$mi-set-meal: "\\f69e";
+$mi-settings: "\\f69f";
+$mi-settings-accessibility: "\\f6a0";
+$mi-settings-applications: "\\f6a1";
+$mi-settings-backup-restore: "\\f6a2";
+$mi-settings-bluetooth: "\\f6a3";
+$mi-settings-brightness: "\\f6a4";
+$mi-settings-cell: "\\f6a5";
+$mi-settings-ethernet: "\\f6a6";
+$mi-settings-input-antenna: "\\f6a7";
+$mi-settings-input-component: "\\f6a8";
+$mi-settings-input-composite: "\\f6a9";
+$mi-settings-input-hdmi: "\\f6aa";
+$mi-settings-input-svideo: "\\f6ab";
+$mi-settings-overscan: "\\f6ac";
+$mi-settings-phone: "\\f6ad";
+$mi-settings-power: "\\f6ae";
+$mi-settings-remote: "\\f6af";
+$mi-settings-suggest: "\\f6b0";
+$mi-settings-system-daydream: "\\f6b1";
+$mi-settings-voice: "\\f6b2";
+$mi-severe-cold: "\\f6b3";
+$mi-shape-line: "\\f6b4";
+$mi-share: "\\f6b5";
+$mi-share-location: "\\f6b6";
+$mi-shelves: "\\f6b7";
+$mi-shield: "\\f6b8";
+$mi-shield-moon: "\\f6b9";
+$mi-shop: "\\f6ba";
+$mi-shop-2: "\\f6bb";
+$mi-shop-two: "\\f6bc";
+$mi-shopping-bag: "\\f6bd";
+$mi-shopping-basket: "\\f6be";
+$mi-shopping-cart: "\\f6bf";
+$mi-shopping-cart-checkout: "\\f6c0";
+$mi-short-text: "\\f6c1";
+$mi-shortcut: "\\f6c2";
+$mi-show-chart: "\\f6c3";
+$mi-shower: "\\f6c4";
+$mi-shuffle: "\\f6c5";
+$mi-shuffle-on: "\\f6c6";
+$mi-shutter-speed: "\\f6c7";
+$mi-sick: "\\f6c8";
+$mi-sign-language: "\\f6c9";
+$mi-signal-cellular-0-bar: "\\f6ca";
+$mi-signal-cellular-1-bar: "\\f6cb";
+$mi-signal-cellular-2-bar: "\\f6cc";
+$mi-signal-cellular-3-bar: "\\f6cd";
+$mi-signal-cellular-4-bar: "\\f6ce";
+$mi-signal-cellular-alt: "\\f6cf";
+$mi-signal-cellular-alt-1-bar: "\\f6d0";
+$mi-signal-cellular-alt-2-bar: "\\f6d1";
+$mi-signal-cellular-connected-no-internet-0-bar: "\\f6d2";
+$mi-signal-cellular-connected-no-internet-1-bar: "\\f6d3";
+$mi-signal-cellular-connected-no-internet-2-bar: "\\f6d4";
+$mi-signal-cellular-connected-no-internet-3-bar: "\\f6d5";
+$mi-signal-cellular-connected-no-internet-4-bar: "\\f6d6";
+$mi-signal-cellular-no-sim: "\\f6d7";
+$mi-signal-cellular-nodata: "\\f6d8";
+$mi-signal-cellular-null: "\\f6d9";
+$mi-signal-cellular-off: "\\f6da";
+$mi-signal-wifi-0-bar: "\\f6db";
+$mi-signal-wifi-1-bar: "\\f6dc";
+$mi-signal-wifi-1-bar-lock: "\\f6dd";
+$mi-signal-wifi-2-bar: "\\f6de";
+$mi-signal-wifi-2-bar-lock: "\\f6df";
+$mi-signal-wifi-3-bar: "\\f6e0";
+$mi-signal-wifi-3-bar-lock: "\\f6e1";
+$mi-signal-wifi-4-bar: "\\f6e2";
+$mi-signal-wifi-4-bar-lock: "\\f6e3";
+$mi-signal-wifi-bad: "\\f6e4";
+$mi-signal-wifi-connected-no-internet-0: "\\f6e5";
+$mi-signal-wifi-connected-no-internet-1: "\\f6e6";
+$mi-signal-wifi-connected-no-internet-2: "\\f6e7";
+$mi-signal-wifi-connected-no-internet-3: "\\f6e8";
+$mi-signal-wifi-connected-no-internet-4: "\\f6e9";
+$mi-signal-wifi-off: "\\f6ea";
+$mi-signal-wifi-statusbar-1-bar: "\\f6eb";
+$mi-signal-wifi-statusbar-2-bar: "\\f6ec";
+$mi-signal-wifi-statusbar-3-bar: "\\f6ed";
+$mi-signal-wifi-statusbar-4-bar: "\\f6ee";
+$mi-signal-wifi-statusbar-connected-no-internet: "\\f6ef";
+$mi-signal-wifi-statusbar-connected-no-internet-1: "\\f6f0";
+$mi-signal-wifi-statusbar-connected-no-internet-2: "\\f6f1";
+$mi-signal-wifi-statusbar-connected-no-internet-3: "\\f6f2";
+$mi-signal-wifi-statusbar-connected-no-internet-4: "\\f6f3";
+$mi-signal-wifi-statusbar-not-connected: "\\f6f4";
+$mi-signal-wifi-statusbar-null: "\\f6f5";
+$mi-signpost: "\\f6f6";
+$mi-sim-card: "\\f6f7";
+$mi-sim-card-alert: "\\f6f8";
+$mi-sim-card-download: "\\f6f9";
+$mi-single-bed: "\\f6fa";
+$mi-sip: "\\f6fb";
+$mi-skateboarding: "\\f6fc";
+$mi-skip-next: "\\f6fd";
+$mi-skip-previous: "\\f6fe";
+$mi-sledding: "\\f6ff";
+$mi-slideshow: "\\f700";
+$mi-slow-motion-video: "\\f701";
+$mi-smart-button: "\\f702";
+$mi-smart-display: "\\f703";
+$mi-smart-screen: "\\f704";
+$mi-smart-toy: "\\f705";
+$mi-smartphone: "\\f706";
+$mi-smoke-free: "\\f707";
+$mi-smoking-rooms: "\\f708";
+$mi-sms: "\\f709";
+$mi-sms-failed: "\\f70a";
+$mi-snippet-folder: "\\f70b";
+$mi-snooze: "\\f70c";
+$mi-snowboarding: "\\f70d";
+$mi-snowing: "\\f70e";
+$mi-snowmobile: "\\f70f";
+$mi-snowshoeing: "\\f710";
+$mi-soap: "\\f711";
+$mi-social-distance: "\\f712";
+$mi-solar-power: "\\f713";
+$mi-sort: "\\f714";
+$mi-sort-by-alpha: "\\f715";
+$mi-sos: "\\f716";
+$mi-soup-kitchen: "\\f717";
+$mi-source: "\\f718";
+$mi-south: "\\f719";
+$mi-south-america: "\\f71a";
+$mi-south-east: "\\f71b";
+$mi-south-west: "\\f71c";
+$mi-spa: "\\f71d";
+$mi-space-bar: "\\f71e";
+$mi-space-dashboard: "\\f71f";
+$mi-spatial-audio: "\\f720";
+$mi-spatial-audio-off: "\\f721";
+$mi-spatial-tracking: "\\f722";
+$mi-speaker: "\\f723";
+$mi-speaker-group: "\\f724";
+$mi-speaker-notes: "\\f725";
+$mi-speaker-notes-off: "\\f726";
+$mi-speaker-phone: "\\f727";
+$mi-speed: "\\f728";
+$mi-spellcheck: "\\f729";
+$mi-splitscreen: "\\f72a";
+$mi-spoke: "\\f72b";
+$mi-sports: "\\f72c";
+$mi-sports-bar: "\\f72d";
+$mi-sports-baseball: "\\f72e";
+$mi-sports-basketball: "\\f72f";
+$mi-sports-cricket: "\\f730";
+$mi-sports-esports: "\\f731";
+$mi-sports-football: "\\f732";
+$mi-sports-golf: "\\f733";
+$mi-sports-gymnastics: "\\f734";
+$mi-sports-handball: "\\f735";
+$mi-sports-hockey: "\\f736";
+$mi-sports-kabaddi: "\\f737";
+$mi-sports-martial-arts: "\\f738";
+$mi-sports-mma: "\\f739";
+$mi-sports-motorsports: "\\f73a";
+$mi-sports-rugby: "\\f73b";
+$mi-sports-score: "\\f73c";
+$mi-sports-soccer: "\\f73d";
+$mi-sports-tennis: "\\f73e";
+$mi-sports-volleyball: "\\f73f";
+$mi-square: "\\f740";
+$mi-square-foot: "\\f741";
+$mi-ssid-chart: "\\f742";
+$mi-stacked-bar-chart: "\\f743";
+$mi-stacked-line-chart: "\\f744";
+$mi-stadium: "\\f745";
+$mi-stairs: "\\f746";
+$mi-star: "\\f747";
+$mi-star-border: "\\f748";
+$mi-star-border-purple500: "\\f749";
+$mi-star-half: "\\f74a";
+$mi-star-outline: "\\f74b";
+$mi-star-purple500: "\\f74c";
+$mi-star-rate: "\\f74d";
+$mi-stars: "\\f74e";
+$mi-start: "\\f74f";
+$mi-stay-current-landscape: "\\f750";
+$mi-stay-current-portrait: "\\f751";
+$mi-stay-primary-landscape: "\\f752";
+$mi-stay-primary-portrait: "\\f753";
+$mi-sticky-note-2: "\\f754";
+$mi-stop: "\\f755";
+$mi-stop-circle: "\\f756";
+$mi-stop-screen-share: "\\f757";
+$mi-storage: "\\f758";
+$mi-store: "\\f759";
+$mi-store-mall-directory: "\\f75a";
+$mi-storefront: "\\f75b";
+$mi-storm: "\\f75c";
+$mi-straight: "\\f75d";
+$mi-straighten: "\\f75e";
+$mi-stream: "\\f75f";
+$mi-streetview: "\\f760";
+$mi-strikethrough-s: "\\f761";
+$mi-stroller: "\\f762";
+$mi-style: "\\f763";
+$mi-subdirectory-arrow-left: "\\f764";
+$mi-subdirectory-arrow-right: "\\f765";
+$mi-subject: "\\f766";
+$mi-subscript: "\\f767";
+$mi-subscriptions: "\\f768";
+$mi-subtitles: "\\f769";
+$mi-subtitles-off: "\\f76a";
+$mi-subway: "\\f76b";
+$mi-summarize: "\\f76c";
+$mi-sunny: "\\f76d";
+$mi-sunny-snowing: "\\f76e";
+$mi-superscript: "\\f76f";
+$mi-supervised-user-circle: "\\f770";
+$mi-supervisor-account: "\\f771";
+$mi-support: "\\f772";
+$mi-support-agent: "\\f773";
+$mi-surfing: "\\f774";
+$mi-surround-sound: "\\f775";
+$mi-swap-calls: "\\f776";
+$mi-swap-horiz: "\\f777";
+$mi-swap-horizontal-circle: "\\f778";
+$mi-swap-vert: "\\f779";
+$mi-swap-vertical-circle: "\\f77a";
+$mi-swipe: "\\f77b";
+$mi-swipe-down: "\\f77c";
+$mi-swipe-down-alt: "\\f77d";
+$mi-swipe-left: "\\f77e";
+$mi-swipe-left-alt: "\\f77f";
+$mi-swipe-right: "\\f780";
+$mi-swipe-right-alt: "\\f781";
+$mi-swipe-up: "\\f782";
+$mi-swipe-up-alt: "\\f783";
+$mi-swipe-vertical: "\\f784";
+$mi-switch-access-shortcut: "\\f785";
+$mi-switch-access-shortcut-add: "\\f786";
+$mi-switch-account: "\\f787";
+$mi-switch-camera: "\\f788";
+$mi-switch-left: "\\f789";
+$mi-switch-right: "\\f78a";
+$mi-switch-video: "\\f78b";
+$mi-synagogue: "\\f78c";
+$mi-sync: "\\f78d";
+$mi-sync-alt: "\\f78e";
+$mi-sync-disabled: "\\f78f";
+$mi-sync-lock: "\\f790";
+$mi-sync-problem: "\\f791";
+$mi-system-security-update: "\\f792";
+$mi-system-security-update-good: "\\f793";
+$mi-system-security-update-warning: "\\f794";
+$mi-system-update: "\\f795";
+$mi-system-update-alt: "\\f796";
+$mi-tab: "\\f797";
+$mi-tab-unselected: "\\f798";
+$mi-table-bar: "\\f799";
+$mi-table-chart: "\\f79a";
+$mi-table-restaurant: "\\f79b";
+$mi-table-rows: "\\f79c";
+$mi-table-view: "\\f79d";
+$mi-tablet: "\\f79e";
+$mi-tablet-android: "\\f79f";
+$mi-tablet-mac: "\\f7a0";
+$mi-tag: "\\f7a1";
+$mi-tag-faces: "\\f7a2";
+$mi-takeout-dining: "\\f7a3";
+$mi-tap-and-play: "\\f7a4";
+$mi-tapas: "\\f7a5";
+$mi-task: "\\f7a6";
+$mi-task-alt: "\\f7a7";
+$mi-taxi-alert: "\\f7a8";
+$mi-temple-buddhist: "\\f7a9";
+$mi-temple-hindu: "\\f7aa";
+$mi-terminal: "\\f7ab";
+$mi-terrain: "\\f7ac";
+$mi-text-decrease: "\\f7ad";
+$mi-text-fields: "\\f7ae";
+$mi-text-format: "\\f7af";
+$mi-text-increase: "\\f7b0";
+$mi-text-rotate-up: "\\f7b1";
+$mi-text-rotate-vertical: "\\f7b2";
+$mi-text-rotation-angledown: "\\f7b3";
+$mi-text-rotation-angleup: "\\f7b4";
+$mi-text-rotation-down: "\\f7b5";
+$mi-text-rotation-none: "\\f7b6";
+$mi-text-snippet: "\\f7b7";
+$mi-textsms: "\\f7b8";
+$mi-texture: "\\f7b9";
+$mi-theater-comedy: "\\f7ba";
+$mi-theaters: "\\f7bb";
+$mi-thermostat: "\\f7bc";
+$mi-thermostat-auto: "\\f7bd";
+$mi-thumb-down: "\\f7be";
+$mi-thumb-down-alt: "\\f7bf";
+$mi-thumb-down-off-alt: "\\f7c0";
+$mi-thumb-up: "\\f7c1";
+$mi-thumb-up-alt: "\\f7c2";
+$mi-thumb-up-off-alt: "\\f7c3";
+$mi-thumbs-up-down: "\\f7c4";
+$mi-thunderstorm: "\\f7c5";
+$mi-time-to-leave: "\\f7c6";
+$mi-timelapse: "\\f7c7";
+$mi-timeline: "\\f7c8";
+$mi-timer: "\\f7c9";
+$mi-timer-10: "\\f7ca";
+$mi-timer-10-select: "\\f7cb";
+$mi-timer-3: "\\f7cc";
+$mi-timer-3-select: "\\f7cd";
+$mi-timer-off: "\\f7ce";
+$mi-tips-and-updates: "\\f7cf";
+$mi-tire-repair: "\\f7d0";
+$mi-title: "\\f7d1";
+$mi-toc: "\\f7d2";
+$mi-today: "\\f7d3";
+$mi-toggle-off: "\\f7d4";
+$mi-toggle-on: "\\f7d5";
+$mi-token: "\\f7d6";
+$mi-toll: "\\f7d7";
+$mi-tonality: "\\f7d8";
+$mi-topic: "\\f7d9";
+$mi-tornado: "\\f7da";
+$mi-touch-app: "\\f7db";
+$mi-tour: "\\f7dc";
+$mi-toys: "\\f7dd";
+$mi-track-changes: "\\f7de";
+$mi-traffic: "\\f7df";
+$mi-train: "\\f7e0";
+$mi-tram: "\\f7e1";
+$mi-transcribe: "\\f7e2";
+$mi-transfer-within-a-station: "\\f7e3";
+$mi-transform: "\\f7e4";
+$mi-transgender: "\\f7e5";
+$mi-transit-enterexit: "\\f7e6";
+$mi-translate: "\\f7e7";
+$mi-travel-explore: "\\f7e8";
+$mi-trending-down: "\\f7e9";
+$mi-trending-flat: "\\f7ea";
+$mi-trending-up: "\\f7eb";
+$mi-trip-origin: "\\f7ec";
+$mi-trolley: "\\f7ed";
+$mi-troubleshoot: "\\f7ee";
+$mi-try: "\\f7ef";
+$mi-tsunami: "\\f7f0";
+$mi-tty: "\\f7f1";
+$mi-tune: "\\f7f2";
+$mi-tungsten: "\\f7f3";
+$mi-turn-left: "\\f7f4";
+$mi-turn-right: "\\f7f5";
+$mi-turn-sharp-left: "\\f7f6";
+$mi-turn-sharp-right: "\\f7f7";
+$mi-turn-slight-left: "\\f7f8";
+$mi-turn-slight-right: "\\f7f9";
+$mi-turned-in: "\\f7fa";
+$mi-turned-in-not: "\\f7fb";
+$mi-tv: "\\f7fc";
+$mi-tv-off: "\\f7fd";
+$mi-two-wheeler: "\\f7fe";
+$mi-type-specimen: "\\f7ff";
+$mi-u-turn-left: "\\f800";
+$mi-u-turn-right: "\\f801";
+$mi-umbrella: "\\f802";
+$mi-unarchive: "\\f803";
+$mi-undo: "\\f804";
+$mi-unfold-less: "\\f805";
+$mi-unfold-less-double: "\\f806";
+$mi-unfold-more: "\\f807";
+$mi-unfold-more-double: "\\f808";
+$mi-unpublished: "\\f809";
+$mi-unsubscribe: "\\f80a";
+$mi-upcoming: "\\f80b";
+$mi-update: "\\f80c";
+$mi-update-disabled: "\\f80d";
+$mi-upgrade: "\\f80e";
+$mi-upload: "\\f80f";
+$mi-upload-file: "\\f810";
+$mi-usb: "\\f811";
+$mi-usb-off: "\\f812";
+$mi-vaccines: "\\f813";
+$mi-vape-free: "\\f814";
+$mi-vaping-rooms: "\\f815";
+$mi-verified: "\\f816";
+$mi-verified-user: "\\f817";
+$mi-vertical-align-bottom: "\\f818";
+$mi-vertical-align-center: "\\f819";
+$mi-vertical-align-top: "\\f81a";
+$mi-vertical-distribute: "\\f81b";
+$mi-vertical-shades: "\\f81c";
+$mi-vertical-shades-closed: "\\f81d";
+$mi-vertical-split: "\\f81e";
+$mi-vibration: "\\f81f";
+$mi-video-call: "\\f820";
+$mi-video-camera-back: "\\f821";
+$mi-video-camera-front: "\\f822";
+$mi-video-chat: "\\f823";
+$mi-video-file: "\\f824";
+$mi-video-label: "\\f825";
+$mi-video-library: "\\f826";
+$mi-video-settings: "\\f827";
+$mi-video-stable: "\\f828";
+$mi-videocam: "\\f829";
+$mi-videocam-off: "\\f82a";
+$mi-videogame-asset: "\\f82b";
+$mi-videogame-asset-off: "\\f82c";
+$mi-view-agenda: "\\f82d";
+$mi-view-array: "\\f82e";
+$mi-view-carousel: "\\f82f";
+$mi-view-column: "\\f830";
+$mi-view-comfy: "\\f831";
+$mi-view-comfy-alt: "\\f832";
+$mi-view-compact: "\\f833";
+$mi-view-compact-alt: "\\f834";
+$mi-view-cozy: "\\f835";
+$mi-view-day: "\\f836";
+$mi-view-headline: "\\f837";
+$mi-view-in-ar: "\\f838";
+$mi-view-kanban: "\\f839";
+$mi-view-list: "\\f83a";
+$mi-view-module: "\\f83b";
+$mi-view-quilt: "\\f83c";
+$mi-view-sidebar: "\\f83d";
+$mi-view-stream: "\\f83e";
+$mi-view-timeline: "\\f83f";
+$mi-view-week: "\\f840";
+$mi-vignette: "\\f841";
+$mi-villa: "\\f842";
+$mi-visibility: "\\f843";
+$mi-visibility-off: "\\f844";
+$mi-voice-chat: "\\f845";
+$mi-voice-over-off: "\\f846";
+$mi-voicemail: "\\f847";
+$mi-volcano: "\\f848";
+$mi-volume-down: "\\f849";
+$mi-volume-down-alt: "\\f84a";
+$mi-volume-mute: "\\f84b";
+$mi-volume-off: "\\f84c";
+$mi-volume-up: "\\f84d";
+$mi-volunteer-activism: "\\f84e";
+$mi-vpn-key: "\\f84f";
+$mi-vpn-key-off: "\\f850";
+$mi-vpn-lock: "\\f851";
+$mi-vrpano: "\\f852";
+$mi-wallet: "\\f853";
+$mi-wallpaper: "\\f854";
+$mi-warehouse: "\\f855";
+$mi-warning: "\\f856";
+$mi-warning-amber: "\\f857";
+$mi-wash: "\\f858";
+$mi-watch: "\\f859";
+$mi-watch-later: "\\f85a";
+$mi-watch-off: "\\f85b";
+$mi-water: "\\f85c";
+$mi-water-damage: "\\f85d";
+$mi-water-drop: "\\f85e";
+$mi-waterfall-chart: "\\f85f";
+$mi-waves: "\\f860";
+$mi-waving-hand: "\\f861";
+$mi-wb-auto: "\\f862";
+$mi-wb-cloudy: "\\f863";
+$mi-wb-incandescent: "\\f864";
+$mi-wb-iridescent: "\\f865";
+$mi-wb-shade: "\\f866";
+$mi-wb-sunny: "\\f867";
+$mi-wb-twighlight: "\\f868";
+$mi-wb-twilight: "\\f869";
+$mi-wc: "\\f86a";
+$mi-web: "\\f86b";
+$mi-web-asset: "\\f86c";
+$mi-web-asset-off: "\\f86d";
+$mi-web-stories: "\\f86e";
+$mi-webhook: "\\f86f";
+$mi-weekend: "\\f870";
+$mi-west: "\\f871";
+$mi-whatsapp: "\\f872";
+$mi-whatshot: "\\f873";
+$mi-wheelchair-pickup: "\\f874";
+$mi-where-to-vote: "\\f875";
+$mi-widgets: "\\f876";
+$mi-width-full: "\\f877";
+$mi-width-normal: "\\f878";
+$mi-width-wide: "\\f879";
+$mi-wifi: "\\f87a";
+$mi-wifi-1-bar: "\\f87b";
+$mi-wifi-2-bar: "\\f87c";
+$mi-wifi-calling: "\\f87d";
+$mi-wifi-calling-1: "\\f87e";
+$mi-wifi-calling-2: "\\f87f";
+$mi-wifi-calling-3: "\\f880";
+$mi-wifi-channel: "\\f881";
+$mi-wifi-find: "\\f882";
+$mi-wifi-lock: "\\f883";
+$mi-wifi-off: "\\f884";
+$mi-wifi-password: "\\f885";
+$mi-wifi-protected-setup: "\\f886";
+$mi-wifi-tethering: "\\f887";
+$mi-wifi-tethering-error: "\\f888";
+$mi-wifi-tethering-error-rounded: "\\f889";
+$mi-wifi-tethering-off: "\\f88a";
+$mi-wind-power: "\\f88b";
+$mi-window: "\\f88c";
+$mi-wine-bar: "\\f88d";
+$mi-woman: "\\f88e";
+$mi-woman-2: "\\f88f";
+$mi-work: "\\f890";
+$mi-work-history: "\\f891";
+$mi-work-off: "\\f892";
+$mi-work-outline: "\\f893";
+$mi-workspace-premium: "\\f894";
+$mi-workspaces: "\\f895";
+$mi-workspaces-filled: "\\f896";
+$mi-workspaces-outline: "\\f897";
+$mi-wrap-text: "\\f898";
+$mi-wrong-location: "\\f899";
+$mi-wysiwyg: "\\f89a";
+$mi-yard: "\\f89b";
+$mi-youtube-searched-for: "\\f89c";
+$mi-zoom-in: "\\f89d";
+$mi-zoom-in-map: "\\f89e";
+$mi-zoom-out: "\\f89f";
+$mi-zoom-out-map: "\\f8a0";
+
+$mi-icons: (
+  "10k": $mi-10k,
+  "10mp": $mi-10mp,
+  "11mp": $mi-11mp,
+  "123": $mi-123,
+  "12mp": $mi-12mp,
+  "13mp": $mi-13mp,
+  "14mp": $mi-14mp,
+  "15mp": $mi-15mp,
+  "16mp": $mi-16mp,
+  "17mp": $mi-17mp,
+  "18-up-rating": $mi-18-up-rating,
+  "18mp": $mi-18mp,
+  "19mp": $mi-19mp,
+  "1k": $mi-1k,
+  "1k-plus": $mi-1k-plus,
+  "1x-mobiledata": $mi-1x-mobiledata,
+  "20mp": $mi-20mp,
+  "21mp": $mi-21mp,
+  "22mp": $mi-22mp,
+  "23mp": $mi-23mp,
+  "24mp": $mi-24mp,
+  "2k": $mi-2k,
+  "2k-plus": $mi-2k-plus,
+  "2mp": $mi-2mp,
+  "30fps": $mi-30fps,
+  "30fps-select": $mi-30fps-select,
+  "360": $mi-360,
+  "3d-rotation": $mi-3d-rotation,
+  "3g-mobiledata": $mi-3g-mobiledata,
+  "3k": $mi-3k,
+  "3k-plus": $mi-3k-plus,
+  "3mp": $mi-3mp,
+  "3p": $mi-3p,
+  "4g-mobiledata": $mi-4g-mobiledata,
+  "4g-plus-mobiledata": $mi-4g-plus-mobiledata,
+  "4k": $mi-4k,
+  "4k-plus": $mi-4k-plus,
+  "4mp": $mi-4mp,
+  "5g": $mi-5g,
+  "5k": $mi-5k,
+  "5k-plus": $mi-5k-plus,
+  "5mp": $mi-5mp,
+  "6-ft-apart": $mi-6-ft-apart,
+  "60fps": $mi-60fps,
+  "60fps-select": $mi-60fps-select,
+  "6k": $mi-6k,
+  "6k-plus": $mi-6k-plus,
+  "6mp": $mi-6mp,
+  "7k": $mi-7k,
+  "7k-plus": $mi-7k-plus,
+  "7mp": $mi-7mp,
+  "8k": $mi-8k,
+  "8k-plus": $mi-8k-plus,
+  "8mp": $mi-8mp,
+  "9k": $mi-9k,
+  "9k-plus": $mi-9k-plus,
+  "9mp": $mi-9mp,
+  "abc": $mi-abc,
+  "ac-unit": $mi-ac-unit,
+  "access-alarm": $mi-access-alarm,
+  "access-alarms": $mi-access-alarms,
+  "access-time": $mi-access-time,
+  "access-time-filled": $mi-access-time-filled,
+  "accessibility": $mi-accessibility,
+  "accessibility-new": $mi-accessibility-new,
+  "accessible": $mi-accessible,
+  "accessible-forward": $mi-accessible-forward,
+  "account-balance": $mi-account-balance,
+  "account-balance-wallet": $mi-account-balance-wallet,
+  "account-box": $mi-account-box,
+  "account-circle": $mi-account-circle,
+  "account-tree": $mi-account-tree,
+  "ad-units": $mi-ad-units,
+  "adb": $mi-adb,
+  "add": $mi-add,
+  "add-a-photo": $mi-add-a-photo,
+  "add-alarm": $mi-add-alarm,
+  "add-alert": $mi-add-alert,
+  "add-box": $mi-add-box,
+  "add-business": $mi-add-business,
+  "add-call": $mi-add-call,
+  "add-card": $mi-add-card,
+  "add-chart": $mi-add-chart,
+  "add-circle": $mi-add-circle,
+  "add-circle-outline": $mi-add-circle-outline,
+  "add-comment": $mi-add-comment,
+  "add-home": $mi-add-home,
+  "add-home-work": $mi-add-home-work,
+  "add-ic-call": $mi-add-ic-call,
+  "add-link": $mi-add-link,
+  "add-location": $mi-add-location,
+  "add-location-alt": $mi-add-location-alt,
+  "add-moderator": $mi-add-moderator,
+  "add-photo-alternate": $mi-add-photo-alternate,
+  "add-reaction": $mi-add-reaction,
+  "add-road": $mi-add-road,
+  "add-shopping-cart": $mi-add-shopping-cart,
+  "add-task": $mi-add-task,
+  "add-to-drive": $mi-add-to-drive,
+  "add-to-home-screen": $mi-add-to-home-screen,
+  "add-to-photos": $mi-add-to-photos,
+  "add-to-queue": $mi-add-to-queue,
+  "addchart": $mi-addchart,
+  "adf-scanner": $mi-adf-scanner,
+  "adjust": $mi-adjust,
+  "admin-panel-settings": $mi-admin-panel-settings,
+  "ads-click": $mi-ads-click,
+  "agriculture": $mi-agriculture,
+  "air": $mi-air,
+  "airline-seat-flat": $mi-airline-seat-flat,
+  "airline-seat-flat-angled": $mi-airline-seat-flat-angled,
+  "airline-seat-individual-suite": $mi-airline-seat-individual-suite,
+  "airline-seat-legroom-extra": $mi-airline-seat-legroom-extra,
+  "airline-seat-legroom-normal": $mi-airline-seat-legroom-normal,
+  "airline-seat-legroom-reduced": $mi-airline-seat-legroom-reduced,
+  "airline-seat-recline-extra": $mi-airline-seat-recline-extra,
+  "airline-seat-recline-normal": $mi-airline-seat-recline-normal,
+  "airline-stops": $mi-airline-stops,
+  "airlines": $mi-airlines,
+  "airplane-ticket": $mi-airplane-ticket,
+  "airplanemode-active": $mi-airplanemode-active,
+  "airplanemode-inactive": $mi-airplanemode-inactive,
+  "airplay": $mi-airplay,
+  "airport-shuttle": $mi-airport-shuttle,
+  "alarm": $mi-alarm,
+  "alarm-add": $mi-alarm-add,
+  "alarm-off": $mi-alarm-off,
+  "alarm-on": $mi-alarm-on,
+  "album": $mi-album,
+  "align-horizontal-center": $mi-align-horizontal-center,
+  "align-horizontal-left": $mi-align-horizontal-left,
+  "align-horizontal-right": $mi-align-horizontal-right,
+  "align-vertical-bottom": $mi-align-vertical-bottom,
+  "align-vertical-center": $mi-align-vertical-center,
+  "align-vertical-top": $mi-align-vertical-top,
+  "all-inbox": $mi-all-inbox,
+  "all-inclusive": $mi-all-inclusive,
+  "all-out": $mi-all-out,
+  "alt-route": $mi-alt-route,
+  "alternate-email": $mi-alternate-email,
+  "amp-stories": $mi-amp-stories,
+  "analytics": $mi-analytics,
+  "anchor": $mi-anchor,
+  "android": $mi-android,
+  "animation": $mi-animation,
+  "announcement": $mi-announcement,
+  "aod": $mi-aod,
+  "apartment": $mi-apartment,
+  "api": $mi-api,
+  "app-blocking": $mi-app-blocking,
+  "app-registration": $mi-app-registration,
+  "app-settings-alt": $mi-app-settings-alt,
+  "app-shortcut": $mi-app-shortcut,
+  "approval": $mi-approval,
+  "apps": $mi-apps,
+  "apps-outage": $mi-apps-outage,
+  "architecture": $mi-architecture,
+  "archive": $mi-archive,
+  "area-chart": $mi-area-chart,
+  "arrow-back": $mi-arrow-back,
+  "arrow-back-ios": $mi-arrow-back-ios,
+  "arrow-back-ios-new": $mi-arrow-back-ios-new,
+  "arrow-circle-down": $mi-arrow-circle-down,
+  "arrow-circle-left": $mi-arrow-circle-left,
+  "arrow-circle-right": $mi-arrow-circle-right,
+  "arrow-circle-up": $mi-arrow-circle-up,
+  "arrow-downward": $mi-arrow-downward,
+  "arrow-drop-down": $mi-arrow-drop-down,
+  "arrow-drop-down-circle": $mi-arrow-drop-down-circle,
+  "arrow-drop-up": $mi-arrow-drop-up,
+  "arrow-forward": $mi-arrow-forward,
+  "arrow-forward-ios": $mi-arrow-forward-ios,
+  "arrow-left": $mi-arrow-left,
+  "arrow-outward": $mi-arrow-outward,
+  "arrow-right": $mi-arrow-right,
+  "arrow-right-alt": $mi-arrow-right-alt,
+  "arrow-upward": $mi-arrow-upward,
+  "art-track": $mi-art-track,
+  "article": $mi-article,
+  "aspect-ratio": $mi-aspect-ratio,
+  "assessment": $mi-assessment,
+  "assignment": $mi-assignment,
+  "assignment-add": $mi-assignment-add,
+  "assignment-ind": $mi-assignment-ind,
+  "assignment-late": $mi-assignment-late,
+  "assignment-return": $mi-assignment-return,
+  "assignment-returned": $mi-assignment-returned,
+  "assignment-turned-in": $mi-assignment-turned-in,
+  "assist-walker": $mi-assist-walker,
+  "assistant": $mi-assistant,
+  "assistant-direction": $mi-assistant-direction,
+  "assistant-navigation": $mi-assistant-navigation,
+  "assistant-photo": $mi-assistant-photo,
+  "assured-workload": $mi-assured-workload,
+  "atm": $mi-atm,
+  "attach-email": $mi-attach-email,
+  "attach-file": $mi-attach-file,
+  "attach-money": $mi-attach-money,
+  "attachment": $mi-attachment,
+  "attractions": $mi-attractions,
+  "attribution": $mi-attribution,
+  "audio-file": $mi-audio-file,
+  "audiotrack": $mi-audiotrack,
+  "auto-awesome": $mi-auto-awesome,
+  "auto-awesome-mosaic": $mi-auto-awesome-mosaic,
+  "auto-awesome-motion": $mi-auto-awesome-motion,
+  "auto-delete": $mi-auto-delete,
+  "auto-fix-high": $mi-auto-fix-high,
+  "auto-fix-normal": $mi-auto-fix-normal,
+  "auto-fix-off": $mi-auto-fix-off,
+  "auto-graph": $mi-auto-graph,
+  "auto-mode": $mi-auto-mode,
+  "auto-stories": $mi-auto-stories,
+  "autofps-select": $mi-autofps-select,
+  "autorenew": $mi-autorenew,
+  "av-timer": $mi-av-timer,
+  "baby-changing-station": $mi-baby-changing-station,
+  "back-hand": $mi-back-hand,
+  "backpack": $mi-backpack,
+  "backspace": $mi-backspace,
+  "backup": $mi-backup,
+  "backup-table": $mi-backup-table,
+  "badge": $mi-badge,
+  "bakery-dining": $mi-bakery-dining,
+  "balance": $mi-balance,
+  "balcony": $mi-balcony,
+  "ballot": $mi-ballot,
+  "bar-chart": $mi-bar-chart,
+  "barcode-reader": $mi-barcode-reader,
+  "batch-prediction": $mi-batch-prediction,
+  "bathroom": $mi-bathroom,
+  "bathtub": $mi-bathtub,
+  "battery-0-bar": $mi-battery-0-bar,
+  "battery-1-bar": $mi-battery-1-bar,
+  "battery-2-bar": $mi-battery-2-bar,
+  "battery-20": $mi-battery-20,
+  "battery-3-bar": $mi-battery-3-bar,
+  "battery-30": $mi-battery-30,
+  "battery-4-bar": $mi-battery-4-bar,
+  "battery-5-bar": $mi-battery-5-bar,
+  "battery-50": $mi-battery-50,
+  "battery-6-bar": $mi-battery-6-bar,
+  "battery-60": $mi-battery-60,
+  "battery-80": $mi-battery-80,
+  "battery-90": $mi-battery-90,
+  "battery-alert": $mi-battery-alert,
+  "battery-charging-20": $mi-battery-charging-20,
+  "battery-charging-30": $mi-battery-charging-30,
+  "battery-charging-50": $mi-battery-charging-50,
+  "battery-charging-60": $mi-battery-charging-60,
+  "battery-charging-80": $mi-battery-charging-80,
+  "battery-charging-90": $mi-battery-charging-90,
+  "battery-charging-full": $mi-battery-charging-full,
+  "battery-full": $mi-battery-full,
+  "battery-saver": $mi-battery-saver,
+  "battery-std": $mi-battery-std,
+  "battery-unknown": $mi-battery-unknown,
+  "beach-access": $mi-beach-access,
+  "bed": $mi-bed,
+  "bedroom-baby": $mi-bedroom-baby,
+  "bedroom-child": $mi-bedroom-child,
+  "bedroom-parent": $mi-bedroom-parent,
+  "bedtime": $mi-bedtime,
+  "bedtime-off": $mi-bedtime-off,
+  "beenhere": $mi-beenhere,
+  "bento": $mi-bento,
+  "bike-scooter": $mi-bike-scooter,
+  "biotech": $mi-biotech,
+  "blender": $mi-blender,
+  "blind": $mi-blind,
+  "blinds": $mi-blinds,
+  "blinds-closed": $mi-blinds-closed,
+  "block": $mi-block,
+  "block-flipped": $mi-block-flipped,
+  "bloodtype": $mi-bloodtype,
+  "bluetooth": $mi-bluetooth,
+  "bluetooth-audio": $mi-bluetooth-audio,
+  "bluetooth-connected": $mi-bluetooth-connected,
+  "bluetooth-disabled": $mi-bluetooth-disabled,
+  "bluetooth-drive": $mi-bluetooth-drive,
+  "bluetooth-searching": $mi-bluetooth-searching,
+  "blur-circular": $mi-blur-circular,
+  "blur-linear": $mi-blur-linear,
+  "blur-off": $mi-blur-off,
+  "blur-on": $mi-blur-on,
+  "bolt": $mi-bolt,
+  "book": $mi-book,
+  "book-online": $mi-book-online,
+  "bookmark": $mi-bookmark,
+  "bookmark-add": $mi-bookmark-add,
+  "bookmark-added": $mi-bookmark-added,
+  "bookmark-border": $mi-bookmark-border,
+  "bookmark-remove": $mi-bookmark-remove,
+  "bookmarks": $mi-bookmarks,
+  "border-all": $mi-border-all,
+  "border-bottom": $mi-border-bottom,
+  "border-clear": $mi-border-clear,
+  "border-color": $mi-border-color,
+  "border-horizontal": $mi-border-horizontal,
+  "border-inner": $mi-border-inner,
+  "border-left": $mi-border-left,
+  "border-outer": $mi-border-outer,
+  "border-right": $mi-border-right,
+  "border-style": $mi-border-style,
+  "border-top": $mi-border-top,
+  "border-vertical": $mi-border-vertical,
+  "boy": $mi-boy,
+  "branding-watermark": $mi-branding-watermark,
+  "breakfast-dining": $mi-breakfast-dining,
+  "brightness-1": $mi-brightness-1,
+  "brightness-2": $mi-brightness-2,
+  "brightness-3": $mi-brightness-3,
+  "brightness-4": $mi-brightness-4,
+  "brightness-5": $mi-brightness-5,
+  "brightness-6": $mi-brightness-6,
+  "brightness-7": $mi-brightness-7,
+  "brightness-auto": $mi-brightness-auto,
+  "brightness-high": $mi-brightness-high,
+  "brightness-low": $mi-brightness-low,
+  "brightness-medium": $mi-brightness-medium,
+  "broadcast-on-home": $mi-broadcast-on-home,
+  "broadcast-on-personal": $mi-broadcast-on-personal,
+  "broken-image": $mi-broken-image,
+  "browse-gallery": $mi-browse-gallery,
+  "browser-not-supported": $mi-browser-not-supported,
+  "browser-updated": $mi-browser-updated,
+  "brunch-dining": $mi-brunch-dining,
+  "brush": $mi-brush,
+  "bubble-chart": $mi-bubble-chart,
+  "bug-report": $mi-bug-report,
+  "build": $mi-build,
+  "build-circle": $mi-build-circle,
+  "bungalow": $mi-bungalow,
+  "burst-mode": $mi-burst-mode,
+  "bus-alert": $mi-bus-alert,
+  "business": $mi-business,
+  "business-center": $mi-business-center,
+  "cabin": $mi-cabin,
+  "cable": $mi-cable,
+  "cached": $mi-cached,
+  "cake": $mi-cake,
+  "calculate": $mi-calculate,
+  "calendar-month": $mi-calendar-month,
+  "calendar-today": $mi-calendar-today,
+  "calendar-view-day": $mi-calendar-view-day,
+  "calendar-view-month": $mi-calendar-view-month,
+  "calendar-view-week": $mi-calendar-view-week,
+  "call": $mi-call,
+  "call-end": $mi-call-end,
+  "call-made": $mi-call-made,
+  "call-merge": $mi-call-merge,
+  "call-missed": $mi-call-missed,
+  "call-missed-outgoing": $mi-call-missed-outgoing,
+  "call-received": $mi-call-received,
+  "call-split": $mi-call-split,
+  "call-to-action": $mi-call-to-action,
+  "camera": $mi-camera,
+  "camera-alt": $mi-camera-alt,
+  "camera-enhance": $mi-camera-enhance,
+  "camera-front": $mi-camera-front,
+  "camera-indoor": $mi-camera-indoor,
+  "camera-outdoor": $mi-camera-outdoor,
+  "camera-rear": $mi-camera-rear,
+  "camera-roll": $mi-camera-roll,
+  "cameraswitch": $mi-cameraswitch,
+  "campaign": $mi-campaign,
+  "cancel": $mi-cancel,
+  "cancel-presentation": $mi-cancel-presentation,
+  "cancel-schedule-send": $mi-cancel-schedule-send,
+  "candlestick-chart": $mi-candlestick-chart,
+  "car-crash": $mi-car-crash,
+  "car-rental": $mi-car-rental,
+  "car-repair": $mi-car-repair,
+  "card-giftcard": $mi-card-giftcard,
+  "card-membership": $mi-card-membership,
+  "card-travel": $mi-card-travel,
+  "carpenter": $mi-carpenter,
+  "cases": $mi-cases,
+  "casino": $mi-casino,
+  "cast": $mi-cast,
+  "cast-connected": $mi-cast-connected,
+  "cast-for-education": $mi-cast-for-education,
+  "castle": $mi-castle,
+  "catching-pokemon": $mi-catching-pokemon,
+  "category": $mi-category,
+  "celebration": $mi-celebration,
+  "cell-tower": $mi-cell-tower,
+  "cell-wifi": $mi-cell-wifi,
+  "center-focus-strong": $mi-center-focus-strong,
+  "center-focus-weak": $mi-center-focus-weak,
+  "chair": $mi-chair,
+  "chair-alt": $mi-chair-alt,
+  "chalet": $mi-chalet,
+  "change-circle": $mi-change-circle,
+  "change-history": $mi-change-history,
+  "charging-station": $mi-charging-station,
+  "chat": $mi-chat,
+  "chat-bubble": $mi-chat-bubble,
+  "chat-bubble-outline": $mi-chat-bubble-outline,
+  "check": $mi-check,
+  "check-box": $mi-check-box,
+  "check-box-outline-blank": $mi-check-box-outline-blank,
+  "check-circle": $mi-check-circle,
+  "check-circle-outline": $mi-check-circle-outline,
+  "checklist": $mi-checklist,
+  "checklist-rtl": $mi-checklist-rtl,
+  "checkroom": $mi-checkroom,
+  "chevron-left": $mi-chevron-left,
+  "chevron-right": $mi-chevron-right,
+  "child-care": $mi-child-care,
+  "child-friendly": $mi-child-friendly,
+  "chrome-reader-mode": $mi-chrome-reader-mode,
+  "church": $mi-church,
+  "circle": $mi-circle,
+  "circle-notifications": $mi-circle-notifications,
+  "class": $mi-class,
+  "clean-hands": $mi-clean-hands,
+  "cleaning-services": $mi-cleaning-services,
+  "clear": $mi-clear,
+  "clear-all": $mi-clear-all,
+  "close": $mi-close,
+  "close-fullscreen": $mi-close-fullscreen,
+  "closed-caption": $mi-closed-caption,
+  "closed-caption-disabled": $mi-closed-caption-disabled,
+  "closed-caption-off": $mi-closed-caption-off,
+  "cloud": $mi-cloud,
+  "cloud-circle": $mi-cloud-circle,
+  "cloud-done": $mi-cloud-done,
+  "cloud-download": $mi-cloud-download,
+  "cloud-off": $mi-cloud-off,
+  "cloud-queue": $mi-cloud-queue,
+  "cloud-sync": $mi-cloud-sync,
+  "cloud-upload": $mi-cloud-upload,
+  "cloudy-snowing": $mi-cloudy-snowing,
+  "co-present": $mi-co-present,
+  "co2": $mi-co2,
+  "code": $mi-code,
+  "code-off": $mi-code-off,
+  "coffee": $mi-coffee,
+  "coffee-maker": $mi-coffee-maker,
+  "collections": $mi-collections,
+  "collections-bookmark": $mi-collections-bookmark,
+  "color-lens": $mi-color-lens,
+  "colorize": $mi-colorize,
+  "comment": $mi-comment,
+  "comment-bank": $mi-comment-bank,
+  "comments-disabled": $mi-comments-disabled,
+  "commit": $mi-commit,
+  "commute": $mi-commute,
+  "compare": $mi-compare,
+  "compare-arrows": $mi-compare-arrows,
+  "compass-calibration": $mi-compass-calibration,
+  "compost": $mi-compost,
+  "compress": $mi-compress,
+  "computer": $mi-computer,
+  "confirmation-number": $mi-confirmation-number,
+  "connect-without-contact": $mi-connect-without-contact,
+  "connected-tv": $mi-connected-tv,
+  "connecting-airports": $mi-connecting-airports,
+  "construction": $mi-construction,
+  "contact-emergency": $mi-contact-emergency,
+  "contact-mail": $mi-contact-mail,
+  "contact-page": $mi-contact-page,
+  "contact-phone": $mi-contact-phone,
+  "contact-support": $mi-contact-support,
+  "contactless": $mi-contactless,
+  "contacts": $mi-contacts,
+  "content-copy": $mi-content-copy,
+  "content-cut": $mi-content-cut,
+  "content-paste": $mi-content-paste,
+  "content-paste-go": $mi-content-paste-go,
+  "content-paste-off": $mi-content-paste-off,
+  "content-paste-search": $mi-content-paste-search,
+  "contrast": $mi-contrast,
+  "control-camera": $mi-control-camera,
+  "control-point": $mi-control-point,
+  "control-point-duplicate": $mi-control-point-duplicate,
+  "conveyor-belt": $mi-conveyor-belt,
+  "cookie": $mi-cookie,
+  "copy-all": $mi-copy-all,
+  "copyright": $mi-copyright,
+  "coronavirus": $mi-coronavirus,
+  "corporate-fare": $mi-corporate-fare,
+  "cottage": $mi-cottage,
+  "countertops": $mi-countertops,
+  "create": $mi-create,
+  "create-new-folder": $mi-create-new-folder,
+  "credit-card": $mi-credit-card,
+  "credit-card-off": $mi-credit-card-off,
+  "credit-score": $mi-credit-score,
+  "crib": $mi-crib,
+  "crisis-alert": $mi-crisis-alert,
+  "crop": $mi-crop,
+  "crop-16-9": $mi-crop-16-9,
+  "crop-3-2": $mi-crop-3-2,
+  "crop-5-4": $mi-crop-5-4,
+  "crop-7-5": $mi-crop-7-5,
+  "crop-din": $mi-crop-din,
+  "crop-free": $mi-crop-free,
+  "crop-landscape": $mi-crop-landscape,
+  "crop-original": $mi-crop-original,
+  "crop-portrait": $mi-crop-portrait,
+  "crop-rotate": $mi-crop-rotate,
+  "crop-square": $mi-crop-square,
+  "cruelty-free": $mi-cruelty-free,
+  "css": $mi-css,
+  "currency-bitcoin": $mi-currency-bitcoin,
+  "currency-exchange": $mi-currency-exchange,
+  "currency-franc": $mi-currency-franc,
+  "currency-lira": $mi-currency-lira,
+  "currency-pound": $mi-currency-pound,
+  "currency-ruble": $mi-currency-ruble,
+  "currency-rupee": $mi-currency-rupee,
+  "currency-yen": $mi-currency-yen,
+  "currency-yuan": $mi-currency-yuan,
+  "curtains": $mi-curtains,
+  "curtains-closed": $mi-curtains-closed,
+  "cyclone": $mi-cyclone,
+  "dangerous": $mi-dangerous,
+  "dark-mode": $mi-dark-mode,
+  "dashboard": $mi-dashboard,
+  "dashboard-customize": $mi-dashboard-customize,
+  "data-array": $mi-data-array,
+  "data-exploration": $mi-data-exploration,
+  "data-object": $mi-data-object,
+  "data-saver-off": $mi-data-saver-off,
+  "data-saver-on": $mi-data-saver-on,
+  "data-thresholding": $mi-data-thresholding,
+  "data-usage": $mi-data-usage,
+  "dataset": $mi-dataset,
+  "dataset-linked": $mi-dataset-linked,
+  "date-range": $mi-date-range,
+  "deblur": $mi-deblur,
+  "deck": $mi-deck,
+  "dehaze": $mi-dehaze,
+  "delete": $mi-delete,
+  "delete-forever": $mi-delete-forever,
+  "delete-outline": $mi-delete-outline,
+  "delete-sweep": $mi-delete-sweep,
+  "delivery-dining": $mi-delivery-dining,
+  "density-large": $mi-density-large,
+  "density-medium": $mi-density-medium,
+  "density-small": $mi-density-small,
+  "departure-board": $mi-departure-board,
+  "description": $mi-description,
+  "deselect": $mi-deselect,
+  "design-services": $mi-design-services,
+  "desk": $mi-desk,
+  "desktop-access-disabled": $mi-desktop-access-disabled,
+  "desktop-mac": $mi-desktop-mac,
+  "desktop-windows": $mi-desktop-windows,
+  "details": $mi-details,
+  "developer-board": $mi-developer-board,
+  "developer-board-off": $mi-developer-board-off,
+  "developer-mode": $mi-developer-mode,
+  "device-hub": $mi-device-hub,
+  "device-thermostat": $mi-device-thermostat,
+  "device-unknown": $mi-device-unknown,
+  "devices": $mi-devices,
+  "devices-fold": $mi-devices-fold,
+  "devices-other": $mi-devices-other,
+  "dew-point": $mi-dew-point,
+  "dialer-sip": $mi-dialer-sip,
+  "dialpad": $mi-dialpad,
+  "diamond": $mi-diamond,
+  "difference": $mi-difference,
+  "dining": $mi-dining,
+  "dinner-dining": $mi-dinner-dining,
+  "directions": $mi-directions,
+  "directions-bike": $mi-directions-bike,
+  "directions-boat": $mi-directions-boat,
+  "directions-boat-filled": $mi-directions-boat-filled,
+  "directions-bus": $mi-directions-bus,
+  "directions-bus-filled": $mi-directions-bus-filled,
+  "directions-car": $mi-directions-car,
+  "directions-car-filled": $mi-directions-car-filled,
+  "directions-off": $mi-directions-off,
+  "directions-railway": $mi-directions-railway,
+  "directions-railway-filled": $mi-directions-railway-filled,
+  "directions-run": $mi-directions-run,
+  "directions-subway": $mi-directions-subway,
+  "directions-subway-filled": $mi-directions-subway-filled,
+  "directions-transit": $mi-directions-transit,
+  "directions-transit-filled": $mi-directions-transit-filled,
+  "directions-walk": $mi-directions-walk,
+  "dirty-lens": $mi-dirty-lens,
+  "disabled-by-default": $mi-disabled-by-default,
+  "disabled-visible": $mi-disabled-visible,
+  "disc-full": $mi-disc-full,
+  "discount": $mi-discount,
+  "display-settings": $mi-display-settings,
+  "diversity-1": $mi-diversity-1,
+  "diversity-2": $mi-diversity-2,
+  "diversity-3": $mi-diversity-3,
+  "dns": $mi-dns,
+  "do-disturb": $mi-do-disturb,
+  "do-disturb-alt": $mi-do-disturb-alt,
+  "do-disturb-off": $mi-do-disturb-off,
+  "do-disturb-on": $mi-do-disturb-on,
+  "do-not-disturb": $mi-do-not-disturb,
+  "do-not-disturb-alt": $mi-do-not-disturb-alt,
+  "do-not-disturb-off": $mi-do-not-disturb-off,
+  "do-not-disturb-on": $mi-do-not-disturb-on,
+  "do-not-disturb-on-total-silence": $mi-do-not-disturb-on-total-silence,
+  "do-not-step": $mi-do-not-step,
+  "do-not-touch": $mi-do-not-touch,
+  "dock": $mi-dock,
+  "document-scanner": $mi-document-scanner,
+  "domain": $mi-domain,
+  "domain-add": $mi-domain-add,
+  "domain-disabled": $mi-domain-disabled,
+  "domain-verification": $mi-domain-verification,
+  "done": $mi-done,
+  "done-all": $mi-done-all,
+  "done-outline": $mi-done-outline,
+  "donut-large": $mi-donut-large,
+  "donut-small": $mi-donut-small,
+  "door-back": $mi-door-back,
+  "door-front": $mi-door-front,
+  "door-sliding": $mi-door-sliding,
+  "doorbell": $mi-doorbell,
+  "double-arrow": $mi-double-arrow,
+  "downhill-skiing": $mi-downhill-skiing,
+  "download": $mi-download,
+  "download-done": $mi-download-done,
+  "download-for-offline": $mi-download-for-offline,
+  "downloading": $mi-downloading,
+  "drafts": $mi-drafts,
+  "drag-handle": $mi-drag-handle,
+  "drag-indicator": $mi-drag-indicator,
+  "draw": $mi-draw,
+  "drive-eta": $mi-drive-eta,
+  "drive-file-move": $mi-drive-file-move,
+  "drive-file-move-outline": $mi-drive-file-move-outline,
+  "drive-file-move-rtl": $mi-drive-file-move-rtl,
+  "drive-file-rename-outline": $mi-drive-file-rename-outline,
+  "drive-folder-upload": $mi-drive-folder-upload,
+  "dry": $mi-dry,
+  "dry-cleaning": $mi-dry-cleaning,
+  "duo": $mi-duo,
+  "dvr": $mi-dvr,
+  "dynamic-feed": $mi-dynamic-feed,
+  "dynamic-form": $mi-dynamic-form,
+  "e-mobiledata": $mi-e-mobiledata,
+  "earbuds": $mi-earbuds,
+  "earbuds-battery": $mi-earbuds-battery,
+  "east": $mi-east,
+  "eco": $mi-eco,
+  "edgesensor-high": $mi-edgesensor-high,
+  "edgesensor-low": $mi-edgesensor-low,
+  "edit": $mi-edit,
+  "edit-attributes": $mi-edit-attributes,
+  "edit-calendar": $mi-edit-calendar,
+  "edit-document": $mi-edit-document,
+  "edit-location": $mi-edit-location,
+  "edit-location-alt": $mi-edit-location-alt,
+  "edit-note": $mi-edit-note,
+  "edit-notifications": $mi-edit-notifications,
+  "edit-off": $mi-edit-off,
+  "edit-road": $mi-edit-road,
+  "edit-square": $mi-edit-square,
+  "egg": $mi-egg,
+  "egg-alt": $mi-egg-alt,
+  "eject": $mi-eject,
+  "elderly": $mi-elderly,
+  "elderly-woman": $mi-elderly-woman,
+  "electric-bike": $mi-electric-bike,
+  "electric-bolt": $mi-electric-bolt,
+  "electric-car": $mi-electric-car,
+  "electric-meter": $mi-electric-meter,
+  "electric-moped": $mi-electric-moped,
+  "electric-rickshaw": $mi-electric-rickshaw,
+  "electric-scooter": $mi-electric-scooter,
+  "electrical-services": $mi-electrical-services,
+  "elevator": $mi-elevator,
+  "email": $mi-email,
+  "emergency": $mi-emergency,
+  "emergency-recording": $mi-emergency-recording,
+  "emergency-share": $mi-emergency-share,
+  "emoji-emotions": $mi-emoji-emotions,
+  "emoji-events": $mi-emoji-events,
+  "emoji-flags": $mi-emoji-flags,
+  "emoji-food-beverage": $mi-emoji-food-beverage,
+  "emoji-nature": $mi-emoji-nature,
+  "emoji-objects": $mi-emoji-objects,
+  "emoji-people": $mi-emoji-people,
+  "emoji-symbols": $mi-emoji-symbols,
+  "emoji-transportation": $mi-emoji-transportation,
+  "energy-savings-leaf": $mi-energy-savings-leaf,
+  "engineering": $mi-engineering,
+  "enhanced-encryption": $mi-enhanced-encryption,
+  "equalizer": $mi-equalizer,
+  "error": $mi-error,
+  "error-outline": $mi-error-outline,
+  "escalator": $mi-escalator,
+  "escalator-warning": $mi-escalator-warning,
+  "euro": $mi-euro,
+  "euro-symbol": $mi-euro-symbol,
+  "ev-station": $mi-ev-station,
+  "event": $mi-event,
+  "event-available": $mi-event-available,
+  "event-busy": $mi-event-busy,
+  "event-note": $mi-event-note,
+  "event-repeat": $mi-event-repeat,
+  "event-seat": $mi-event-seat,
+  "exit-to-app": $mi-exit-to-app,
+  "expand": $mi-expand,
+  "expand-circle-down": $mi-expand-circle-down,
+  "expand-less": $mi-expand-less,
+  "expand-more": $mi-expand-more,
+  "explicit": $mi-explicit,
+  "explore": $mi-explore,
+  "explore-off": $mi-explore-off,
+  "exposure": $mi-exposure,
+  "exposure-neg-1": $mi-exposure-neg-1,
+  "exposure-neg-2": $mi-exposure-neg-2,
+  "exposure-plus-1": $mi-exposure-plus-1,
+  "exposure-plus-2": $mi-exposure-plus-2,
+  "exposure-zero": $mi-exposure-zero,
+  "extension": $mi-extension,
+  "extension-off": $mi-extension-off,
+  "face": $mi-face,
+  "face-2": $mi-face-2,
+  "face-3": $mi-face-3,
+  "face-4": $mi-face-4,
+  "face-5": $mi-face-5,
+  "face-6": $mi-face-6,
+  "face-retouching-natural": $mi-face-retouching-natural,
+  "face-retouching-off": $mi-face-retouching-off,
+  "face-unlock": $mi-face-unlock,
+  "facebook": $mi-facebook,
+  "fact-check": $mi-fact-check,
+  "factory": $mi-factory,
+  "family-restroom": $mi-family-restroom,
+  "fast-forward": $mi-fast-forward,
+  "fast-rewind": $mi-fast-rewind,
+  "fastfood": $mi-fastfood,
+  "favorite": $mi-favorite,
+  "favorite-border": $mi-favorite-border,
+  "fax": $mi-fax,
+  "featured-play-list": $mi-featured-play-list,
+  "featured-video": $mi-featured-video,
+  "feed": $mi-feed,
+  "feedback": $mi-feedback,
+  "female": $mi-female,
+  "fence": $mi-fence,
+  "festival": $mi-festival,
+  "fiber-dvr": $mi-fiber-dvr,
+  "fiber-manual-record": $mi-fiber-manual-record,
+  "fiber-new": $mi-fiber-new,
+  "fiber-pin": $mi-fiber-pin,
+  "fiber-smart-record": $mi-fiber-smart-record,
+  "file-copy": $mi-file-copy,
+  "file-download": $mi-file-download,
+  "file-download-done": $mi-file-download-done,
+  "file-download-off": $mi-file-download-off,
+  "file-open": $mi-file-open,
+  "file-present": $mi-file-present,
+  "file-upload": $mi-file-upload,
+  "file-upload-off": $mi-file-upload-off,
+  "filter": $mi-filter,
+  "filter-1": $mi-filter-1,
+  "filter-2": $mi-filter-2,
+  "filter-3": $mi-filter-3,
+  "filter-4": $mi-filter-4,
+  "filter-5": $mi-filter-5,
+  "filter-6": $mi-filter-6,
+  "filter-7": $mi-filter-7,
+  "filter-8": $mi-filter-8,
+  "filter-9": $mi-filter-9,
+  "filter-9-plus": $mi-filter-9-plus,
+  "filter-alt": $mi-filter-alt,
+  "filter-alt-off": $mi-filter-alt-off,
+  "filter-b-and-w": $mi-filter-b-and-w,
+  "filter-center-focus": $mi-filter-center-focus,
+  "filter-drama": $mi-filter-drama,
+  "filter-frames": $mi-filter-frames,
+  "filter-hdr": $mi-filter-hdr,
+  "filter-list": $mi-filter-list,
+  "filter-list-alt": $mi-filter-list-alt,
+  "filter-list-off": $mi-filter-list-off,
+  "filter-none": $mi-filter-none,
+  "filter-tilt-shift": $mi-filter-tilt-shift,
+  "filter-vintage": $mi-filter-vintage,
+  "find-in-page": $mi-find-in-page,
+  "find-replace": $mi-find-replace,
+  "fingerprint": $mi-fingerprint,
+  "fire-extinguisher": $mi-fire-extinguisher,
+  "fire-hydrant-alt": $mi-fire-hydrant-alt,
+  "fire-truck": $mi-fire-truck,
+  "fireplace": $mi-fireplace,
+  "first-page": $mi-first-page,
+  "fit-screen": $mi-fit-screen,
+  "fitbit": $mi-fitbit,
+  "fitness-center": $mi-fitness-center,
+  "flag": $mi-flag,
+  "flag-circle": $mi-flag-circle,
+  "flaky": $mi-flaky,
+  "flare": $mi-flare,
+  "flash-auto": $mi-flash-auto,
+  "flash-off": $mi-flash-off,
+  "flash-on": $mi-flash-on,
+  "flashlight-off": $mi-flashlight-off,
+  "flashlight-on": $mi-flashlight-on,
+  "flatware": $mi-flatware,
+  "flight": $mi-flight,
+  "flight-class": $mi-flight-class,
+  "flight-land": $mi-flight-land,
+  "flight-takeoff": $mi-flight-takeoff,
+  "flip": $mi-flip,
+  "flip-camera-android": $mi-flip-camera-android,
+  "flip-camera-ios": $mi-flip-camera-ios,
+  "flip-to-back": $mi-flip-to-back,
+  "flip-to-front": $mi-flip-to-front,
+  "flood": $mi-flood,
+  "flourescent": $mi-flourescent,
+  "fluorescent": $mi-fluorescent,
+  "flutter-dash": $mi-flutter-dash,
+  "fmd-bad": $mi-fmd-bad,
+  "fmd-good": $mi-fmd-good,
+  "foggy": $mi-foggy,
+  "folder": $mi-folder,
+  "folder-copy": $mi-folder-copy,
+  "folder-delete": $mi-folder-delete,
+  "folder-off": $mi-folder-off,
+  "folder-open": $mi-folder-open,
+  "folder-shared": $mi-folder-shared,
+  "folder-special": $mi-folder-special,
+  "folder-zip": $mi-folder-zip,
+  "follow-the-signs": $mi-follow-the-signs,
+  "font-download": $mi-font-download,
+  "font-download-off": $mi-font-download-off,
+  "food-bank": $mi-food-bank,
+  "forest": $mi-forest,
+  "fork-left": $mi-fork-left,
+  "fork-right": $mi-fork-right,
+  "forklift": $mi-forklift,
+  "format-align-center": $mi-format-align-center,
+  "format-align-justify": $mi-format-align-justify,
+  "format-align-left": $mi-format-align-left,
+  "format-align-right": $mi-format-align-right,
+  "format-bold": $mi-format-bold,
+  "format-clear": $mi-format-clear,
+  "format-color-fill": $mi-format-color-fill,
+  "format-color-reset": $mi-format-color-reset,
+  "format-color-text": $mi-format-color-text,
+  "format-indent-decrease": $mi-format-indent-decrease,
+  "format-indent-increase": $mi-format-indent-increase,
+  "format-italic": $mi-format-italic,
+  "format-line-spacing": $mi-format-line-spacing,
+  "format-list-bulleted": $mi-format-list-bulleted,
+  "format-list-bulleted-add": $mi-format-list-bulleted-add,
+  "format-list-numbered": $mi-format-list-numbered,
+  "format-list-numbered-rtl": $mi-format-list-numbered-rtl,
+  "format-overline": $mi-format-overline,
+  "format-paint": $mi-format-paint,
+  "format-quote": $mi-format-quote,
+  "format-shapes": $mi-format-shapes,
+  "format-size": $mi-format-size,
+  "format-strikethrough": $mi-format-strikethrough,
+  "format-textdirection-l-to-r": $mi-format-textdirection-l-to-r,
+  "format-textdirection-r-to-l": $mi-format-textdirection-r-to-l,
+  "format-underlined": $mi-format-underlined,
+  "fort": $mi-fort,
+  "forum": $mi-forum,
+  "forward": $mi-forward,
+  "forward-10": $mi-forward-10,
+  "forward-30": $mi-forward-30,
+  "forward-5": $mi-forward-5,
+  "forward-to-inbox": $mi-forward-to-inbox,
+  "foundation": $mi-foundation,
+  "free-breakfast": $mi-free-breakfast,
+  "free-cancellation": $mi-free-cancellation,
+  "front-hand": $mi-front-hand,
+  "front-loader": $mi-front-loader,
+  "fullscreen": $mi-fullscreen,
+  "fullscreen-exit": $mi-fullscreen-exit,
+  "functions": $mi-functions,
+  "g-mobiledata": $mi-g-mobiledata,
+  "g-translate": $mi-g-translate,
+  "gamepad": $mi-gamepad,
+  "games": $mi-games,
+  "garage": $mi-garage,
+  "gas-meter": $mi-gas-meter,
+  "gavel": $mi-gavel,
+  "generating-tokens": $mi-generating-tokens,
+  "gesture": $mi-gesture,
+  "get-app": $mi-get-app,
+  "gif": $mi-gif,
+  "gif-box": $mi-gif-box,
+  "girl": $mi-girl,
+  "gite": $mi-gite,
+  "golf-course": $mi-golf-course,
+  "gpp-bad": $mi-gpp-bad,
+  "gpp-good": $mi-gpp-good,
+  "gpp-maybe": $mi-gpp-maybe,
+  "gps-fixed": $mi-gps-fixed,
+  "gps-not-fixed": $mi-gps-not-fixed,
+  "gps-off": $mi-gps-off,
+  "grade": $mi-grade,
+  "gradient": $mi-gradient,
+  "grading": $mi-grading,
+  "grain": $mi-grain,
+  "graphic-eq": $mi-graphic-eq,
+  "grass": $mi-grass,
+  "grid-3x3": $mi-grid-3x3,
+  "grid-4x4": $mi-grid-4x4,
+  "grid-goldenratio": $mi-grid-goldenratio,
+  "grid-off": $mi-grid-off,
+  "grid-on": $mi-grid-on,
+  "grid-view": $mi-grid-view,
+  "group": $mi-group,
+  "group-add": $mi-group-add,
+  "group-off": $mi-group-off,
+  "group-remove": $mi-group-remove,
+  "group-work": $mi-group-work,
+  "groups": $mi-groups,
+  "groups-2": $mi-groups-2,
+  "groups-3": $mi-groups-3,
+  "h-mobiledata": $mi-h-mobiledata,
+  "h-plus-mobiledata": $mi-h-plus-mobiledata,
+  "hail": $mi-hail,
+  "handshake": $mi-handshake,
+  "handyman": $mi-handyman,
+  "hardware": $mi-hardware,
+  "hd": $mi-hd,
+  "hdr-auto": $mi-hdr-auto,
+  "hdr-auto-select": $mi-hdr-auto-select,
+  "hdr-enhanced-select": $mi-hdr-enhanced-select,
+  "hdr-off": $mi-hdr-off,
+  "hdr-off-select": $mi-hdr-off-select,
+  "hdr-on": $mi-hdr-on,
+  "hdr-on-select": $mi-hdr-on-select,
+  "hdr-plus": $mi-hdr-plus,
+  "hdr-strong": $mi-hdr-strong,
+  "hdr-weak": $mi-hdr-weak,
+  "headphones": $mi-headphones,
+  "headphones-battery": $mi-headphones-battery,
+  "headset": $mi-headset,
+  "headset-mic": $mi-headset-mic,
+  "headset-off": $mi-headset-off,
+  "healing": $mi-healing,
+  "health-and-safety": $mi-health-and-safety,
+  "hearing": $mi-hearing,
+  "hearing-disabled": $mi-hearing-disabled,
+  "heart-broken": $mi-heart-broken,
+  "heat-pump": $mi-heat-pump,
+  "height": $mi-height,
+  "help": $mi-help,
+  "help-center": $mi-help-center,
+  "help-outline": $mi-help-outline,
+  "hevc": $mi-hevc,
+  "hexagon": $mi-hexagon,
+  "hide-image": $mi-hide-image,
+  "hide-source": $mi-hide-source,
+  "high-quality": $mi-high-quality,
+  "highlight": $mi-highlight,
+  "highlight-alt": $mi-highlight-alt,
+  "highlight-off": $mi-highlight-off,
+  "hiking": $mi-hiking,
+  "history": $mi-history,
+  "history-edu": $mi-history-edu,
+  "history-toggle-off": $mi-history-toggle-off,
+  "hive": $mi-hive,
+  "hls": $mi-hls,
+  "hls-off": $mi-hls-off,
+  "holiday-village": $mi-holiday-village,
+  "home": $mi-home,
+  "home-filled": $mi-home-filled,
+  "home-max": $mi-home-max,
+  "home-mini": $mi-home-mini,
+  "home-repair-service": $mi-home-repair-service,
+  "home-work": $mi-home-work,
+  "horizontal-distribute": $mi-horizontal-distribute,
+  "horizontal-rule": $mi-horizontal-rule,
+  "horizontal-split": $mi-horizontal-split,
+  "hot-tub": $mi-hot-tub,
+  "hotel": $mi-hotel,
+  "hotel-class": $mi-hotel-class,
+  "hourglass-bottom": $mi-hourglass-bottom,
+  "hourglass-disabled": $mi-hourglass-disabled,
+  "hourglass-empty": $mi-hourglass-empty,
+  "hourglass-full": $mi-hourglass-full,
+  "hourglass-top": $mi-hourglass-top,
+  "house": $mi-house,
+  "house-siding": $mi-house-siding,
+  "houseboat": $mi-houseboat,
+  "how-to-reg": $mi-how-to-reg,
+  "how-to-vote": $mi-how-to-vote,
+  "html": $mi-html,
+  "http": $mi-http,
+  "https": $mi-https,
+  "hub": $mi-hub,
+  "hvac": $mi-hvac,
+  "ice-skating": $mi-ice-skating,
+  "icecream": $mi-icecream,
+  "image": $mi-image,
+  "image-aspect-ratio": $mi-image-aspect-ratio,
+  "image-not-supported": $mi-image-not-supported,
+  "image-search": $mi-image-search,
+  "imagesearch-roller": $mi-imagesearch-roller,
+  "import-contacts": $mi-import-contacts,
+  "import-export": $mi-import-export,
+  "important-devices": $mi-important-devices,
+  "inbox": $mi-inbox,
+  "incomplete-circle": $mi-incomplete-circle,
+  "indeterminate-check-box": $mi-indeterminate-check-box,
+  "info": $mi-info,
+  "info-outline": $mi-info-outline,
+  "input": $mi-input,
+  "insert-chart": $mi-insert-chart,
+  "insert-chart-outlined": $mi-insert-chart-outlined,
+  "insert-comment": $mi-insert-comment,
+  "insert-drive-file": $mi-insert-drive-file,
+  "insert-emoticon": $mi-insert-emoticon,
+  "insert-invitation": $mi-insert-invitation,
+  "insert-link": $mi-insert-link,
+  "insert-page-break": $mi-insert-page-break,
+  "insert-photo": $mi-insert-photo,
+  "insights": $mi-insights,
+  "install-desktop": $mi-install-desktop,
+  "install-mobile": $mi-install-mobile,
+  "integration-instructions": $mi-integration-instructions,
+  "interests": $mi-interests,
+  "interpreter-mode": $mi-interpreter-mode,
+  "inventory": $mi-inventory,
+  "inventory-2": $mi-inventory-2,
+  "invert-colors": $mi-invert-colors,
+  "invert-colors-off": $mi-invert-colors-off,
+  "ios-share": $mi-ios-share,
+  "iron": $mi-iron,
+  "iso": $mi-iso,
+  "javascript": $mi-javascript,
+  "join-full": $mi-join-full,
+  "join-inner": $mi-join-inner,
+  "join-left": $mi-join-left,
+  "join-right": $mi-join-right,
+  "kayaking": $mi-kayaking,
+  "kebab-dining": $mi-kebab-dining,
+  "key": $mi-key,
+  "key-off": $mi-key-off,
+  "keyboard": $mi-keyboard,
+  "keyboard-alt": $mi-keyboard-alt,
+  "keyboard-arrow-down": $mi-keyboard-arrow-down,
+  "keyboard-arrow-left": $mi-keyboard-arrow-left,
+  "keyboard-arrow-right": $mi-keyboard-arrow-right,
+  "keyboard-arrow-up": $mi-keyboard-arrow-up,
+  "keyboard-backspace": $mi-keyboard-backspace,
+  "keyboard-capslock": $mi-keyboard-capslock,
+  "keyboard-command-key": $mi-keyboard-command-key,
+  "keyboard-control-key": $mi-keyboard-control-key,
+  "keyboard-double-arrow-down": $mi-keyboard-double-arrow-down,
+  "keyboard-double-arrow-left": $mi-keyboard-double-arrow-left,
+  "keyboard-double-arrow-right": $mi-keyboard-double-arrow-right,
+  "keyboard-double-arrow-up": $mi-keyboard-double-arrow-up,
+  "keyboard-hide": $mi-keyboard-hide,
+  "keyboard-option-key": $mi-keyboard-option-key,
+  "keyboard-return": $mi-keyboard-return,
+  "keyboard-tab": $mi-keyboard-tab,
+  "keyboard-voice": $mi-keyboard-voice,
+  "king-bed": $mi-king-bed,
+  "kitchen": $mi-kitchen,
+  "kitesurfing": $mi-kitesurfing,
+  "label": $mi-label,
+  "label-important": $mi-label-important,
+  "label-important-outline": $mi-label-important-outline,
+  "label-off": $mi-label-off,
+  "label-outline": $mi-label-outline,
+  "lan": $mi-lan,
+  "landscape": $mi-landscape,
+  "landslide": $mi-landslide,
+  "language": $mi-language,
+  "laptop": $mi-laptop,
+  "laptop-chromebook": $mi-laptop-chromebook,
+  "laptop-mac": $mi-laptop-mac,
+  "laptop-windows": $mi-laptop-windows,
+  "last-page": $mi-last-page,
+  "launch": $mi-launch,
+  "layers": $mi-layers,
+  "layers-clear": $mi-layers-clear,
+  "leaderboard": $mi-leaderboard,
+  "leak-add": $mi-leak-add,
+  "leak-remove": $mi-leak-remove,
+  "legend-toggle": $mi-legend-toggle,
+  "lens": $mi-lens,
+  "lens-blur": $mi-lens-blur,
+  "library-add": $mi-library-add,
+  "library-add-check": $mi-library-add-check,
+  "library-books": $mi-library-books,
+  "library-music": $mi-library-music,
+  "light": $mi-light,
+  "light-mode": $mi-light-mode,
+  "lightbulb": $mi-lightbulb,
+  "lightbulb-circle": $mi-lightbulb-circle,
+  "lightbulb-outline": $mi-lightbulb-outline,
+  "line-axis": $mi-line-axis,
+  "line-style": $mi-line-style,
+  "line-weight": $mi-line-weight,
+  "linear-scale": $mi-linear-scale,
+  "link": $mi-link,
+  "link-off": $mi-link-off,
+  "linked-camera": $mi-linked-camera,
+  "liquor": $mi-liquor,
+  "list": $mi-list,
+  "list-alt": $mi-list-alt,
+  "live-help": $mi-live-help,
+  "live-tv": $mi-live-tv,
+  "living": $mi-living,
+  "local-activity": $mi-local-activity,
+  "local-airport": $mi-local-airport,
+  "local-atm": $mi-local-atm,
+  "local-bar": $mi-local-bar,
+  "local-cafe": $mi-local-cafe,
+  "local-car-wash": $mi-local-car-wash,
+  "local-convenience-store": $mi-local-convenience-store,
+  "local-dining": $mi-local-dining,
+  "local-drink": $mi-local-drink,
+  "local-fire-department": $mi-local-fire-department,
+  "local-florist": $mi-local-florist,
+  "local-gas-station": $mi-local-gas-station,
+  "local-grocery-store": $mi-local-grocery-store,
+  "local-hospital": $mi-local-hospital,
+  "local-hotel": $mi-local-hotel,
+  "local-laundry-service": $mi-local-laundry-service,
+  "local-library": $mi-local-library,
+  "local-mall": $mi-local-mall,
+  "local-movies": $mi-local-movies,
+  "local-offer": $mi-local-offer,
+  "local-parking": $mi-local-parking,
+  "local-pharmacy": $mi-local-pharmacy,
+  "local-phone": $mi-local-phone,
+  "local-pizza": $mi-local-pizza,
+  "local-play": $mi-local-play,
+  "local-police": $mi-local-police,
+  "local-post-office": $mi-local-post-office,
+  "local-printshop": $mi-local-printshop,
+  "local-see": $mi-local-see,
+  "local-shipping": $mi-local-shipping,
+  "local-taxi": $mi-local-taxi,
+  "location-city": $mi-location-city,
+  "location-disabled": $mi-location-disabled,
+  "location-off": $mi-location-off,
+  "location-on": $mi-location-on,
+  "location-pin": $mi-location-pin,
+  "location-searching": $mi-location-searching,
+  "lock": $mi-lock,
+  "lock-clock": $mi-lock-clock,
+  "lock-open": $mi-lock-open,
+  "lock-outline": $mi-lock-outline,
+  "lock-person": $mi-lock-person,
+  "lock-reset": $mi-lock-reset,
+  "login": $mi-login,
+  "logo-dev": $mi-logo-dev,
+  "logout": $mi-logout,
+  "looks": $mi-looks,
+  "looks-3": $mi-looks-3,
+  "looks-4": $mi-looks-4,
+  "looks-5": $mi-looks-5,
+  "looks-6": $mi-looks-6,
+  "looks-one": $mi-looks-one,
+  "looks-two": $mi-looks-two,
+  "loop": $mi-loop,
+  "loupe": $mi-loupe,
+  "low-priority": $mi-low-priority,
+  "loyalty": $mi-loyalty,
+  "lte-mobiledata": $mi-lte-mobiledata,
+  "lte-plus-mobiledata": $mi-lte-plus-mobiledata,
+  "luggage": $mi-luggage,
+  "lunch-dining": $mi-lunch-dining,
+  "lyrics": $mi-lyrics,
+  "macro-off": $mi-macro-off,
+  "mail": $mi-mail,
+  "mail-lock": $mi-mail-lock,
+  "mail-outline": $mi-mail-outline,
+  "male": $mi-male,
+  "man": $mi-man,
+  "man-2": $mi-man-2,
+  "man-3": $mi-man-3,
+  "man-4": $mi-man-4,
+  "manage-accounts": $mi-manage-accounts,
+  "manage-history": $mi-manage-history,
+  "manage-search": $mi-manage-search,
+  "map": $mi-map,
+  "maps-home-work": $mi-maps-home-work,
+  "maps-ugc": $mi-maps-ugc,
+  "margin": $mi-margin,
+  "mark-as-unread": $mi-mark-as-unread,
+  "mark-chat-read": $mi-mark-chat-read,
+  "mark-chat-unread": $mi-mark-chat-unread,
+  "mark-email-read": $mi-mark-email-read,
+  "mark-email-unread": $mi-mark-email-unread,
+  "mark-unread-chat-alt": $mi-mark-unread-chat-alt,
+  "markunread": $mi-markunread,
+  "markunread-mailbox": $mi-markunread-mailbox,
+  "masks": $mi-masks,
+  "maximize": $mi-maximize,
+  "media-bluetooth-off": $mi-media-bluetooth-off,
+  "media-bluetooth-on": $mi-media-bluetooth-on,
+  "mediation": $mi-mediation,
+  "medical-information": $mi-medical-information,
+  "medical-services": $mi-medical-services,
+  "medication": $mi-medication,
+  "medication-liquid": $mi-medication-liquid,
+  "meeting-room": $mi-meeting-room,
+  "memory": $mi-memory,
+  "menu": $mi-menu,
+  "menu-book": $mi-menu-book,
+  "menu-open": $mi-menu-open,
+  "merge": $mi-merge,
+  "merge-type": $mi-merge-type,
+  "message": $mi-message,
+  "mic": $mi-mic,
+  "mic-external-off": $mi-mic-external-off,
+  "mic-external-on": $mi-mic-external-on,
+  "mic-none": $mi-mic-none,
+  "mic-off": $mi-mic-off,
+  "microwave": $mi-microwave,
+  "military-tech": $mi-military-tech,
+  "minimize": $mi-minimize,
+  "minor-crash": $mi-minor-crash,
+  "miscellaneous-services": $mi-miscellaneous-services,
+  "missed-video-call": $mi-missed-video-call,
+  "mms": $mi-mms,
+  "mobile-friendly": $mi-mobile-friendly,
+  "mobile-off": $mi-mobile-off,
+  "mobile-screen-share": $mi-mobile-screen-share,
+  "mobiledata-off": $mi-mobiledata-off,
+  "mode": $mi-mode,
+  "mode-comment": $mi-mode-comment,
+  "mode-edit": $mi-mode-edit,
+  "mode-edit-outline": $mi-mode-edit-outline,
+  "mode-fan-off": $mi-mode-fan-off,
+  "mode-night": $mi-mode-night,
+  "mode-of-travel": $mi-mode-of-travel,
+  "mode-standby": $mi-mode-standby,
+  "model-training": $mi-model-training,
+  "monetization-on": $mi-monetization-on,
+  "money": $mi-money,
+  "money-off": $mi-money-off,
+  "money-off-csred": $mi-money-off-csred,
+  "monitor": $mi-monitor,
+  "monitor-heart": $mi-monitor-heart,
+  "monitor-weight": $mi-monitor-weight,
+  "monochrome-photos": $mi-monochrome-photos,
+  "mood": $mi-mood,
+  "mood-bad": $mi-mood-bad,
+  "moped": $mi-moped,
+  "more": $mi-more,
+  "more-horiz": $mi-more-horiz,
+  "more-time": $mi-more-time,
+  "more-vert": $mi-more-vert,
+  "mosque": $mi-mosque,
+  "motion-photos-auto": $mi-motion-photos-auto,
+  "motion-photos-off": $mi-motion-photos-off,
+  "motion-photos-on": $mi-motion-photos-on,
+  "motion-photos-pause": $mi-motion-photos-pause,
+  "motion-photos-paused": $mi-motion-photos-paused,
+  "mouse": $mi-mouse,
+  "move-down": $mi-move-down,
+  "move-to-inbox": $mi-move-to-inbox,
+  "move-up": $mi-move-up,
+  "movie": $mi-movie,
+  "movie-creation": $mi-movie-creation,
+  "movie-edit": $mi-movie-edit,
+  "movie-filter": $mi-movie-filter,
+  "moving": $mi-moving,
+  "mp": $mi-mp,
+  "multiline-chart": $mi-multiline-chart,
+  "multiple-stop": $mi-multiple-stop,
+  "museum": $mi-museum,
+  "music-note": $mi-music-note,
+  "music-off": $mi-music-off,
+  "music-video": $mi-music-video,
+  "my-location": $mi-my-location,
+  "nat": $mi-nat,
+  "nature": $mi-nature,
+  "nature-people": $mi-nature-people,
+  "navigate-before": $mi-navigate-before,
+  "navigate-next": $mi-navigate-next,
+  "navigation": $mi-navigation,
+  "near-me": $mi-near-me,
+  "near-me-disabled": $mi-near-me-disabled,
+  "nearby-error": $mi-nearby-error,
+  "nearby-off": $mi-nearby-off,
+  "nest-cam-wired-stand": $mi-nest-cam-wired-stand,
+  "network-cell": $mi-network-cell,
+  "network-check": $mi-network-check,
+  "network-locked": $mi-network-locked,
+  "network-ping": $mi-network-ping,
+  "network-wifi": $mi-network-wifi,
+  "network-wifi-1-bar": $mi-network-wifi-1-bar,
+  "network-wifi-2-bar": $mi-network-wifi-2-bar,
+  "network-wifi-3-bar": $mi-network-wifi-3-bar,
+  "new-label": $mi-new-label,
+  "new-releases": $mi-new-releases,
+  "newspaper": $mi-newspaper,
+  "next-plan": $mi-next-plan,
+  "next-week": $mi-next-week,
+  "nfc": $mi-nfc,
+  "night-shelter": $mi-night-shelter,
+  "nightlife": $mi-nightlife,
+  "nightlight": $mi-nightlight,
+  "nightlight-round": $mi-nightlight-round,
+  "nights-stay": $mi-nights-stay,
+  "no-accounts": $mi-no-accounts,
+  "no-adult-content": $mi-no-adult-content,
+  "no-backpack": $mi-no-backpack,
+  "no-cell": $mi-no-cell,
+  "no-crash": $mi-no-crash,
+  "no-drinks": $mi-no-drinks,
+  "no-encryption": $mi-no-encryption,
+  "no-encryption-gmailerrorred": $mi-no-encryption-gmailerrorred,
+  "no-flash": $mi-no-flash,
+  "no-food": $mi-no-food,
+  "no-luggage": $mi-no-luggage,
+  "no-meals": $mi-no-meals,
+  "no-meals-ouline": $mi-no-meals-ouline,
+  "no-meeting-room": $mi-no-meeting-room,
+  "no-photography": $mi-no-photography,
+  "no-sim": $mi-no-sim,
+  "no-stroller": $mi-no-stroller,
+  "no-transfer": $mi-no-transfer,
+  "noise-aware": $mi-noise-aware,
+  "noise-control-off": $mi-noise-control-off,
+  "nordic-walking": $mi-nordic-walking,
+  "north": $mi-north,
+  "north-east": $mi-north-east,
+  "north-west": $mi-north-west,
+  "not-accessible": $mi-not-accessible,
+  "not-interested": $mi-not-interested,
+  "not-listed-location": $mi-not-listed-location,
+  "not-started": $mi-not-started,
+  "note": $mi-note,
+  "note-add": $mi-note-add,
+  "note-alt": $mi-note-alt,
+  "notes": $mi-notes,
+  "notification-add": $mi-notification-add,
+  "notification-important": $mi-notification-important,
+  "notifications": $mi-notifications,
+  "notifications-active": $mi-notifications-active,
+  "notifications-none": $mi-notifications-none,
+  "notifications-off": $mi-notifications-off,
+  "notifications-paused": $mi-notifications-paused,
+  "numbers": $mi-numbers,
+  "offline-bolt": $mi-offline-bolt,
+  "offline-pin": $mi-offline-pin,
+  "offline-share": $mi-offline-share,
+  "oil-barrel": $mi-oil-barrel,
+  "on-device-training": $mi-on-device-training,
+  "ondemand-video": $mi-ondemand-video,
+  "online-prediction": $mi-online-prediction,
+  "opacity": $mi-opacity,
+  "open-in-browser": $mi-open-in-browser,
+  "open-in-full": $mi-open-in-full,
+  "open-in-new": $mi-open-in-new,
+  "open-in-new-off": $mi-open-in-new-off,
+  "open-with": $mi-open-with,
+  "other-houses": $mi-other-houses,
+  "outbond": $mi-outbond,
+  "outbound": $mi-outbound,
+  "outbox": $mi-outbox,
+  "outdoor-grill": $mi-outdoor-grill,
+  "outgoing-mail": $mi-outgoing-mail,
+  "outlet": $mi-outlet,
+  "outlined-flag": $mi-outlined-flag,
+  "output": $mi-output,
+  "padding": $mi-padding,
+  "pages": $mi-pages,
+  "pageview": $mi-pageview,
+  "paid": $mi-paid,
+  "palette": $mi-palette,
+  "pallet": $mi-pallet,
+  "pan-tool": $mi-pan-tool,
+  "pan-tool-alt": $mi-pan-tool-alt,
+  "panorama": $mi-panorama,
+  "panorama-fish-eye": $mi-panorama-fish-eye,
+  "panorama-horizontal": $mi-panorama-horizontal,
+  "panorama-horizontal-select": $mi-panorama-horizontal-select,
+  "panorama-photosphere": $mi-panorama-photosphere,
+  "panorama-photosphere-select": $mi-panorama-photosphere-select,
+  "panorama-vertical": $mi-panorama-vertical,
+  "panorama-vertical-select": $mi-panorama-vertical-select,
+  "panorama-wide-angle": $mi-panorama-wide-angle,
+  "panorama-wide-angle-select": $mi-panorama-wide-angle-select,
+  "paragliding": $mi-paragliding,
+  "park": $mi-park,
+  "party-mode": $mi-party-mode,
+  "password": $mi-password,
+  "pattern": $mi-pattern,
+  "pause": $mi-pause,
+  "pause-circle": $mi-pause-circle,
+  "pause-circle-filled": $mi-pause-circle-filled,
+  "pause-circle-outline": $mi-pause-circle-outline,
+  "pause-presentation": $mi-pause-presentation,
+  "payment": $mi-payment,
+  "payments": $mi-payments,
+  "pedal-bike": $mi-pedal-bike,
+  "pending": $mi-pending,
+  "pending-actions": $mi-pending-actions,
+  "pentagon": $mi-pentagon,
+  "people": $mi-people,
+  "people-alt": $mi-people-alt,
+  "people-outline": $mi-people-outline,
+  "percent": $mi-percent,
+  "perm-camera-mic": $mi-perm-camera-mic,
+  "perm-contact-calendar": $mi-perm-contact-calendar,
+  "perm-data-setting": $mi-perm-data-setting,
+  "perm-device-information": $mi-perm-device-information,
+  "perm-identity": $mi-perm-identity,
+  "perm-media": $mi-perm-media,
+  "perm-phone-msg": $mi-perm-phone-msg,
+  "perm-scan-wifi": $mi-perm-scan-wifi,
+  "person": $mi-person,
+  "person-2": $mi-person-2,
+  "person-3": $mi-person-3,
+  "person-4": $mi-person-4,
+  "person-add": $mi-person-add,
+  "person-add-alt": $mi-person-add-alt,
+  "person-add-alt-1": $mi-person-add-alt-1,
+  "person-add-disabled": $mi-person-add-disabled,
+  "person-off": $mi-person-off,
+  "person-outline": $mi-person-outline,
+  "person-pin": $mi-person-pin,
+  "person-pin-circle": $mi-person-pin-circle,
+  "person-remove": $mi-person-remove,
+  "person-remove-alt-1": $mi-person-remove-alt-1,
+  "person-search": $mi-person-search,
+  "personal-injury": $mi-personal-injury,
+  "personal-video": $mi-personal-video,
+  "pest-control": $mi-pest-control,
+  "pest-control-rodent": $mi-pest-control-rodent,
+  "pets": $mi-pets,
+  "phishing": $mi-phishing,
+  "phone": $mi-phone,
+  "phone-android": $mi-phone-android,
+  "phone-bluetooth-speaker": $mi-phone-bluetooth-speaker,
+  "phone-callback": $mi-phone-callback,
+  "phone-disabled": $mi-phone-disabled,
+  "phone-enabled": $mi-phone-enabled,
+  "phone-forwarded": $mi-phone-forwarded,
+  "phone-in-talk": $mi-phone-in-talk,
+  "phone-iphone": $mi-phone-iphone,
+  "phone-locked": $mi-phone-locked,
+  "phone-missed": $mi-phone-missed,
+  "phone-paused": $mi-phone-paused,
+  "phonelink": $mi-phonelink,
+  "phonelink-erase": $mi-phonelink-erase,
+  "phonelink-lock": $mi-phonelink-lock,
+  "phonelink-off": $mi-phonelink-off,
+  "phonelink-ring": $mi-phonelink-ring,
+  "phonelink-setup": $mi-phonelink-setup,
+  "photo": $mi-photo,
+  "photo-album": $mi-photo-album,
+  "photo-camera": $mi-photo-camera,
+  "photo-camera-back": $mi-photo-camera-back,
+  "photo-camera-front": $mi-photo-camera-front,
+  "photo-filter": $mi-photo-filter,
+  "photo-library": $mi-photo-library,
+  "photo-size-select-actual": $mi-photo-size-select-actual,
+  "photo-size-select-large": $mi-photo-size-select-large,
+  "photo-size-select-small": $mi-photo-size-select-small,
+  "php": $mi-php,
+  "piano": $mi-piano,
+  "piano-off": $mi-piano-off,
+  "picture-as-pdf": $mi-picture-as-pdf,
+  "picture-in-picture": $mi-picture-in-picture,
+  "picture-in-picture-alt": $mi-picture-in-picture-alt,
+  "pie-chart": $mi-pie-chart,
+  "pie-chart-outline": $mi-pie-chart-outline,
+  "pie-chart-outlined": $mi-pie-chart-outlined,
+  "pin": $mi-pin,
+  "pin-drop": $mi-pin-drop,
+  "pin-end": $mi-pin-end,
+  "pin-invoke": $mi-pin-invoke,
+  "pinch": $mi-pinch,
+  "pivot-table-chart": $mi-pivot-table-chart,
+  "pix": $mi-pix,
+  "place": $mi-place,
+  "plagiarism": $mi-plagiarism,
+  "play-arrow": $mi-play-arrow,
+  "play-circle": $mi-play-circle,
+  "play-circle-filled": $mi-play-circle-filled,
+  "play-circle-outline": $mi-play-circle-outline,
+  "play-disabled": $mi-play-disabled,
+  "play-for-work": $mi-play-for-work,
+  "play-lesson": $mi-play-lesson,
+  "playlist-add": $mi-playlist-add,
+  "playlist-add-check": $mi-playlist-add-check,
+  "playlist-add-check-circle": $mi-playlist-add-check-circle,
+  "playlist-add-circle": $mi-playlist-add-circle,
+  "playlist-play": $mi-playlist-play,
+  "playlist-remove": $mi-playlist-remove,
+  "plumbing": $mi-plumbing,
+  "plus-one": $mi-plus-one,
+  "podcasts": $mi-podcasts,
+  "point-of-sale": $mi-point-of-sale,
+  "policy": $mi-policy,
+  "poll": $mi-poll,
+  "polyline": $mi-polyline,
+  "polymer": $mi-polymer,
+  "pool": $mi-pool,
+  "portable-wifi-off": $mi-portable-wifi-off,
+  "portrait": $mi-portrait,
+  "post-add": $mi-post-add,
+  "power": $mi-power,
+  "power-input": $mi-power-input,
+  "power-off": $mi-power-off,
+  "power-settings-new": $mi-power-settings-new,
+  "precision-manufacturing": $mi-precision-manufacturing,
+  "pregnant-woman": $mi-pregnant-woman,
+  "present-to-all": $mi-present-to-all,
+  "preview": $mi-preview,
+  "price-change": $mi-price-change,
+  "price-check": $mi-price-check,
+  "print": $mi-print,
+  "print-disabled": $mi-print-disabled,
+  "priority-high": $mi-priority-high,
+  "privacy-tip": $mi-privacy-tip,
+  "private-connectivity": $mi-private-connectivity,
+  "production-quantity-limits": $mi-production-quantity-limits,
+  "propane": $mi-propane,
+  "propane-tank": $mi-propane-tank,
+  "psychology": $mi-psychology,
+  "psychology-alt": $mi-psychology-alt,
+  "public": $mi-public,
+  "public-off": $mi-public-off,
+  "publish": $mi-publish,
+  "published-with-changes": $mi-published-with-changes,
+  "punch-clock": $mi-punch-clock,
+  "push-pin": $mi-push-pin,
+  "qr-code": $mi-qr-code,
+  "qr-code-2": $mi-qr-code-2,
+  "qr-code-scanner": $mi-qr-code-scanner,
+  "query-builder": $mi-query-builder,
+  "query-stats": $mi-query-stats,
+  "question-answer": $mi-question-answer,
+  "question-mark": $mi-question-mark,
+  "queue": $mi-queue,
+  "queue-music": $mi-queue-music,
+  "queue-play-next": $mi-queue-play-next,
+  "quickreply": $mi-quickreply,
+  "quiz": $mi-quiz,
+  "r-mobiledata": $mi-r-mobiledata,
+  "radar": $mi-radar,
+  "radio": $mi-radio,
+  "radio-button-checked": $mi-radio-button-checked,
+  "radio-button-unchecked": $mi-radio-button-unchecked,
+  "railway-alert": $mi-railway-alert,
+  "ramen-dining": $mi-ramen-dining,
+  "ramp-left": $mi-ramp-left,
+  "ramp-right": $mi-ramp-right,
+  "rate-review": $mi-rate-review,
+  "raw-off": $mi-raw-off,
+  "raw-on": $mi-raw-on,
+  "read-more": $mi-read-more,
+  "real-estate-agent": $mi-real-estate-agent,
+  "rebase-edit": $mi-rebase-edit,
+  "receipt": $mi-receipt,
+  "receipt-long": $mi-receipt-long,
+  "recent-actors": $mi-recent-actors,
+  "recommend": $mi-recommend,
+  "record-voice-over": $mi-record-voice-over,
+  "rectangle": $mi-rectangle,
+  "recycling": $mi-recycling,
+  "redeem": $mi-redeem,
+  "redo": $mi-redo,
+  "reduce-capacity": $mi-reduce-capacity,
+  "refresh": $mi-refresh,
+  "remember-me": $mi-remember-me,
+  "remove": $mi-remove,
+  "remove-circle": $mi-remove-circle,
+  "remove-circle-outline": $mi-remove-circle-outline,
+  "remove-done": $mi-remove-done,
+  "remove-from-queue": $mi-remove-from-queue,
+  "remove-moderator": $mi-remove-moderator,
+  "remove-red-eye": $mi-remove-red-eye,
+  "remove-road": $mi-remove-road,
+  "remove-shopping-cart": $mi-remove-shopping-cart,
+  "reorder": $mi-reorder,
+  "repartition": $mi-repartition,
+  "repeat": $mi-repeat,
+  "repeat-on": $mi-repeat-on,
+  "repeat-one": $mi-repeat-one,
+  "repeat-one-on": $mi-repeat-one-on,
+  "replay": $mi-replay,
+  "replay-10": $mi-replay-10,
+  "replay-30": $mi-replay-30,
+  "replay-5": $mi-replay-5,
+  "replay-circle-filled": $mi-replay-circle-filled,
+  "reply": $mi-reply,
+  "reply-all": $mi-reply-all,
+  "report": $mi-report,
+  "report-gmailerrorred": $mi-report-gmailerrorred,
+  "report-off": $mi-report-off,
+  "report-problem": $mi-report-problem,
+  "request-page": $mi-request-page,
+  "request-quote": $mi-request-quote,
+  "reset-tv": $mi-reset-tv,
+  "restart-alt": $mi-restart-alt,
+  "restaurant": $mi-restaurant,
+  "restaurant-menu": $mi-restaurant-menu,
+  "restore": $mi-restore,
+  "restore-from-trash": $mi-restore-from-trash,
+  "restore-page": $mi-restore-page,
+  "reviews": $mi-reviews,
+  "rice-bowl": $mi-rice-bowl,
+  "ring-volume": $mi-ring-volume,
+  "rocket": $mi-rocket,
+  "rocket-launch": $mi-rocket-launch,
+  "roller-shades": $mi-roller-shades,
+  "roller-shades-closed": $mi-roller-shades-closed,
+  "roller-skating": $mi-roller-skating,
+  "roofing": $mi-roofing,
+  "room": $mi-room,
+  "room-preferences": $mi-room-preferences,
+  "room-service": $mi-room-service,
+  "rotate-90-degrees-ccw": $mi-rotate-90-degrees-ccw,
+  "rotate-90-degrees-cw": $mi-rotate-90-degrees-cw,
+  "rotate-left": $mi-rotate-left,
+  "rotate-right": $mi-rotate-right,
+  "roundabout-left": $mi-roundabout-left,
+  "roundabout-right": $mi-roundabout-right,
+  "rounded-corner": $mi-rounded-corner,
+  "route": $mi-route,
+  "router": $mi-router,
+  "rowing": $mi-rowing,
+  "rss-feed": $mi-rss-feed,
+  "rsvp": $mi-rsvp,
+  "rtt": $mi-rtt,
+  "rule": $mi-rule,
+  "rule-folder": $mi-rule-folder,
+  "run-circle": $mi-run-circle,
+  "running-with-errors": $mi-running-with-errors,
+  "rv-hookup": $mi-rv-hookup,
+  "safety-check": $mi-safety-check,
+  "safety-divider": $mi-safety-divider,
+  "sailing": $mi-sailing,
+  "sanitizer": $mi-sanitizer,
+  "satellite": $mi-satellite,
+  "satellite-alt": $mi-satellite-alt,
+  "save": $mi-save,
+  "save-alt": $mi-save-alt,
+  "save-as": $mi-save-as,
+  "saved-search": $mi-saved-search,
+  "savings": $mi-savings,
+  "scale": $mi-scale,
+  "scanner": $mi-scanner,
+  "scatter-plot": $mi-scatter-plot,
+  "schedule": $mi-schedule,
+  "schedule-send": $mi-schedule-send,
+  "schema": $mi-schema,
+  "school": $mi-school,
+  "science": $mi-science,
+  "score": $mi-score,
+  "scoreboard": $mi-scoreboard,
+  "screen-lock-landscape": $mi-screen-lock-landscape,
+  "screen-lock-portrait": $mi-screen-lock-portrait,
+  "screen-lock-rotation": $mi-screen-lock-rotation,
+  "screen-rotation": $mi-screen-rotation,
+  "screen-rotation-alt": $mi-screen-rotation-alt,
+  "screen-search-desktop": $mi-screen-search-desktop,
+  "screen-share": $mi-screen-share,
+  "screenshot": $mi-screenshot,
+  "screenshot-monitor": $mi-screenshot-monitor,
+  "scuba-diving": $mi-scuba-diving,
+  "sd": $mi-sd,
+  "sd-card": $mi-sd-card,
+  "sd-card-alert": $mi-sd-card-alert,
+  "sd-storage": $mi-sd-storage,
+  "search": $mi-search,
+  "search-off": $mi-search-off,
+  "security": $mi-security,
+  "security-update": $mi-security-update,
+  "security-update-good": $mi-security-update-good,
+  "security-update-warning": $mi-security-update-warning,
+  "segment": $mi-segment,
+  "select-all": $mi-select-all,
+  "self-improvement": $mi-self-improvement,
+  "sell": $mi-sell,
+  "send": $mi-send,
+  "send-and-archive": $mi-send-and-archive,
+  "send-time-extension": $mi-send-time-extension,
+  "send-to-mobile": $mi-send-to-mobile,
+  "sensor-door": $mi-sensor-door,
+  "sensor-occupied": $mi-sensor-occupied,
+  "sensor-window": $mi-sensor-window,
+  "sensors": $mi-sensors,
+  "sensors-off": $mi-sensors-off,
+  "sentiment-dissatisfied": $mi-sentiment-dissatisfied,
+  "sentiment-neutral": $mi-sentiment-neutral,
+  "sentiment-satisfied": $mi-sentiment-satisfied,
+  "sentiment-satisfied-alt": $mi-sentiment-satisfied-alt,
+  "sentiment-very-dissatisfied": $mi-sentiment-very-dissatisfied,
+  "sentiment-very-satisfied": $mi-sentiment-very-satisfied,
+  "set-meal": $mi-set-meal,
+  "settings": $mi-settings,
+  "settings-accessibility": $mi-settings-accessibility,
+  "settings-applications": $mi-settings-applications,
+  "settings-backup-restore": $mi-settings-backup-restore,
+  "settings-bluetooth": $mi-settings-bluetooth,
+  "settings-brightness": $mi-settings-brightness,
+  "settings-cell": $mi-settings-cell,
+  "settings-ethernet": $mi-settings-ethernet,
+  "settings-input-antenna": $mi-settings-input-antenna,
+  "settings-input-component": $mi-settings-input-component,
+  "settings-input-composite": $mi-settings-input-composite,
+  "settings-input-hdmi": $mi-settings-input-hdmi,
+  "settings-input-svideo": $mi-settings-input-svideo,
+  "settings-overscan": $mi-settings-overscan,
+  "settings-phone": $mi-settings-phone,
+  "settings-power": $mi-settings-power,
+  "settings-remote": $mi-settings-remote,
+  "settings-suggest": $mi-settings-suggest,
+  "settings-system-daydream": $mi-settings-system-daydream,
+  "settings-voice": $mi-settings-voice,
+  "severe-cold": $mi-severe-cold,
+  "shape-line": $mi-shape-line,
+  "share": $mi-share,
+  "share-location": $mi-share-location,
+  "shelves": $mi-shelves,
+  "shield": $mi-shield,
+  "shield-moon": $mi-shield-moon,
+  "shop": $mi-shop,
+  "shop-2": $mi-shop-2,
+  "shop-two": $mi-shop-two,
+  "shopping-bag": $mi-shopping-bag,
+  "shopping-basket": $mi-shopping-basket,
+  "shopping-cart": $mi-shopping-cart,
+  "shopping-cart-checkout": $mi-shopping-cart-checkout,
+  "short-text": $mi-short-text,
+  "shortcut": $mi-shortcut,
+  "show-chart": $mi-show-chart,
+  "shower": $mi-shower,
+  "shuffle": $mi-shuffle,
+  "shuffle-on": $mi-shuffle-on,
+  "shutter-speed": $mi-shutter-speed,
+  "sick": $mi-sick,
+  "sign-language": $mi-sign-language,
+  "signal-cellular-0-bar": $mi-signal-cellular-0-bar,
+  "signal-cellular-1-bar": $mi-signal-cellular-1-bar,
+  "signal-cellular-2-bar": $mi-signal-cellular-2-bar,
+  "signal-cellular-3-bar": $mi-signal-cellular-3-bar,
+  "signal-cellular-4-bar": $mi-signal-cellular-4-bar,
+  "signal-cellular-alt": $mi-signal-cellular-alt,
+  "signal-cellular-alt-1-bar": $mi-signal-cellular-alt-1-bar,
+  "signal-cellular-alt-2-bar": $mi-signal-cellular-alt-2-bar,
+  "signal-cellular-connected-no-internet-0-bar": $mi-signal-cellular-connected-no-internet-0-bar,
+  "signal-cellular-connected-no-internet-1-bar": $mi-signal-cellular-connected-no-internet-1-bar,
+  "signal-cellular-connected-no-internet-2-bar": $mi-signal-cellular-connected-no-internet-2-bar,
+  "signal-cellular-connected-no-internet-3-bar": $mi-signal-cellular-connected-no-internet-3-bar,
+  "signal-cellular-connected-no-internet-4-bar": $mi-signal-cellular-connected-no-internet-4-bar,
+  "signal-cellular-no-sim": $mi-signal-cellular-no-sim,
+  "signal-cellular-nodata": $mi-signal-cellular-nodata,
+  "signal-cellular-null": $mi-signal-cellular-null,
+  "signal-cellular-off": $mi-signal-cellular-off,
+  "signal-wifi-0-bar": $mi-signal-wifi-0-bar,
+  "signal-wifi-1-bar": $mi-signal-wifi-1-bar,
+  "signal-wifi-1-bar-lock": $mi-signal-wifi-1-bar-lock,
+  "signal-wifi-2-bar": $mi-signal-wifi-2-bar,
+  "signal-wifi-2-bar-lock": $mi-signal-wifi-2-bar-lock,
+  "signal-wifi-3-bar": $mi-signal-wifi-3-bar,
+  "signal-wifi-3-bar-lock": $mi-signal-wifi-3-bar-lock,
+  "signal-wifi-4-bar": $mi-signal-wifi-4-bar,
+  "signal-wifi-4-bar-lock": $mi-signal-wifi-4-bar-lock,
+  "signal-wifi-bad": $mi-signal-wifi-bad,
+  "signal-wifi-connected-no-internet-0": $mi-signal-wifi-connected-no-internet-0,
+  "signal-wifi-connected-no-internet-1": $mi-signal-wifi-connected-no-internet-1,
+  "signal-wifi-connected-no-internet-2": $mi-signal-wifi-connected-no-internet-2,
+  "signal-wifi-connected-no-internet-3": $mi-signal-wifi-connected-no-internet-3,
+  "signal-wifi-connected-no-internet-4": $mi-signal-wifi-connected-no-internet-4,
+  "signal-wifi-off": $mi-signal-wifi-off,
+  "signal-wifi-statusbar-1-bar": $mi-signal-wifi-statusbar-1-bar,
+  "signal-wifi-statusbar-2-bar": $mi-signal-wifi-statusbar-2-bar,
+  "signal-wifi-statusbar-3-bar": $mi-signal-wifi-statusbar-3-bar,
+  "signal-wifi-statusbar-4-bar": $mi-signal-wifi-statusbar-4-bar,
+  "signal-wifi-statusbar-connected-no-internet": $mi-signal-wifi-statusbar-connected-no-internet,
+  "signal-wifi-statusbar-connected-no-internet-1": $mi-signal-wifi-statusbar-connected-no-internet-1,
+  "signal-wifi-statusbar-connected-no-internet-2": $mi-signal-wifi-statusbar-connected-no-internet-2,
+  "signal-wifi-statusbar-connected-no-internet-3": $mi-signal-wifi-statusbar-connected-no-internet-3,
+  "signal-wifi-statusbar-connected-no-internet-4": $mi-signal-wifi-statusbar-connected-no-internet-4,
+  "signal-wifi-statusbar-not-connected": $mi-signal-wifi-statusbar-not-connected,
+  "signal-wifi-statusbar-null": $mi-signal-wifi-statusbar-null,
+  "signpost": $mi-signpost,
+  "sim-card": $mi-sim-card,
+  "sim-card-alert": $mi-sim-card-alert,
+  "sim-card-download": $mi-sim-card-download,
+  "single-bed": $mi-single-bed,
+  "sip": $mi-sip,
+  "skateboarding": $mi-skateboarding,
+  "skip-next": $mi-skip-next,
+  "skip-previous": $mi-skip-previous,
+  "sledding": $mi-sledding,
+  "slideshow": $mi-slideshow,
+  "slow-motion-video": $mi-slow-motion-video,
+  "smart-button": $mi-smart-button,
+  "smart-display": $mi-smart-display,
+  "smart-screen": $mi-smart-screen,
+  "smart-toy": $mi-smart-toy,
+  "smartphone": $mi-smartphone,
+  "smoke-free": $mi-smoke-free,
+  "smoking-rooms": $mi-smoking-rooms,
+  "sms": $mi-sms,
+  "sms-failed": $mi-sms-failed,
+  "snippet-folder": $mi-snippet-folder,
+  "snooze": $mi-snooze,
+  "snowboarding": $mi-snowboarding,
+  "snowing": $mi-snowing,
+  "snowmobile": $mi-snowmobile,
+  "snowshoeing": $mi-snowshoeing,
+  "soap": $mi-soap,
+  "social-distance": $mi-social-distance,
+  "solar-power": $mi-solar-power,
+  "sort": $mi-sort,
+  "sort-by-alpha": $mi-sort-by-alpha,
+  "sos": $mi-sos,
+  "soup-kitchen": $mi-soup-kitchen,
+  "source": $mi-source,
+  "south": $mi-south,
+  "south-america": $mi-south-america,
+  "south-east": $mi-south-east,
+  "south-west": $mi-south-west,
+  "spa": $mi-spa,
+  "space-bar": $mi-space-bar,
+  "space-dashboard": $mi-space-dashboard,
+  "spatial-audio": $mi-spatial-audio,
+  "spatial-audio-off": $mi-spatial-audio-off,
+  "spatial-tracking": $mi-spatial-tracking,
+  "speaker": $mi-speaker,
+  "speaker-group": $mi-speaker-group,
+  "speaker-notes": $mi-speaker-notes,
+  "speaker-notes-off": $mi-speaker-notes-off,
+  "speaker-phone": $mi-speaker-phone,
+  "speed": $mi-speed,
+  "spellcheck": $mi-spellcheck,
+  "splitscreen": $mi-splitscreen,
+  "spoke": $mi-spoke,
+  "sports": $mi-sports,
+  "sports-bar": $mi-sports-bar,
+  "sports-baseball": $mi-sports-baseball,
+  "sports-basketball": $mi-sports-basketball,
+  "sports-cricket": $mi-sports-cricket,
+  "sports-esports": $mi-sports-esports,
+  "sports-football": $mi-sports-football,
+  "sports-golf": $mi-sports-golf,
+  "sports-gymnastics": $mi-sports-gymnastics,
+  "sports-handball": $mi-sports-handball,
+  "sports-hockey": $mi-sports-hockey,
+  "sports-kabaddi": $mi-sports-kabaddi,
+  "sports-martial-arts": $mi-sports-martial-arts,
+  "sports-mma": $mi-sports-mma,
+  "sports-motorsports": $mi-sports-motorsports,
+  "sports-rugby": $mi-sports-rugby,
+  "sports-score": $mi-sports-score,
+  "sports-soccer": $mi-sports-soccer,
+  "sports-tennis": $mi-sports-tennis,
+  "sports-volleyball": $mi-sports-volleyball,
+  "square": $mi-square,
+  "square-foot": $mi-square-foot,
+  "ssid-chart": $mi-ssid-chart,
+  "stacked-bar-chart": $mi-stacked-bar-chart,
+  "stacked-line-chart": $mi-stacked-line-chart,
+  "stadium": $mi-stadium,
+  "stairs": $mi-stairs,
+  "star": $mi-star,
+  "star-border": $mi-star-border,
+  "star-border-purple500": $mi-star-border-purple500,
+  "star-half": $mi-star-half,
+  "star-outline": $mi-star-outline,
+  "star-purple500": $mi-star-purple500,
+  "star-rate": $mi-star-rate,
+  "stars": $mi-stars,
+  "start": $mi-start,
+  "stay-current-landscape": $mi-stay-current-landscape,
+  "stay-current-portrait": $mi-stay-current-portrait,
+  "stay-primary-landscape": $mi-stay-primary-landscape,
+  "stay-primary-portrait": $mi-stay-primary-portrait,
+  "sticky-note-2": $mi-sticky-note-2,
+  "stop": $mi-stop,
+  "stop-circle": $mi-stop-circle,
+  "stop-screen-share": $mi-stop-screen-share,
+  "storage": $mi-storage,
+  "store": $mi-store,
+  "store-mall-directory": $mi-store-mall-directory,
+  "storefront": $mi-storefront,
+  "storm": $mi-storm,
+  "straight": $mi-straight,
+  "straighten": $mi-straighten,
+  "stream": $mi-stream,
+  "streetview": $mi-streetview,
+  "strikethrough-s": $mi-strikethrough-s,
+  "stroller": $mi-stroller,
+  "style": $mi-style,
+  "subdirectory-arrow-left": $mi-subdirectory-arrow-left,
+  "subdirectory-arrow-right": $mi-subdirectory-arrow-right,
+  "subject": $mi-subject,
+  "subscript": $mi-subscript,
+  "subscriptions": $mi-subscriptions,
+  "subtitles": $mi-subtitles,
+  "subtitles-off": $mi-subtitles-off,
+  "subway": $mi-subway,
+  "summarize": $mi-summarize,
+  "sunny": $mi-sunny,
+  "sunny-snowing": $mi-sunny-snowing,
+  "superscript": $mi-superscript,
+  "supervised-user-circle": $mi-supervised-user-circle,
+  "supervisor-account": $mi-supervisor-account,
+  "support": $mi-support,
+  "support-agent": $mi-support-agent,
+  "surfing": $mi-surfing,
+  "surround-sound": $mi-surround-sound,
+  "swap-calls": $mi-swap-calls,
+  "swap-horiz": $mi-swap-horiz,
+  "swap-horizontal-circle": $mi-swap-horizontal-circle,
+  "swap-vert": $mi-swap-vert,
+  "swap-vertical-circle": $mi-swap-vertical-circle,
+  "swipe": $mi-swipe,
+  "swipe-down": $mi-swipe-down,
+  "swipe-down-alt": $mi-swipe-down-alt,
+  "swipe-left": $mi-swipe-left,
+  "swipe-left-alt": $mi-swipe-left-alt,
+  "swipe-right": $mi-swipe-right,
+  "swipe-right-alt": $mi-swipe-right-alt,
+  "swipe-up": $mi-swipe-up,
+  "swipe-up-alt": $mi-swipe-up-alt,
+  "swipe-vertical": $mi-swipe-vertical,
+  "switch-access-shortcut": $mi-switch-access-shortcut,
+  "switch-access-shortcut-add": $mi-switch-access-shortcut-add,
+  "switch-account": $mi-switch-account,
+  "switch-camera": $mi-switch-camera,
+  "switch-left": $mi-switch-left,
+  "switch-right": $mi-switch-right,
+  "switch-video": $mi-switch-video,
+  "synagogue": $mi-synagogue,
+  "sync": $mi-sync,
+  "sync-alt": $mi-sync-alt,
+  "sync-disabled": $mi-sync-disabled,
+  "sync-lock": $mi-sync-lock,
+  "sync-problem": $mi-sync-problem,
+  "system-security-update": $mi-system-security-update,
+  "system-security-update-good": $mi-system-security-update-good,
+  "system-security-update-warning": $mi-system-security-update-warning,
+  "system-update": $mi-system-update,
+  "system-update-alt": $mi-system-update-alt,
+  "tab": $mi-tab,
+  "tab-unselected": $mi-tab-unselected,
+  "table-bar": $mi-table-bar,
+  "table-chart": $mi-table-chart,
+  "table-restaurant": $mi-table-restaurant,
+  "table-rows": $mi-table-rows,
+  "table-view": $mi-table-view,
+  "tablet": $mi-tablet,
+  "tablet-android": $mi-tablet-android,
+  "tablet-mac": $mi-tablet-mac,
+  "tag": $mi-tag,
+  "tag-faces": $mi-tag-faces,
+  "takeout-dining": $mi-takeout-dining,
+  "tap-and-play": $mi-tap-and-play,
+  "tapas": $mi-tapas,
+  "task": $mi-task,
+  "task-alt": $mi-task-alt,
+  "taxi-alert": $mi-taxi-alert,
+  "temple-buddhist": $mi-temple-buddhist,
+  "temple-hindu": $mi-temple-hindu,
+  "terminal": $mi-terminal,
+  "terrain": $mi-terrain,
+  "text-decrease": $mi-text-decrease,
+  "text-fields": $mi-text-fields,
+  "text-format": $mi-text-format,
+  "text-increase": $mi-text-increase,
+  "text-rotate-up": $mi-text-rotate-up,
+  "text-rotate-vertical": $mi-text-rotate-vertical,
+  "text-rotation-angledown": $mi-text-rotation-angledown,
+  "text-rotation-angleup": $mi-text-rotation-angleup,
+  "text-rotation-down": $mi-text-rotation-down,
+  "text-rotation-none": $mi-text-rotation-none,
+  "text-snippet": $mi-text-snippet,
+  "textsms": $mi-textsms,
+  "texture": $mi-texture,
+  "theater-comedy": $mi-theater-comedy,
+  "theaters": $mi-theaters,
+  "thermostat": $mi-thermostat,
+  "thermostat-auto": $mi-thermostat-auto,
+  "thumb-down": $mi-thumb-down,
+  "thumb-down-alt": $mi-thumb-down-alt,
+  "thumb-down-off-alt": $mi-thumb-down-off-alt,
+  "thumb-up": $mi-thumb-up,
+  "thumb-up-alt": $mi-thumb-up-alt,
+  "thumb-up-off-alt": $mi-thumb-up-off-alt,
+  "thumbs-up-down": $mi-thumbs-up-down,
+  "thunderstorm": $mi-thunderstorm,
+  "time-to-leave": $mi-time-to-leave,
+  "timelapse": $mi-timelapse,
+  "timeline": $mi-timeline,
+  "timer": $mi-timer,
+  "timer-10": $mi-timer-10,
+  "timer-10-select": $mi-timer-10-select,
+  "timer-3": $mi-timer-3,
+  "timer-3-select": $mi-timer-3-select,
+  "timer-off": $mi-timer-off,
+  "tips-and-updates": $mi-tips-and-updates,
+  "tire-repair": $mi-tire-repair,
+  "title": $mi-title,
+  "toc": $mi-toc,
+  "today": $mi-today,
+  "toggle-off": $mi-toggle-off,
+  "toggle-on": $mi-toggle-on,
+  "token": $mi-token,
+  "toll": $mi-toll,
+  "tonality": $mi-tonality,
+  "topic": $mi-topic,
+  "tornado": $mi-tornado,
+  "touch-app": $mi-touch-app,
+  "tour": $mi-tour,
+  "toys": $mi-toys,
+  "track-changes": $mi-track-changes,
+  "traffic": $mi-traffic,
+  "train": $mi-train,
+  "tram": $mi-tram,
+  "transcribe": $mi-transcribe,
+  "transfer-within-a-station": $mi-transfer-within-a-station,
+  "transform": $mi-transform,
+  "transgender": $mi-transgender,
+  "transit-enterexit": $mi-transit-enterexit,
+  "translate": $mi-translate,
+  "travel-explore": $mi-travel-explore,
+  "trending-down": $mi-trending-down,
+  "trending-flat": $mi-trending-flat,
+  "trending-up": $mi-trending-up,
+  "trip-origin": $mi-trip-origin,
+  "trolley": $mi-trolley,
+  "troubleshoot": $mi-troubleshoot,
+  "try": $mi-try,
+  "tsunami": $mi-tsunami,
+  "tty": $mi-tty,
+  "tune": $mi-tune,
+  "tungsten": $mi-tungsten,
+  "turn-left": $mi-turn-left,
+  "turn-right": $mi-turn-right,
+  "turn-sharp-left": $mi-turn-sharp-left,
+  "turn-sharp-right": $mi-turn-sharp-right,
+  "turn-slight-left": $mi-turn-slight-left,
+  "turn-slight-right": $mi-turn-slight-right,
+  "turned-in": $mi-turned-in,
+  "turned-in-not": $mi-turned-in-not,
+  "tv": $mi-tv,
+  "tv-off": $mi-tv-off,
+  "two-wheeler": $mi-two-wheeler,
+  "type-specimen": $mi-type-specimen,
+  "u-turn-left": $mi-u-turn-left,
+  "u-turn-right": $mi-u-turn-right,
+  "umbrella": $mi-umbrella,
+  "unarchive": $mi-unarchive,
+  "undo": $mi-undo,
+  "unfold-less": $mi-unfold-less,
+  "unfold-less-double": $mi-unfold-less-double,
+  "unfold-more": $mi-unfold-more,
+  "unfold-more-double": $mi-unfold-more-double,
+  "unpublished": $mi-unpublished,
+  "unsubscribe": $mi-unsubscribe,
+  "upcoming": $mi-upcoming,
+  "update": $mi-update,
+  "update-disabled": $mi-update-disabled,
+  "upgrade": $mi-upgrade,
+  "upload": $mi-upload,
+  "upload-file": $mi-upload-file,
+  "usb": $mi-usb,
+  "usb-off": $mi-usb-off,
+  "vaccines": $mi-vaccines,
+  "vape-free": $mi-vape-free,
+  "vaping-rooms": $mi-vaping-rooms,
+  "verified": $mi-verified,
+  "verified-user": $mi-verified-user,
+  "vertical-align-bottom": $mi-vertical-align-bottom,
+  "vertical-align-center": $mi-vertical-align-center,
+  "vertical-align-top": $mi-vertical-align-top,
+  "vertical-distribute": $mi-vertical-distribute,
+  "vertical-shades": $mi-vertical-shades,
+  "vertical-shades-closed": $mi-vertical-shades-closed,
+  "vertical-split": $mi-vertical-split,
+  "vibration": $mi-vibration,
+  "video-call": $mi-video-call,
+  "video-camera-back": $mi-video-camera-back,
+  "video-camera-front": $mi-video-camera-front,
+  "video-chat": $mi-video-chat,
+  "video-file": $mi-video-file,
+  "video-label": $mi-video-label,
+  "video-library": $mi-video-library,
+  "video-settings": $mi-video-settings,
+  "video-stable": $mi-video-stable,
+  "videocam": $mi-videocam,
+  "videocam-off": $mi-videocam-off,
+  "videogame-asset": $mi-videogame-asset,
+  "videogame-asset-off": $mi-videogame-asset-off,
+  "view-agenda": $mi-view-agenda,
+  "view-array": $mi-view-array,
+  "view-carousel": $mi-view-carousel,
+  "view-column": $mi-view-column,
+  "view-comfy": $mi-view-comfy,
+  "view-comfy-alt": $mi-view-comfy-alt,
+  "view-compact": $mi-view-compact,
+  "view-compact-alt": $mi-view-compact-alt,
+  "view-cozy": $mi-view-cozy,
+  "view-day": $mi-view-day,
+  "view-headline": $mi-view-headline,
+  "view-in-ar": $mi-view-in-ar,
+  "view-kanban": $mi-view-kanban,
+  "view-list": $mi-view-list,
+  "view-module": $mi-view-module,
+  "view-quilt": $mi-view-quilt,
+  "view-sidebar": $mi-view-sidebar,
+  "view-stream": $mi-view-stream,
+  "view-timeline": $mi-view-timeline,
+  "view-week": $mi-view-week,
+  "vignette": $mi-vignette,
+  "villa": $mi-villa,
+  "visibility": $mi-visibility,
+  "visibility-off": $mi-visibility-off,
+  "voice-chat": $mi-voice-chat,
+  "voice-over-off": $mi-voice-over-off,
+  "voicemail": $mi-voicemail,
+  "volcano": $mi-volcano,
+  "volume-down": $mi-volume-down,
+  "volume-down-alt": $mi-volume-down-alt,
+  "volume-mute": $mi-volume-mute,
+  "volume-off": $mi-volume-off,
+  "volume-up": $mi-volume-up,
+  "volunteer-activism": $mi-volunteer-activism,
+  "vpn-key": $mi-vpn-key,
+  "vpn-key-off": $mi-vpn-key-off,
+  "vpn-lock": $mi-vpn-lock,
+  "vrpano": $mi-vrpano,
+  "wallet": $mi-wallet,
+  "wallpaper": $mi-wallpaper,
+  "warehouse": $mi-warehouse,
+  "warning": $mi-warning,
+  "warning-amber": $mi-warning-amber,
+  "wash": $mi-wash,
+  "watch": $mi-watch,
+  "watch-later": $mi-watch-later,
+  "watch-off": $mi-watch-off,
+  "water": $mi-water,
+  "water-damage": $mi-water-damage,
+  "water-drop": $mi-water-drop,
+  "waterfall-chart": $mi-waterfall-chart,
+  "waves": $mi-waves,
+  "waving-hand": $mi-waving-hand,
+  "wb-auto": $mi-wb-auto,
+  "wb-cloudy": $mi-wb-cloudy,
+  "wb-incandescent": $mi-wb-incandescent,
+  "wb-iridescent": $mi-wb-iridescent,
+  "wb-shade": $mi-wb-shade,
+  "wb-sunny": $mi-wb-sunny,
+  "wb-twighlight": $mi-wb-twighlight,
+  "wb-twilight": $mi-wb-twilight,
+  "wc": $mi-wc,
+  "web": $mi-web,
+  "web-asset": $mi-web-asset,
+  "web-asset-off": $mi-web-asset-off,
+  "web-stories": $mi-web-stories,
+  "webhook": $mi-webhook,
+  "weekend": $mi-weekend,
+  "west": $mi-west,
+  "whatsapp": $mi-whatsapp,
+  "whatshot": $mi-whatshot,
+  "wheelchair-pickup": $mi-wheelchair-pickup,
+  "where-to-vote": $mi-where-to-vote,
+  "widgets": $mi-widgets,
+  "width-full": $mi-width-full,
+  "width-normal": $mi-width-normal,
+  "width-wide": $mi-width-wide,
+  "wifi": $mi-wifi,
+  "wifi-1-bar": $mi-wifi-1-bar,
+  "wifi-2-bar": $mi-wifi-2-bar,
+  "wifi-calling": $mi-wifi-calling,
+  "wifi-calling-1": $mi-wifi-calling-1,
+  "wifi-calling-2": $mi-wifi-calling-2,
+  "wifi-calling-3": $mi-wifi-calling-3,
+  "wifi-channel": $mi-wifi-channel,
+  "wifi-find": $mi-wifi-find,
+  "wifi-lock": $mi-wifi-lock,
+  "wifi-off": $mi-wifi-off,
+  "wifi-password": $mi-wifi-password,
+  "wifi-protected-setup": $mi-wifi-protected-setup,
+  "wifi-tethering": $mi-wifi-tethering,
+  "wifi-tethering-error": $mi-wifi-tethering-error,
+  "wifi-tethering-error-rounded": $mi-wifi-tethering-error-rounded,
+  "wifi-tethering-off": $mi-wifi-tethering-off,
+  "wind-power": $mi-wind-power,
+  "window": $mi-window,
+  "wine-bar": $mi-wine-bar,
+  "woman": $mi-woman,
+  "woman-2": $mi-woman-2,
+  "work": $mi-work,
+  "work-history": $mi-work-history,
+  "work-off": $mi-work-off,
+  "work-outline": $mi-work-outline,
+  "workspace-premium": $mi-workspace-premium,
+  "workspaces": $mi-workspaces,
+  "workspaces-filled": $mi-workspaces-filled,
+  "workspaces-outline": $mi-workspaces-outline,
+  "wrap-text": $mi-wrap-text,
+  "wrong-location": $mi-wrong-location,
+  "wysiwyg": $mi-wysiwyg,
+  "yard": $mi-yard,
+  "youtube-searched-for": $mi-youtube-searched-for,
+  "zoom-in": $mi-zoom-in,
+  "zoom-in-map": $mi-zoom-in-map,
+  "zoom-out": $mi-zoom-out,
+  "zoom-out-map": $mi-zoom-out-map,
+);
