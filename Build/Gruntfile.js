@@ -283,7 +283,6 @@ module.exports = function (grunt) {
    */
   grunt.registerTask('clone', 'Check if source SVG is present.', function () {
     const svgSource = grunt.config('paths.svgSource') || null;
-    grunt.config('paths.sourceJs')
     if (!grunt.file.isDir(svgSource)) {
       grunt.log.writeln('Missing source SVG, cloning...');
       grunt.task.run('shell:vendor');
